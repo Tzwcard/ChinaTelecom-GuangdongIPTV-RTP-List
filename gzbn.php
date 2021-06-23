@@ -45,7 +45,33 @@ function _jump_gzbn_broadcast_m3u8($channel) {
   header("Location: " . $m3u8_uri);
 }
 
-$all_channels = _get_gzbn_broadcast_list();
+// NEW API
+function _get_gzbn_broadcast_list_newapi() {
+  return [
+    'general' => 'zhonghe',
+    'news' => 'xinwen',
+    'legal' => 'fazhi',
+    'sport' => 'jingsai',
+    'drama' => 'yingshi',
+    'uhd' => 'shenghuo',
+  ];
+}
+
+function _jump_gzbn_broadcast_m3u8_newapi($channelname) {
+  $progapi = 'https://www.gztv.com/gztv/api/tv/';
+  $apidata = _curl_get($progapi . $channelname);
+  
+  $apidata = json_decode($apidata, 1);
+  if ($apidata && $apidata['code'] == 200) {
+    header ("Location: " . $apidata ['data']);
+    return ;
+  }
+  
+  return ;
+
+}
+
+$all_channels = _get_gzbn_broadcast_list_newapi();
 $channel_names = [
   'general' => '综合',
   'news' => '新闻',
@@ -54,14 +80,10 @@ $channel_names = [
   'legal' => '法治',
   'uhd' => '南国都市',
 ];
-if (isset($_GET['get_channel']) && isset($channel_names[$_GET['get_channel']])) {
-  $needle = $channel_names[$_GET['get_channel']];
-  foreach ($all_channels as $channel) {
-    if (strpos($channel['name'], $needle) !== false) {
-      _jump_gzbn_broadcast_m3u8($channel);
-      return ;
-    }
-  }
+if (isset($_GET['get_channel']) && isset($all_channels[$_GET['get_channel']])) {
+  $channel = $all_channels[$_GET['get_channel']];
+  _jump_gzbn_broadcast_m3u8_newapi($channel);
+  return ;
 }
 
 http_response_code(404);
