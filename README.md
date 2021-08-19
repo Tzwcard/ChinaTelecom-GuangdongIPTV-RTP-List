@@ -10,3 +10,5 @@
 
 增加一个gzbn.php，可以直接调用GZBN的直播api拿m3u8地址。虽然上面的源1080的出来720，4K的出来1080，但是等广州台重新回IPTV上之前先顶住吧。<br>
 用法：gzbn.php?get_channel=\<general|news|drama|sport|legal|uhd\>。
+
+增加一个GuangdongIPTV_rtp_probe.txt，是ffprobe扫一遍两个组播IP段得出来的视频/音频流数据。<br>
