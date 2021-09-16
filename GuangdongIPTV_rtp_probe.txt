@@ -359,7 +359,7 @@
 239.77.1.148:5146	HD (V: h264; A: mp2@2ch)
 239.77.1.149:5146	HD (V: cavs; A: ac3@6ch)
 239.77.1.150:5146	HD (V: cavs; A: ac3@6ch)
-239.77.1.151:5146	HD (V: mpeg2video; A: eac3@6ch)
+239.77.1.151:5146	HD (V: mpeg2video; A: ac3@6ch)
 239.77.1.152:5146	HD (V: mpeg2video; A: ac3@6ch)
 239.77.1.153:5146	HD (V: cavs; A: ac3@6ch)
 239.77.1.154:5146	SD (V: h264; A: mp2@2ch)
