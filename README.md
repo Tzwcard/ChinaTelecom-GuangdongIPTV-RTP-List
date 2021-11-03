@@ -12,3 +12,5 @@
 用法：gzbn.php?get_channel=\<general|news|drama|sport|legal|uhd\>。
 
 增加一个GuangdongIPTV_rtp_probe.txt，是ffprobe扫一遍两个组播IP段得出来的视频/音频流数据。<br>
+
+增加一个epg.xml，是通过扫gdtv和cntv的epg api再整理出来的xmltv。其他没有的台也欢迎留言反馈下哪里能有可用的官方api来获取epg。<br>
