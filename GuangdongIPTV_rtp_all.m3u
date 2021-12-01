@@ -417,6 +417,8 @@ rtp://239.77.0.134:5146
 rtp://239.77.0.40:5146
 #EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11
 rtp://239.77.1.42:5146
+#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11
+rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
 rtp://239.77.1.238:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12社会与法
@@ -454,13 +456,7 @@ rtp://239.77.1.11:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
 rtp://239.77.1.239:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
-rtp://239.77.0.241:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
 rtp://239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.0.233:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.0.232:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17
@@ -1042,11 +1038,15 @@ rtp://239.77.1.192:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.185:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.232:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.234:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.156:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.186:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.233:5146
 #EXTINF:-1,直播室101
 rtp://239.253.43.217:5146
 #EXTINF:-1,直播室102
