@@ -14,3 +14,5 @@
 增加一个GuangdongIPTV_rtp_probe.txt，是ffprobe扫一遍两个组播IP段得出来的视频/音频流数据。<br>
 
 增加一个epg.xml，是通过扫gdtv和cntv的epg api再整理出来的xmltv。其他没有的台也欢迎留言反馈下哪里能有可用的官方api来获取epg。<br>
+
+增加GuangdongIPTV_rtp_{sd/hd/4k}.m3u，是根据ffprobe得出来的结果生成的sd/hd/4k信号播放列表。因为ffprobe有时候会获取不到流分辨率，这种情况下它会把4K或者高清台放到标清列表里，所以列表不一定准确，按实际播放的信号为准。<br>
