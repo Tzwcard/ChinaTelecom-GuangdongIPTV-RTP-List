@@ -65,6 +65,8 @@ rtp://239.77.1.244:5146
 rtp://239.77.1.178:5146
 #EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道高清
 rtp://239.77.1.126:5146
+#EXTINF:-1 tvg-name="深圳宝安频道" group-title="IPTV-深圳电视台",深圳宝安频道高清
+rtp://239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 rtp://239.77.1.223:5146
 #EXTINF:-1 tvg-name="深圳东部频道" group-title="IPTV-深圳电视台",深圳东部频道高清
@@ -149,6 +151,10 @@ rtp://239.253.43.55:5146
 rtp://239.253.43.54:5146
 #EXTINF:-1 tvg-name="中山综合" group-title="IPTV-广东地方台",中山综合高清
 rtp://239.253.43.62:5146
+#EXTINF:-1 tvg-name="中山公共" group-title="IPTV-广东地方台",中山公共高清
+rtp://239.253.43.63:5146
+#EXTINF:-1 tvg-name="中山教育" group-title="IPTV-广东地方台",中山教育高清
+rtp://239.253.43.64:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
