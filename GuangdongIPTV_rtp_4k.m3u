@@ -12,12 +12,6 @@ rtp://239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 rtp://239.77.0.252:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.0.232:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
 rtp://239.77.1.98:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.0.208:5146
 #EXTINF:-1,极k影视-测试
 rtp://239.253.43.218:5146
-#EXTINF:-1,极K精选-测试
-rtp://239.77.0.231:5146
