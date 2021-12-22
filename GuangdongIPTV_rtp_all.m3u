@@ -417,8 +417,6 @@ rtp://239.77.0.134:5146
 rtp://239.77.0.40:5146
 #EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11
 rtp://239.77.1.42:5146
-#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11
-rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
 rtp://239.77.1.238:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12社会与法
@@ -913,6 +911,8 @@ rtp://239.77.1.112:5146
 rtp://239.77.0.212:5146
 #EXTINF:-1,靓妆
 rtp://239.77.1.118:5146
+#EXTINF:-1,求索纪录高清
+rtp://239.77.0.241:5146
 #EXTINF:-1,求索生活高清
 rtp://239.77.0.153:5146
 #EXTINF:-1,中华美食高清
