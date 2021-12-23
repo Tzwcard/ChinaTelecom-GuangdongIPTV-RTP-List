@@ -84,6 +84,8 @@ rtp://239.77.0.196:5146
 #EXTINF:-1 tvg-name="江门教育" group-title="IPTV-广东地方台",江门教育
 rtp://239.77.0.197:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1
+rtp://239.77.0.247:5146
+#EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1
 rtp://239.77.1.154:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2
 rtp://239.77.0.248:5146
@@ -193,6 +195,8 @@ rtp://239.77.1.43:5146
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
 rtp://239.77.1.11:5146
+#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
+rtp://239.77.1.98:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17
