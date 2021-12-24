@@ -79,6 +79,8 @@ rtp://239.77.1.87:5146
 rtp://239.77.0.117:5146
 #EXTINF:-1 tvg-name="韶关公共" group-title="IPTV-广东地方台",韶关公共高清
 rtp://239.77.0.119:5146
+#EXTINF:-1 tvg-name="湛江" group-title="IPTV-广东地方台",湛江公共高清
+rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-name="湛江" group-title="IPTV-广东地方台",湛江高清
 rtp://239.77.0.141:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
@@ -483,5 +485,9 @@ rtp://239.77.1.107:5146
 rtp://239.77.1.209:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.185:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.186:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
