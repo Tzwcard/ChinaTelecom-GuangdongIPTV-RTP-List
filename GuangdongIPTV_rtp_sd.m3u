@@ -193,8 +193,6 @@ rtp://239.77.1.43:5146
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
 rtp://239.77.1.11:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.1.98:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17
@@ -421,12 +419,6 @@ rtp://239.77.1.112:5146
 rtp://239.77.0.212:5146
 #EXTINF:-1,靓妆
 rtp://239.77.1.118:5146
-#EXTINF:-1,梨园频道
-rtp://239.77.1.100:5146
-#EXTINF:-1,武术世界
-rtp://239.77.1.108:5146
-#EXTINF:-1,文物宝库
-rtp://239.77.1.101:5146
 #EXTINF:-1,国学
 rtp://239.77.0.226:5146
 #EXTINF:-1,国学频道
