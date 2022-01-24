@@ -89,25 +89,25 @@ rtp://239.77.0.246:5146
 rtp://239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 rtp://239.77.0.252:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州综合频道
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州综合
 rtp://239.253.43.66:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州新闻频道
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州新闻
 rtp://239.253.43.67:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州影视频道
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州影视
 rtp://239.253.43.68:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州法治频道
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州法治
 rtp://239.253.43.69:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州竞赛频道
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州综合频道高清
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州综合高清
 rtp://239.253.43.71:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州新闻频道高清
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州新闻高清
 rtp://239.253.43.72:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州影视频道高清
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州影视高清
 rtp://239.253.43.73:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州法治频道高清
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州法治高清
 rtp://239.253.43.74:5146
-#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州竞赛频道高清
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州竞赛高清
 rtp://239.253.43.75:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
