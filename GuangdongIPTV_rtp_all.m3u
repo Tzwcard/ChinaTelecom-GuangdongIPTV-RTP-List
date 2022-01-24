@@ -89,6 +89,26 @@ rtp://239.77.0.246:5146
 rtp://239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 rtp://239.77.0.252:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州综合频道
+rtp://239.253.43.66:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州新闻频道
+rtp://239.253.43.67:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州影视频道
+rtp://239.253.43.68:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州法治频道
+rtp://239.253.43.69:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州竞赛频道
+rtp://239.253.43.70:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州综合频道高清
+rtp://239.253.43.71:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州新闻频道高清
+rtp://239.253.43.72:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州影视频道高清
+rtp://239.253.43.73:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州法治频道高清
+rtp://239.253.43.74:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州竞赛频道高清
+rtp://239.253.43.75:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -1031,26 +1051,6 @@ rtp://239.77.1.184:5146
 rtp://239.77.1.185:5146
 #EXTINF:-1,PPTV-4
 rtp://239.77.1.186:5146
-#EXTINF:-1,Unknown@239.253.43.66:5146
-rtp://239.253.43.66:5146
-#EXTINF:-1,Unknown@239.253.43.67:5146
-rtp://239.253.43.67:5146
-#EXTINF:-1,Unknown@239.253.43.68:5146
-rtp://239.253.43.68:5146
-#EXTINF:-1,Unknown@239.253.43.69:5146
-rtp://239.253.43.69:5146
-#EXTINF:-1,Unknown@239.253.43.70:5146
-rtp://239.253.43.70:5146
-#EXTINF:-1,Unknown@239.253.43.71:5146
-rtp://239.253.43.71:5146
-#EXTINF:-1,Unknown@239.253.43.72:5146
-rtp://239.253.43.72:5146
-#EXTINF:-1,Unknown@239.253.43.73:5146
-rtp://239.253.43.73:5146
-#EXTINF:-1,Unknown@239.253.43.74:5146
-rtp://239.253.43.74:5146
-#EXTINF:-1,Unknown@239.253.43.75:5146
-rtp://239.253.43.75:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,九频同播频道
@@ -1058,17 +1058,17 @@ rtp://239.0.10.115:5115
 #EXTINF:-1,卫星信号传输故障高清
 rtp://239.77.1.240:5146
 #EXTINF:-1,四屏同播
-rtp://239.77.1.209:5146
-#EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
 #EXTINF:-1,四屏同播
+rtp://239.77.1.209:5146
+#EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.185:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.234:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.156:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.185:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.186:5146
 #EXTINF:-1,广东IPTV广告

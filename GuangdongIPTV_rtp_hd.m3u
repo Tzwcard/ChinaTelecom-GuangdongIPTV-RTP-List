@@ -35,6 +35,16 @@ rtp://239.77.0.179:5146
 rtp://239.77.0.19:5146
 #EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
 rtp://239.77.0.22:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州综合频道高清
+rtp://239.253.43.71:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州新闻频道高清
+rtp://239.253.43.72:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州影视频道高清
+rtp://239.253.43.73:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州法治频道高清
+rtp://239.253.43.74:5146
+#EXTINF:-1 tvg-name="广州" group-title="IPTV-广东电视台",广州竞赛频道高清
+rtp://239.253.43.75:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 rtp://239.77.1.3:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
@@ -477,22 +487,12 @@ rtp://239.77.1.226:5146
 rtp://239.77.1.116:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
 rtp://239.77.0.176:5146
-#EXTINF:-1,Unknown@239.253.43.71:5146
-rtp://239.253.43.71:5146
-#EXTINF:-1,Unknown@239.253.43.72:5146
-rtp://239.253.43.72:5146
-#EXTINF:-1,Unknown@239.253.43.73:5146
-rtp://239.253.43.73:5146
-#EXTINF:-1,Unknown@239.253.43.74:5146
-rtp://239.253.43.74:5146
-#EXTINF:-1,Unknown@239.253.43.75:5146
-rtp://239.253.43.75:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
-rtp://239.77.1.209:5146
-#EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
+#EXTINF:-1,四屏同播
+rtp://239.77.1.209:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
 #EXTINF:-1,广东IPTV广告
