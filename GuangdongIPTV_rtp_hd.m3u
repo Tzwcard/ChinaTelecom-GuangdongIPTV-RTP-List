@@ -1,7 +1,5 @@
 #EXTM3U name="广东电信IPTV"
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-rtp://239.77.1.19:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.152:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.0.84:5146
@@ -31,8 +29,6 @@ rtp://239.77.0.217:5146
 rtp://239.77.0.250:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通高清
 rtp://239.77.0.179:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
-rtp://239.77.0.19:5146
 #EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
 rtp://239.77.0.22:5146
 #EXTINF:-1 tvg-name="广州" group-title="IPTV-广州电视台",广州综合高清
@@ -93,8 +89,6 @@ rtp://239.77.0.119:5146
 rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-name="湛江" group-title="IPTV-广东地方台",湛江高清
 rtp://239.77.0.141:5146
-#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
-rtp://239.77.0.229:5146
 #EXTINF:-1 tvg-name="揭阳公共" group-title="IPTV-广东地方台",揭阳公共高清
 rtp://239.77.0.251:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合高清
@@ -107,6 +101,8 @@ rtp://239.77.0.203:5146
 rtp://239.77.1.232:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2高清
 rtp://239.77.1.233:5146
+#EXTINF:-1 tvg-name="汕尾1" group-title="IPTV-广东地方台",汕尾1高清
+rtp://239.77.0.25:5146
 #EXTINF:-1 tvg-name="汕尾2" group-title="IPTV-广东地方台",汕尾2高清
 rtp://239.77.0.187:5146
 #EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1高清
@@ -165,6 +161,8 @@ rtp://239.253.43.64:5146
 rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.144:5146
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
+rtp://239.77.0.86:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1超清
 rtp://239.77.0.129:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
@@ -209,6 +207,8 @@ rtp://239.77.0.172:5146
 rtp://239.77.0.181:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
 rtp://239.77.1.160:5146
+#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清 (CAVS)
+rtp://239.77.1.168:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清测试
 rtp://239.77.0.135:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
@@ -292,8 +292,6 @@ rtp://239.77.1.157:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
 rtp://239.77.0.183:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
-rtp://239.77.1.4:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 rtp://239.77.1.151:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 rtp://239.77.0.91:5146
@@ -341,8 +339,6 @@ rtp://239.77.0.93:5146
 rtp://239.77.0.124:5146
 #EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
 rtp://239.77.1.221:5146
-#EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
-rtp://239.77.0.230:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
 rtp://239.77.1.215:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
@@ -391,8 +387,6 @@ rtp://239.77.0.200:5146
 rtp://239.77.0.180:5146
 #EXTINF:-1 tvg-name="中国交通",中国交通
 rtp://239.77.1.249:5146
-#EXTINF:-1 tvg-name="茶",茶
-rtp://239.77.0.15:5146
 #EXTINF:-1 tvg-name="茶",茶频道高清
 rtp://239.77.1.207:5146
 #EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
@@ -429,8 +423,6 @@ rtp://239.253.43.29:5146
 rtp://239.253.43.6:5146
 #EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
 rtp://239.253.43.28:5146
-#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
-rtp://239.253.43.15:5146
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
 rtp://239.253.43.25:5146
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
@@ -440,9 +432,9 @@ rtp://239.253.43.26:5146
 #EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场高清
 rtp://239.253.43.16:5146
 #EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
+rtp://239.253.43.24:5146
+#EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
 rtp://239.253.43.7:5146
-#EXTINF:-1 tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
-rtp://239.253.43.19:5146
 #EXTINF:-1 tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
 rtp://239.253.43.10:5146
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
@@ -473,8 +465,6 @@ rtp://239.253.43.40:5146
 rtp://239.77.1.133:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.220:5146
-#EXTINF:-1,天翼高清
-rtp://239.77.1.226:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
 rtp://239.77.1.116:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
