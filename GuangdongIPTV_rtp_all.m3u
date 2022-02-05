@@ -383,7 +383,7 @@ rtp://239.77.1.146:5146
 rtp://239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
 rtp://239.77.1.31:5146
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清 (CAVS)
 rtp://239.77.1.147:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6电影
 rtp://239.0.10.54:5054
