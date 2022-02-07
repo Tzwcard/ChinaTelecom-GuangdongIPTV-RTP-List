@@ -167,8 +167,6 @@ rtp://239.77.1.41:5146
 rtp://239.77.0.34:5146
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+
 rtp://239.77.1.146:5146
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清 (CAVS)
-rtp://239.77.1.147:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6电影
 rtp://239.77.0.35:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7国防军事
