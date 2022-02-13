@@ -383,8 +383,6 @@ rtp://239.77.1.111:5146
 rtp://239.77.0.150:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
 rtp://239.253.43.35:5146
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="IPTV-卫视",甘肃卫视高清
-rtp://239.77.0.189:5146
 #EXTINF:-1 tvg-name="金鹰卡通",金鹰卡通高清
 rtp://239.77.0.164:5146
 #EXTINF:-1 tvg-name="CETV-1",CETV-1高清
