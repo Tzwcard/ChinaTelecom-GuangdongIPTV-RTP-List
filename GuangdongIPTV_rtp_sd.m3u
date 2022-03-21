@@ -501,6 +501,8 @@ rtp://239.77.0.109:5146
 rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
 rtp://239.77.0.111:5146
+#EXTINF:-1,EBU
+rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
