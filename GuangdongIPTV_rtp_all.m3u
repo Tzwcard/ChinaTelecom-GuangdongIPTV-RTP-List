@@ -645,7 +645,7 @@ rtp://239.77.1.30:5146
 rtp://239.77.1.215:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
 rtp://239.77.0.159:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清
 rtp://239.77.0.163:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
 rtp://239.77.0.61:5146
@@ -877,7 +877,7 @@ rtp://239.77.1.110:5146
 rtp://239.77.1.217:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清测试
 rtp://239.77.0.160:5146
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试
 rtp://239.77.0.162:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
 rtp://239.77.1.216:5146
