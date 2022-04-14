@@ -129,6 +129,8 @@ rtp://239.253.43.32:5146
 rtp://239.253.43.195:5146
 #EXTINF:-1 tvg-name="云浮公共" group-title="IPTV-广东地方台",云浮公共
 rtp://239.253.43.194:5146
+#EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合
+rtp://239.77.0.204:5146
 #EXTINF:-1 tvg-name="茂名公共" group-title="IPTV-广东地方台",茂名公共
 rtp://239.77.0.205:5146
 #EXTINF:-1 tvg-name="佛山综合" group-title="IPTV-广东地方台",佛山综合
