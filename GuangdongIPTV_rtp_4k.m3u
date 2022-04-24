@@ -15,3 +15,7 @@ rtp://239.77.0.252:5146
 rtp://239.77.1.98:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
 rtp://239.77.0.232:5146
+#EXTINF:-1,网络通道1HD
+rtp://239.77.0.194:5146
+#EXTINF:-1,网络通道2HD
+rtp://239.77.0.174:5146

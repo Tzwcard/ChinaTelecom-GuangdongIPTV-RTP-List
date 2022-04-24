@@ -497,6 +497,10 @@ rtp://239.77.0.240:5146
 rtp://239.77.1.200:5146
 #EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
 rtp://239.253.43.40:5146
+#EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园频道
+rtp://239.77.1.100:5146
+#EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界
+rtp://239.77.1.108:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
 rtp://239.77.1.116:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
@@ -515,3 +519,5 @@ rtp://239.77.1.226:5146
 rtp://239.77.1.220:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.185:5146
+#EXTINF:-1,网络通道5HD
+rtp://239.77.1.120:5146
