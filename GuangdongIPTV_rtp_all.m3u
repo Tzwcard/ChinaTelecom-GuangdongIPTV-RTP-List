@@ -109,6 +109,8 @@ rtp://239.253.43.74:5146
 rtp://239.253.43.70:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛高清
 rtp://239.253.43.75:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学一
 rtp://239.253.43.76:5146
 #EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学二
@@ -505,6 +507,10 @@ rtp://239.77.1.123:5146
 rtp://239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
 rtp://239.77.0.198:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+rtp://239.77.0.194:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
+rtp://239.77.0.174:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
 rtp://239.77.0.232:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
@@ -959,16 +965,16 @@ rtp://239.77.1.200:5146
 rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园
 rtp://239.77.0.210:5146
-#EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园频道
+#EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园频道高清
 rtp://239.77.1.100:5146
 #EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界
 rtp://239.77.0.216:5146
-#EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界
+#EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
 rtp://239.77.1.108:5146
 #EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
 rtp://239.77.0.227:5146
-#EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
-rtp://239.77.1.101:5146
+#EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
+rtp://239.77.1.120:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
@@ -979,9 +985,9 @@ rtp://239.77.1.208:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
-#EXTINF:-1 tvg-name="家政" group-title="IPTV-数字付费",家政
+#EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.77.1.135:5146
-#EXTINF:-1 tvg-name="家政" group-title="IPTV-数字付费",家政
+#EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.253.43.58:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1
 rtp://239.77.1.75:5146
@@ -1064,17 +1070,19 @@ rtp://239.0.10.115:5115
 #EXTINF:-1,卫星信号传输故障高清
 rtp://239.77.1.240:5146
 #EXTINF:-1,四屏同播
-rtp://239.77.1.209:5146
-#EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
-#EXTINF:-1,天翼高清
-rtp://239.77.1.226:5146
+#EXTINF:-1,四屏同播
+rtp://239.77.1.209:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.220:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.133:5146
+#EXTINF:-1,天翼高清
+rtp://239.77.1.226:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.234:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.165:5146
 #EXTINF:-1,广东IPTV广告
@@ -1082,21 +1090,17 @@ rtp://239.77.0.208:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.185:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.234:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.156:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.186:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
 #EXTINF:-1,极K精选-测试
 rtp://239.77.0.231:5146
 #EXTINF:-1,极k影视-测试
 rtp://239.253.43.218:5146
 #EXTINF:-1,爱上4K
 rtp://239.253.43.219:5146
+#EXTINF:-1,百事通广告
+rtp://239.77.0.185:5146
 #EXTINF:-1,直播室101
 rtp://239.253.43.217:5146
 #EXTINF:-1,直播室102
@@ -1119,17 +1123,11 @@ rtp://239.253.43.161:5146
 rtp://239.253.43.162:5146
 #EXTINF:-1,直播室111
 rtp://239.253.43.163:5146
-#EXTINF:-1,网络通道1HD
-rtp://239.77.0.194:5146
-#EXTINF:-1,网络通道2HD
-rtp://239.77.0.174:5146
 #EXTINF:-1,网络通道3HD
 rtp://239.77.1.187:5146
 #EXTINF:-1,网络通道4HD
 rtp://239.77.0.235:5146
-#EXTINF:-1,网络通道5HD
-rtp://239.77.1.120:5146
-#EXTINF:-1,网络通道6HD
+#EXTINF:-1,频道已停止播出
 rtp://239.77.1.122:5146
 #EXTINF:-1,频道已停止播出
 rtp://239.77.1.114:5146

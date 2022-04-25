@@ -439,9 +439,9 @@ rtp://239.77.1.208:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
-#EXTINF:-1 tvg-name="家政" group-title="IPTV-数字付费",家政
+#EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.77.1.135:5146
-#EXTINF:-1 tvg-name="家政" group-title="IPTV-数字付费",家政
+#EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.253.43.58:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1
 rtp://239.77.1.75:5146
@@ -515,9 +515,7 @@ rtp://239.77.0.208:5146
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.186:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
-#EXTINF:-1,网络通道6HD
+#EXTINF:-1,频道已停止播出
 rtp://239.77.1.122:5146
 #EXTINF:-1,频道已停止播出
 rtp://239.77.1.114:5146
