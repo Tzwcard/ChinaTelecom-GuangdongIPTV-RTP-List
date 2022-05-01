@@ -87,8 +87,6 @@ rtp://239.77.0.157:5146
 rtp://239.77.0.158:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合
 rtp://239.77.0.195:5146
-#EXTINF:-1 tvg-name="江门公共" group-title="IPTV-广东地方台",江门公共
-rtp://239.77.0.196:5146
 #EXTINF:-1 tvg-name="江门教育" group-title="IPTV-广东地方台",江门教育
 rtp://239.77.0.197:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1
@@ -113,8 +111,6 @@ rtp://239.253.43.3:5146
 rtp://239.253.43.4:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
 rtp://239.253.43.215:5146
-#EXTINF:-1 tvg-name="河源公共" group-title="IPTV-广东地方台",河源公共
-rtp://239.253.43.216:5146
 #EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合
 rtp://239.253.43.30:5146
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活
@@ -125,8 +121,6 @@ rtp://239.253.43.44:5146
 rtp://239.253.43.31:5146
 #EXTINF:-1 tvg-name="清远公共" group-title="IPTV-广东地方台",清远公共
 rtp://239.253.43.32:5146
-#EXTINF:-1 tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合
-rtp://239.253.43.195:5146
 #EXTINF:-1 tvg-name="云浮公共" group-title="IPTV-广东地方台",云浮公共
 rtp://239.253.43.194:5146
 #EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合
