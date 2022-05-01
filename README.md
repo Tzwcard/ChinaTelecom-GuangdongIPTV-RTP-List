@@ -18,3 +18,5 @@
 - http://epg.51zmt.top:8000/
 
 增加GuangdongIPTV_rtp_{sd/hd/4k}.m3u，是根据ffprobe得出来的结果生成的sd/hd/4k信号播放列表。因为ffprobe有时候会获取不到流分辨率，这种情况下它会把4K或者高清台放到标清列表里，所以列表不一定准确，按实际播放的信号为准。<br>
+
+（最近由于墙又高了定时自动commit可能会不好使。）
