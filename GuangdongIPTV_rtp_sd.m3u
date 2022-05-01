@@ -422,6 +422,8 @@ rtp://239.253.43.38:5146
 #EXTINF:-1 tvg-name="新动漫" group-title="IPTV-数字付费",新动漫
 rtp://239.77.1.136:5146
 #EXTINF:-1 tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
+rtp://239.77.0.211:5146
+#EXTINF:-1 tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
 rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.0.212:5146
@@ -513,7 +515,3 @@ rtp://239.77.0.208:5146
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.186:5146
-#EXTINF:-1,频道已停止播出
-rtp://239.77.1.122:5146
-#EXTINF:-1,频道已停止播出
-rtp://239.77.1.114:5146

@@ -171,8 +171,6 @@ rtp://239.77.0.206:5146
 rtp://239.77.0.207:5146
 #EXTINF:-1 tvg-name="佛山综合" group-title="IPTV-广东地方台",佛山综合高清
 rtp://239.253.43.57:5146
-#EXTINF:-1 tvg-name="佛山公共" group-title="IPTV-广东地方台",佛山公共高清
-rtp://239.253.43.53:5146
 #EXTINF:-1 tvg-name="佛山影视" group-title="IPTV-广东地方台",佛山影视高清
 rtp://239.253.43.56:5146
 #EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德高清
@@ -377,8 +375,6 @@ rtp://239.77.0.163:5146
 rtp://239.77.1.229:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
 rtp://239.77.0.17:5146
-#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
-rtp://239.253.43.37:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
 rtp://239.77.1.162:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清 (CAVS)
@@ -521,3 +517,7 @@ rtp://239.77.1.220:5146
 rtp://239.77.1.226:5146
 #EXTINF:-1,百事通广告
 rtp://239.77.0.185:5146
+#EXTINF:-1,频道已停止播出
+rtp://239.77.1.122:5146
+#EXTINF:-1,频道已停止播出
+rtp://239.77.1.114:5146
