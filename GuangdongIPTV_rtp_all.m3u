@@ -399,7 +399,7 @@ rtp://239.0.10.53:5053
 rtp://239.77.0.34:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
 rtp://239.77.0.170:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清
 rtp://239.77.0.177:5146
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+
 rtp://239.77.1.146:5146
@@ -415,7 +415,7 @@ rtp://239.0.10.54:5054
 rtp://239.77.0.35:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
 rtp://239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清
 rtp://239.77.0.178:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7国防军事
 rtp://239.77.0.36:5146
@@ -433,7 +433,7 @@ rtp://239.0.10.55:5055
 rtp://239.77.0.37:5146
 #EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8高清
 rtp://239.77.0.172:5146
-#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清
 rtp://239.77.0.181:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9纪录
 rtp://239.77.0.38:5146
