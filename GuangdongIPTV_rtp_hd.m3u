@@ -269,6 +269,8 @@ rtp://239.77.1.76:5146
 rtp://239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
 rtp://239.77.0.198:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+rtp://239.77.0.232:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN英语高清
 rtp://239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
