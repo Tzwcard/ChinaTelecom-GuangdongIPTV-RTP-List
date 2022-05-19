@@ -8,6 +8,8 @@ rtp://239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.152:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
+rtp://239.77.0.232:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
@@ -109,8 +111,6 @@ rtp://239.253.43.74:5146
 rtp://239.253.43.70:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛高清
 rtp://239.253.43.75:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学一
 rtp://239.253.43.76:5146
 #EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学二
@@ -398,6 +398,8 @@ rtp://239.0.10.53:5053
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5体育
 rtp://239.77.0.34:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
+rtp://239.77.0.241:5146
+#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
 rtp://239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
 rtp://239.77.0.177:5146
@@ -511,8 +513,6 @@ rtp://239.77.0.198:5146
 rtp://239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
 rtp://239.77.0.174:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
-rtp://239.77.0.232:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
@@ -952,8 +952,6 @@ rtp://239.77.0.212:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.1.118:5146
 #EXTINF:-1 tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
-rtp://239.77.0.241:5146
-#EXTINF:-1 tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
 rtp://239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
 rtp://239.77.0.153:5146
@@ -1070,29 +1068,31 @@ rtp://239.0.10.115:5115
 #EXTINF:-1,卫星信号传输故障高清
 rtp://239.77.1.240:5146
 #EXTINF:-1,四屏同播
+rtp://239.77.1.209:5146
+#EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
-#EXTINF:-1,四屏同播
-rtp://239.77.1.209:5146
-#EXTINF:-1,天翼高清
-rtp://239.77.1.220:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.133:5146
 #EXTINF:-1,天翼高清
+rtp://239.77.1.220:5146
+#EXTINF:-1,天翼高清
 rtp://239.77.1.226:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.234:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.165:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.208:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.218:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.156:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.234:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.218:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.186:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.233:5146
 #EXTINF:-1,极K精选-测试
 rtp://239.77.0.231:5146
 #EXTINF:-1,极k影视-测试
