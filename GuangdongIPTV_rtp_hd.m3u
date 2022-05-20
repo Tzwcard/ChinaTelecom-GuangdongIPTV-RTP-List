@@ -113,10 +113,10 @@ rtp://239.77.1.87:5146
 rtp://239.77.0.117:5146
 #EXTINF:-1 tvg-name="韶关公共" group-title="IPTV-广东地方台",韶关公共高清
 rtp://239.77.0.119:5146
-#EXTINF:-1 tvg-name="湛江" group-title="IPTV-广东地方台",湛江公共高清
-rtp://239.77.0.140:5146
-#EXTINF:-1 tvg-name="湛江" group-title="IPTV-广东地方台",湛江高清
+#EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合高清
 rtp://239.77.0.141:5146
+#EXTINF:-1 tvg-name="湛江公共" group-title="IPTV-广东地方台",湛江公共高清
+rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
 rtp://239.77.0.229:5146
 #EXTINF:-1 tvg-name="揭阳公共" group-title="IPTV-广东地方台",揭阳公共高清
@@ -131,9 +131,9 @@ rtp://239.77.0.203:5146
 rtp://239.77.1.232:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2高清
 rtp://239.77.1.233:5146
-#EXTINF:-1 tvg-name="汕尾1" group-title="IPTV-广东地方台",汕尾1高清
+#EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合高清
 rtp://239.77.0.25:5146
-#EXTINF:-1 tvg-name="汕尾2" group-title="IPTV-广东地方台",汕尾2高清
+#EXTINF:-1 tvg-name="汕尾文化生活" group-title="IPTV-广东地方台",汕尾文化生活高清
 rtp://239.77.0.187:5146
 #EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1高清
 rtp://239.77.0.155:5146
@@ -141,7 +141,7 @@ rtp://239.77.0.155:5146
 rtp://239.77.0.154:5146
 #EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合高清
 rtp://239.253.43.1:5146
-#EXTINF:-1 tvg-name="肇庆公共" group-title="IPTV-广东地方台",肇庆公共高清
+#EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务高清
 rtp://239.253.43.2:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合高清
 rtp://239.253.43.213:5146
@@ -165,7 +165,7 @@ rtp://239.253.43.33:5146
 rtp://239.253.43.34:5146
 #EXTINF:-1 tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合高清
 rtp://239.77.0.253:5146
-#EXTINF:-1 tvg-name="云浮公共" group-title="IPTV-广东地方台",云浮公共高清
+#EXTINF:-1 tvg-name="云浮文旅" group-title="IPTV-广东地方台",云浮文旅高清
 rtp://239.77.0.254:5146
 #EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合高清
 rtp://239.77.0.206:5146
@@ -521,8 +521,6 @@ rtp://239.77.1.107:5146
 rtp://239.77.1.220:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.226:5146
-#EXTINF:-1,百事通广告
-rtp://239.77.0.185:5146
 #EXTINF:-1,频道已停止播出
 rtp://239.77.1.122:5146
 #EXTINF:-1,频道已停止播出
