@@ -503,6 +503,10 @@ rtp://239.77.1.100:5146
 rtp://239.77.1.108:5146
 #EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
 rtp://239.77.1.120:5146
+#EXTINF:-1 tvg-name="哒啵赛事" group-title="IPTV-数字付费",哒啵赛事高清
+rtp://239.77.0.186:5146
+#EXTINF:-1 tvg-name="哒啵赛事" group-title="IPTV-数字付费",哒啵赛事高清
+rtp://239.77.0.185:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
 rtp://239.77.1.116:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
@@ -510,19 +514,15 @@ rtp://239.77.0.176:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
+rtp://239.77.1.107:5146
+#EXTINF:-1,四屏同播
 rtp://239.77.1.209:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
-#EXTINF:-1,四屏同播
-rtp://239.77.1.107:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.220:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.226:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.186:5146
-#EXTINF:-1,百事通广告
-rtp://239.77.0.185:5146
 #EXTINF:-1,频道已停止播出
 rtp://239.77.1.122:5146
 #EXTINF:-1,频道已停止播出
