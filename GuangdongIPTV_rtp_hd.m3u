@@ -109,9 +109,9 @@ rtp://239.77.1.224:5146
 rtp://239.77.1.247:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物高清
 rtp://239.77.1.87:5146
-#EXTINF:-1 tvg-name="韶关综合" group-title="IPTV-广东地方台",韶关综合高清
+#EXTINF:-1 tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合高清
 rtp://239.77.0.117:5146
-#EXTINF:-1 tvg-name="韶关公共" group-title="IPTV-广东地方台",韶关公共高清
+#EXTINF:-1 tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活高清
 rtp://239.77.0.119:5146
 #EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合高清
 rtp://239.77.0.141:5146
@@ -383,6 +383,8 @@ rtp://239.77.1.229:5146
 rtp://239.77.0.17:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
 rtp://239.253.43.37:5146
+#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
+rtp://239.253.43.100:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
 rtp://239.77.1.162:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清 (CAVS)
@@ -407,6 +409,8 @@ rtp://239.77.1.111:5146
 rtp://239.77.0.150:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
 rtp://239.253.43.35:5146
+#EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
+rtp://239.253.43.101:5146
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="IPTV-卫视",甘肃卫视高清
 rtp://239.77.0.189:5146
 #EXTINF:-1 tvg-name="风云足球" group-title="IPTV-央视网台",风云足球高清
@@ -511,22 +515,18 @@ rtp://239.77.0.185:5146
 rtp://239.77.1.116:5146
 #EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+高清
 rtp://239.77.0.176:5146
-#EXTINF:-1,Unknown@239.253.43.100:5146
-rtp://239.253.43.100:5146
-#EXTINF:-1,Unknown@239.253.43.101:5146
-rtp://239.253.43.101:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
+#EXTINF:-1,四屏同播
+rtp://239.77.1.107:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.209:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
-#EXTINF:-1,四屏同播
-rtp://239.77.1.107:5146
-#EXTINF:-1,天翼高清
-rtp://239.77.1.226:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.220:5146
+#EXTINF:-1,天翼高清
+rtp://239.77.1.226:5146
 #EXTINF:-1,频道已停止播出
 rtp://239.77.1.122:5146
 #EXTINF:-1,频道已停止播出

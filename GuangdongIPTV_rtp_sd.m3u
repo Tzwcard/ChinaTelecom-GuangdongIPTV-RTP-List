@@ -71,9 +71,9 @@ rtp://239.77.1.225:5146
 rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物
 rtp://239.77.1.39:5146
-#EXTINF:-1 tvg-name="韶关综合" group-title="IPTV-广东地方台",韶关综合
+#EXTINF:-1 tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合
 rtp://239.77.0.116:5146
-#EXTINF:-1 tvg-name="韶关公共" group-title="IPTV-广东地方台",韶关公共
+#EXTINF:-1 tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活
 rtp://239.77.0.118:5146
 #EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合
 rtp://239.77.0.120:5146
@@ -509,15 +509,13 @@ rtp://239.253.43.165:5146
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
-#EXTINF:-1,Unknown@239.253.43.99:5146
-rtp://239.253.43.99:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.165:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
+rtp://239.77.0.208:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.208:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.190:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.233:5146
