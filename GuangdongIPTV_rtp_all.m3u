@@ -353,6 +353,14 @@ rtp://239.253.43.63:5146
 rtp://239.253.43.61:5146
 #EXTINF:-1 tvg-name="中山教育" group-title="IPTV-广东地方台",中山教育高清
 rtp://239.253.43.64:5146
+#EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合 SD
+rtp://239.253.43.102:5146
+#EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合高清
+rtp://239.253.43.104:5146
+#EXTINF:-1 tvg-name="东莞生活资讯" group-title="IPTV-广东地方台",东莞生活资讯 SD
+rtp://239.253.43.103:5146
+#EXTINF:-1 tvg-name="东莞生活资讯" group-title="IPTV-广东地方台",东莞生活资讯高清
+rtp://239.253.43.105:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
@@ -1069,14 +1077,6 @@ rtp://239.77.1.184:5146
 rtp://239.77.1.185:5146
 #EXTINF:-1,PPTV-4
 rtp://239.77.1.186:5146
-#EXTINF:-1,Unknown@239.253.43.102:5146
-rtp://239.253.43.102:5146
-#EXTINF:-1,Unknown@239.253.43.103:5146
-rtp://239.253.43.103:5146
-#EXTINF:-1,Unknown@239.253.43.104:5146
-rtp://239.253.43.104:5146
-#EXTINF:-1,Unknown@239.253.43.105:5146
-rtp://239.253.43.105:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,九频同播频道
@@ -1096,15 +1096,15 @@ rtp://239.77.1.220:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.226:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.190:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.165:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.208:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.218:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.234:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.156:5146
 #EXTINF:-1,广东IPTV广告

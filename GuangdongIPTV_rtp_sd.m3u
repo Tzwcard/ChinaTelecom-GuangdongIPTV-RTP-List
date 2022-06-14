@@ -47,6 +47,8 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -147,6 +149,10 @@ rtp://239.253.43.59:5146
 rtp://239.253.43.60:5146
 #EXTINF:-1 tvg-name="中山教育" group-title="IPTV-广东地方台",中山教育
 rtp://239.253.43.61:5146
+#EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合 SD
+rtp://239.253.43.102:5146
+#EXTINF:-1 tvg-name="东莞生活资讯" group-title="IPTV-广东地方台",东莞生活资讯 SD
+rtp://239.253.43.103:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
@@ -509,17 +515,13 @@ rtp://239.253.43.165:5146
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
-#EXTINF:-1,Unknown@239.253.43.102:5146
-rtp://239.253.43.102:5146
-#EXTINF:-1,Unknown@239.253.43.103:5146
-rtp://239.253.43.103:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.165:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.208:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.208:5146
+rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
