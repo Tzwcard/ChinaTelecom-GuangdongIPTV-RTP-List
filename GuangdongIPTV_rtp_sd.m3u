@@ -47,8 +47,6 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -89,8 +87,6 @@ rtp://239.77.0.158:5146
 rtp://239.77.0.195:5146
 #EXTINF:-1 tvg-name="江门公共" group-title="IPTV-广东地方台",江门公共
 rtp://239.77.0.196:5146
-#EXTINF:-1 tvg-name="江门教育" group-title="IPTV-广东地方台",江门教育
-rtp://239.77.0.197:5146
 #EXTINF:-1 tvg-name="江门教育" group-title="IPTV-广东地方台",江门教育高清
 rtp://239.77.0.203:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1
