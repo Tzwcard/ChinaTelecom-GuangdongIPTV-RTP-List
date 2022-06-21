@@ -190,8 +190,6 @@ rtp://239.77.1.166:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 rtp://239.77.0.78:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
-rtp://239.77.0.241:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
 rtp://239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
 rtp://239.77.0.177:5146
