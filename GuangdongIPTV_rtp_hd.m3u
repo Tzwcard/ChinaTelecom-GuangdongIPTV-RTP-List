@@ -4,6 +4,10 @@ rtp://239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.152:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
+rtp://239.77.0.241:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
+rtp://239.77.0.240:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
@@ -189,8 +193,6 @@ rtp://239.77.1.163:5146
 rtp://239.77.1.166:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 rtp://239.77.0.78:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
-rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
 rtp://239.77.0.170:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
@@ -475,8 +477,6 @@ rtp://239.77.0.147:5146
 rtp://239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
 rtp://239.77.0.153:5146
-#EXTINF:-1 tvg-name="求索科学" group-title="IPTV-数字付费",求索科学高清
-rtp://239.77.0.240:5146
 #EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
 rtp://239.77.1.200:5146
 #EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
@@ -496,13 +496,13 @@ rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
 #EXTINF:-1,四屏同播
-rtp://239.77.1.209:5146
-#EXTINF:-1,四屏同播
 rtp://239.77.1.192:5146
-#EXTINF:-1,天翼高清
-rtp://239.77.1.220:5146
+#EXTINF:-1,四屏同播
+rtp://239.77.1.209:5146
 #EXTINF:-1,天翼高清
 rtp://239.77.1.226:5146
+#EXTINF:-1,天翼高清
+rtp://239.77.1.220:5146
 #EXTINF:-1,频道已停止播出
 rtp://239.77.1.122:5146
 #EXTINF:-1,频道已停止播出
