@@ -223,17 +223,17 @@ rtp://239.77.0.140:5146
 rtp://239.77.0.157:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
 rtp://239.77.0.229:5146
-#EXTINF:-1 tvg-name="揭阳公共" group-title="IPTV-广东地方台",揭阳公共
+#EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活
 rtp://239.77.0.158:5146
-#EXTINF:-1 tvg-name="揭阳公共" group-title="IPTV-广东地方台",揭阳公共高清
+#EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活高清
 rtp://239.77.0.251:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合
 rtp://239.77.0.195:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合高清
 rtp://239.77.0.201:5146
-#EXTINF:-1 tvg-name="江门公共" group-title="IPTV-广东地方台",江门公共
+#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活
 rtp://239.77.0.196:5146
-#EXTINF:-1 tvg-name="江门公共" group-title="IPTV-广东地方台",江门公共高清
+#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活高清
 rtp://239.77.0.202:5146
 #EXTINF:-1 tvg-name="江门教育" group-title="IPTV-广东地方台",江门教育
 rtp://239.77.0.197:5146
