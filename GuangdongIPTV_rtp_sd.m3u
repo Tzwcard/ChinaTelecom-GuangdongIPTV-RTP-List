@@ -49,6 +49,8 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -455,25 +457,25 @@ rtp://239.253.43.58:5146
 rtp://239.77.1.75:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2
 rtp://239.77.1.63:5146
+#EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
+rtp://239.77.0.107:5146
+#EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
+rtp://239.77.1.78:5146
 #EXTINF:-1 tvg-name="IPTV3" group-title="IPTV-IPTV频道",IPTV3
 rtp://239.77.1.64:5146
-#EXTINF:-1 tvg-name="IPTV3+" group-title="IPTV-IPTV频道",IPTV3+
-rtp://239.77.0.107:5146
-#EXTINF:-1 tvg-name="IPTV3+" group-title="IPTV-IPTV频道",IPTV3+
-rtp://239.77.1.78:5146
 #EXTINF:-1 tvg-name="IPTV4" group-title="IPTV-IPTV频道",IPTV4
 rtp://239.77.1.56:5146
-#EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+
+#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育
 rtp://239.77.0.108:5146
-#EXTINF:-1 tvg-name="IPTV5+" group-title="IPTV-IPTV频道",IPTV5+
+#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育
 rtp://239.77.1.77:5146
-#EXTINF:-1 tvg-name="IPTV6+" group-title="IPTV-IPTV频道",IPTV6+
+#EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
 rtp://239.77.0.103:5146
-#EXTINF:-1 tvg-name="IPTV6+" group-title="IPTV-IPTV频道",IPTV6+
+#EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
 rtp://239.77.1.138:5146
-#EXTINF:-1 tvg-name="IPTV8+" group-title="IPTV-IPTV频道",IPTV8+
+#EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
 rtp://239.77.0.105:5146
-#EXTINF:-1 tvg-name="IPTV8+" group-title="IPTV-IPTV频道",IPTV8+
+#EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
 rtp://239.77.1.82:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.0.99:5146
