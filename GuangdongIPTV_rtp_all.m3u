@@ -8,10 +8,6 @@ rtp://239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.152:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-rtp://239.77.0.241:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-rtp://239.77.0.240:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
@@ -47,12 +43,12 @@ rtp://239.77.0.8:5146
 rtp://239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
 rtp://239.77.0.167:5146
-#EXTINF:-1 tvg-name="南方卫视" group-title="IPTV-广东电视台",南方卫视
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.0.9:5146
-#EXTINF:-1 tvg-name="南方卫视" group-title="IPTV-广东电视台",南方卫视高清
-rtp://239.77.0.215:5146
-#EXTINF:-1 tvg-name="南方卫视（上星）" group-title="IPTV-广东电视台",南方卫视（上星）
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.1.12:5146
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视高清
+rtp://239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视
 rtp://239.77.0.11:5146
 #EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视高清
@@ -219,6 +215,8 @@ rtp://239.77.0.121:5146
 rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
 rtp://239.77.0.157:5146
+#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
+rtp://239.77.0.240:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
 rtp://239.77.0.229:5146
 #EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活

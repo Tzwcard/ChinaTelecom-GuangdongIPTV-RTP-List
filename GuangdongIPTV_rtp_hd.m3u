@@ -23,7 +23,7 @@ rtp://239.77.0.168:5146
 rtp://239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
 rtp://239.77.0.167:5146
-#EXTINF:-1 tvg-name="南方卫视" group-title="IPTV-广东电视台",南方卫视高清
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视高清
 rtp://239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视高清
 rtp://239.77.0.217:5146
