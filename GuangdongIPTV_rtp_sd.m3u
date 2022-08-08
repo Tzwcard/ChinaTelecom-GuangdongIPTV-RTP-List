@@ -11,12 +11,8 @@ rtp://239.77.1.94:5146
 rtp://239.77.0.4:5146
 #EXTINF:-1 tvg-name="广东公共" group-title="IPTV-广东电视台",广东公共
 rtp://239.77.0.5:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
-rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
 rtp://239.77.1.97:5146
-#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
-rtp://239.77.0.8:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.0.9:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
@@ -25,14 +21,6 @@ rtp://239.77.1.12:5146
 rtp://239.77.0.11:5146
 #EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿
 rtp://239.77.0.12:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
-rtp://239.77.0.13:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
-rtp://239.77.1.15:5146
-#EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲
-rtp://239.77.0.16:5146
-#EXTINF:-1 tvg-name="广东房产" group-title="IPTV-广东电视台",广东房产
-rtp://239.77.0.14:5146
 #EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
@@ -47,16 +35,12 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.1.21:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道
 rtp://239.77.1.34:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道
-rtp://239.77.1.7:5146
 #EXTINF:-1 tvg-name="深圳财经生活" group-title="IPTV-深圳电视台",深圳财经生活
 rtp://239.77.1.22:5146
 #EXTINF:-1 tvg-name="深圳娱乐频道" group-title="IPTV-深圳电视台",深圳娱乐频道
@@ -65,8 +49,6 @@ rtp://239.77.1.36:5146
 rtp://239.77.1.8:5146
 #EXTINF:-1 tvg-name="深圳少儿频道" group-title="IPTV-深圳电视台",深圳少儿频道
 rtp://239.77.1.38:5146
-#EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道
-rtp://239.77.1.9:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -109,8 +91,6 @@ rtp://239.77.1.173:5146
 rtp://239.77.1.230:5146
 #EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2
 rtp://239.77.1.231:5146
-#EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合
-rtp://239.253.43.3:5146
 #EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务
 rtp://239.253.43.4:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
@@ -195,8 +175,6 @@ rtp://239.77.0.40:5146
 rtp://239.77.1.42:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12社会与法
 rtp://239.77.0.41:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12
-rtp://239.77.1.10:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13新闻
 rtp://239.77.0.42:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13
@@ -207,8 +185,6 @@ rtp://239.77.0.43:5146
 rtp://239.77.1.43:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15音乐
 rtp://239.77.0.44:5146
-#EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
-rtp://239.77.1.11:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17
@@ -453,6 +429,8 @@ rtp://239.77.1.205:5146
 rtp://239.77.1.135:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.253.43.58:5146
+#EXTINF:-1 tvg-name="天美电竞" group-title="IPTV-数字付费",天美电竞高清
+rtp://239.77.0.185:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1
 rtp://239.77.1.75:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2
@@ -525,3 +503,5 @@ rtp://239.77.0.208:5146
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
+#EXTINF:-1,精选频道1
+rtp://239.77.0.186:5146
