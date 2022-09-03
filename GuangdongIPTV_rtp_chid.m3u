@@ -29,7 +29,7 @@ rtp://239.77.0.246:5146
 rtp://239.77.0.245:5146
 #EXTINF:-1 tvg-id="16" tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
 rtp://239.77.0.19:5146
-#EXTINF:-1 tvg-id="17" tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k)
+#EXTINF:-1 tvg-id="17" tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 rtp://239.77.0.252:5146
 #EXTINF:-1 tvg-id="18" tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
@@ -433,19 +433,19 @@ rtp://239.77.0.168:5146
 rtp://239.77.0.114:5146
 #EXTINF:-1 tvg-id="511" tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1超清
 rtp://239.77.0.129:5146
-#EXTINF:-1 tvg-id="513" tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3超清
+#EXTINF:-1 tvg-id="513" tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3超清 (CAVS)
 rtp://239.77.0.175:5146
-#EXTINF:-1 tvg-id="515" tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清
+#EXTINF:-1 tvg-id="515" tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
 rtp://239.77.0.177:5146
-#EXTINF:-1 tvg-id="516" tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清
+#EXTINF:-1 tvg-id="516" tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清 (CAVS)
 rtp://239.77.0.178:5146
-#EXTINF:-1 tvg-id="518" tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清
+#EXTINF:-1 tvg-id="518" tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清 (CAVS)
 rtp://239.77.0.181:5146
 #EXTINF:-1 tvg-id="521" tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视超清
 rtp://239.77.0.127:5146
-#EXTINF:-1 tvg-id="522" tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清
+#EXTINF:-1 tvg-id="522" tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
 rtp://239.77.0.125:5146
-#EXTINF:-1 tvg-id="523" tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清
+#EXTINF:-1 tvg-id="523" tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
 rtp://239.77.0.126:5146
 #EXTINF:-1 tvg-id="524" tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视超清
 rtp://239.77.0.130:5146
@@ -455,13 +455,13 @@ rtp://239.77.0.124:5146
 rtp://239.77.0.128:5146
 #EXTINF:-1 tvg-id="527" tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
 rtp://239.77.0.131:5146
-#EXTINF:-1 tvg-id="528" tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清
+#EXTINF:-1 tvg-id="528" tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
 rtp://239.77.0.132:5146
-#EXTINF:-1 tvg-id="530" tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清
+#EXTINF:-1 tvg-id="530" tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
 rtp://239.77.0.161:5146
-#EXTINF:-1 tvg-id="531" tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试
+#EXTINF:-1 tvg-id="531" tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
 rtp://239.77.0.162:5146
-#EXTINF:-1 tvg-id="532" tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清
+#EXTINF:-1 tvg-id="532" tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
 rtp://239.77.0.163:5146
 #EXTINF:-1 tvg-id="600" tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.0.99:5146
@@ -495,8 +495,6 @@ rtp://239.253.43.218:5146
 rtp://239.253.43.219:5146
 #EXTINF:-1 tvg-id="619",极K精选-测试
 rtp://239.77.0.231:5146
-#EXTINF:-1 tvg-id="620",Unknown@239.77.0.232:5146
-rtp://239.77.0.232:5146
 #EXTINF:-1 tvg-id="621",广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-id="622",4k测试频道8
