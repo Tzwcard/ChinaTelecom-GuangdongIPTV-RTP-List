@@ -445,6 +445,8 @@ rtp://239.77.1.208:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
+#EXTINF:-1 tvg-name="天元围棋" group-title="IPTV-数字付费",天元围棋
+rtp://239.253.43.98:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.77.1.135:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
@@ -513,16 +515,14 @@ rtp://239.253.43.165:5146
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
-#EXTINF:-1,Unknown@239.253.43.98:5146
-rtp://239.253.43.98:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.165:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.218:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.208:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.165:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.241:5146
 #EXTINF:-1,版权问题不能播放
