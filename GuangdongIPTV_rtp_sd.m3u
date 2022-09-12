@@ -37,8 +37,6 @@ rtp://239.77.0.14:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
-rtp://239.77.1.237:5146
 #EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合
 rtp://239.253.43.66:5146
 #EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻
