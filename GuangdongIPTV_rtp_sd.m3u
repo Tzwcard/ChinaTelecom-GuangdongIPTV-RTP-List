@@ -19,6 +19,8 @@ rtp://239.77.1.97:5146
 rtp://239.77.0.8:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.0.9:5146
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
+rtp://239.77.1.12:5146
 #EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视
 rtp://239.77.0.11:5146
 #EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿
