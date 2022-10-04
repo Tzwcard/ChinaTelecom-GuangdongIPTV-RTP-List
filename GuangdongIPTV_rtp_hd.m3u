@@ -79,8 +79,6 @@ rtp://239.77.1.126:5146
 rtp://239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 rtp://239.77.1.223:5146
-#EXTINF:-1 tvg-name="深圳东部频道" group-title="IPTV-深圳电视台",深圳东部频道高清
-rtp://239.77.1.224:5146
 #EXTINF:-1 tvg-name="深圳众创TV" group-title="IPTV-深圳电视台",深圳众创TV高清
 rtp://239.77.1.247:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物高清
@@ -177,8 +175,6 @@ rtp://239.77.0.129:5146
 rtp://239.77.1.158:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清 (CAVS)
 rtp://239.253.43.17:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清测试(CCTV -2财经高清)
-rtp://239.77.0.137:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3高清
 rtp://239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3超清 (CAVS)
@@ -251,8 +247,6 @@ rtp://239.77.1.121:5146
 rtp://239.77.0.198:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN英语高清
 rtp://239.77.0.199:5146
-#EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
-rtp://239.77.0.221:5146
 #EXTINF:-1 tvg-name="CGTN法语" group-title="IPTV-央视",CGTN法语高清
 rtp://239.77.0.228:5146
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="IPTV-央视",CGTN阿拉伯语高清
