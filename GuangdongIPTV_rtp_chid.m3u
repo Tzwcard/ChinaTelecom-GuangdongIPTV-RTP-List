@@ -29,7 +29,7 @@ rtp://239.77.0.246:5146
 rtp://239.77.0.245:5146
 #EXTINF:-1 tvg-id="16" tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
 rtp://239.77.0.19:5146
-#EXTINF:-1 tvg-id="17" tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
+#EXTINF:-1 tvg-id="17" tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k)
 rtp://239.77.0.252:5146
 #EXTINF:-1 tvg-id="18" tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
@@ -457,7 +457,7 @@ rtp://239.77.0.128:5146
 rtp://239.77.0.131:5146
 #EXTINF:-1 tvg-id="528" tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
 rtp://239.77.0.132:5146
-#EXTINF:-1 tvg-id="530" tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
+#EXTINF:-1 tvg-id="530" tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清
 rtp://239.77.0.161:5146
 #EXTINF:-1 tvg-id="531" tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
 rtp://239.77.0.162:5146
