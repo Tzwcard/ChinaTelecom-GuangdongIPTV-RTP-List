@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
+rtp://239.77.1.152:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
@@ -9,6 +11,10 @@ rtp://239.77.0.166:5146
 rtp://239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江超清
 rtp://239.77.0.114:5146
+#EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻高清
+rtp://239.77.0.173:5146
+#EXTINF:-1 tvg-name="广东公共" group-title="IPTV-广东电视台",广东公共高清
+rtp://239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
 rtp://239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
@@ -47,6 +53,8 @@ rtp://239.77.1.148:5146
 rtp://239.77.0.92:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视超清
 rtp://239.77.0.130:5146
+#EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
+rtp://239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
 rtp://239.77.1.124:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
@@ -87,28 +95,48 @@ rtp://239.77.0.141:5146
 rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
 rtp://239.77.0.229:5146
+#EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活高清
+rtp://239.77.0.251:5146
 #EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合高清
 rtp://239.77.0.25:5146
 #EXTINF:-1 tvg-name="汕尾文化生活" group-title="IPTV-广东地方台",汕尾文化生活高清
 rtp://239.77.0.187:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合高清
 rtp://239.77.0.201:5146
+#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活高清
+rtp://239.77.0.202:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1高清
 rtp://239.77.1.232:5146
+#EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2高清
+rtp://239.77.1.233:5146
+#EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1高清
+rtp://239.77.0.155:5146
+#EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2高清
+rtp://239.77.0.154:5146
 #EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合高清
 rtp://239.253.43.1:5146
 #EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务高清
 rtp://239.253.43.2:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合高清
 rtp://239.253.43.213:5146
+#EXTINF:-1 tvg-name="河源公共" group-title="IPTV-广东地方台",河源公共高清
+rtp://239.253.43.214:5146
 #EXTINF:-1 tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合高清
 rtp://239.253.43.33:5146
 #EXTINF:-1 tvg-name="清远公共" group-title="IPTV-广东地方台",清远公共高清
 rtp://239.253.43.34:5146
+#EXTINF:-1 tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合高清
+rtp://239.77.0.253:5146
+#EXTINF:-1 tvg-name="云浮文旅" group-title="IPTV-广东地方台",云浮文旅高清
+rtp://239.77.0.254:5146
 #EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合高清
 rtp://239.77.0.206:5146
 #EXTINF:-1 tvg-name="茂名公共" group-title="IPTV-广东地方台",茂名公共高清
 rtp://239.77.0.207:5146
+#EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合高清
+rtp://239.77.1.130:5146
+#EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合高清
+rtp://239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
 rtp://239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
@@ -151,6 +179,8 @@ rtp://239.77.1.158:5146
 rtp://239.253.43.17:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清测试(CCTV -2财经高清)
 rtp://239.77.0.137:5146
+#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3高清
+rtp://239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3超清 (CAVS)
 rtp://239.77.0.175:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
@@ -173,8 +203,12 @@ rtp://239.77.0.171:5146
 rtp://239.77.0.178:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 rtp://239.77.1.159:5146
+#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清 (CAVS)
+rtp://239.77.1.167:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清测试(CCTV -7军事农业高清)
 rtp://239.77.0.138:5146
+#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8高清
+rtp://239.77.0.172:5146
 #EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清 (CAVS)
 rtp://239.77.0.181:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
@@ -197,8 +231,14 @@ rtp://239.77.1.109:5146
 rtp://239.77.1.170:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清测试
 rtp://239.77.0.136:5146
+#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
+rtp://239.77.0.188:5146
+#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
+rtp://239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.161:5146
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
+rtp://239.77.1.171:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
 rtp://239.77.0.133:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
@@ -215,6 +255,8 @@ rtp://239.77.0.199:5146
 rtp://239.77.0.221:5146
 #EXTINF:-1 tvg-name="CGTN法语" group-title="IPTV-央视",CGTN法语高清
 rtp://239.77.0.228:5146
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="IPTV-央视",CGTN阿拉伯语高清
+rtp://239.253.43.200:5146
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="IPTV-央视",CGTN俄语高清
 rtp://239.253.43.201:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
@@ -243,6 +285,8 @@ rtp://239.77.0.90:5146
 rtp://239.77.0.126:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
 rtp://239.77.1.218:5146
+#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清 (CAVS)
+rtp://239.77.1.156:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
 rtp://239.77.0.98:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
@@ -253,14 +297,22 @@ rtp://239.77.1.157:5146
 rtp://239.77.0.183:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 rtp://239.77.1.4:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
+rtp://239.77.1.151:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
+rtp://239.77.0.91:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 rtp://239.77.1.141:5146
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
+rtp://239.77.1.182:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 rtp://239.77.0.97:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
 rtp://239.77.0.131:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 rtp://239.77.1.142:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清 (CAVS)
+rtp://239.77.1.153:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 rtp://239.77.0.94:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
@@ -272,6 +324,8 @@ rtp://239.77.0.149:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
 rtp://239.77.1.93:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
+rtp://239.77.1.174:5146
+#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
 rtp://239.77.0.95:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视超清
 rtp://239.77.0.128:5146
@@ -279,6 +333,8 @@ rtp://239.77.0.128:5146
 rtp://239.77.1.103:5146
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视 高清
 rtp://239.77.0.123:5146
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
+rtp://239.77.0.161:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
 rtp://239.77.1.6:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
@@ -298,11 +354,15 @@ rtp://239.77.0.159:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
 rtp://239.77.0.163:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
+rtp://239.77.1.229:5146
+#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
 rtp://239.77.0.17:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
 rtp://239.253.43.37:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
 rtp://239.253.43.100:5146
+#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
+rtp://239.77.1.162:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清 (CAVS)
 rtp://239.77.1.210:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
@@ -321,6 +381,8 @@ rtp://239.253.43.36:5146
 rtp://239.77.0.139:5146
 #EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视高清
 rtp://239.77.1.111:5146
+#EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视高清
+rtp://239.77.0.150:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
 rtp://239.253.43.35:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
@@ -385,6 +447,8 @@ rtp://239.77.1.222:5146
 rtp://239.77.0.200:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 rtp://239.77.0.180:5146
+#EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
+rtp://239.77.1.249:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
 rtp://239.77.0.15:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶频道高清
@@ -407,6 +471,8 @@ rtp://239.77.1.216:5146
 rtp://239.77.0.147:5146
 #EXTINF:-1 tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
 rtp://239.77.0.21:5146
+#EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
+rtp://239.77.0.153:5146
 #EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
 rtp://239.77.1.200:5146
 #EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
@@ -421,8 +487,12 @@ rtp://239.77.1.120:5146
 rtp://239.253.43.94:5146
 #EXTINF:-1 tvg-name="幸福剧场" group-title="IPTV-数字付费",幸福剧场高清
 rtp://239.253.43.96:5146
+#EXTINF:-1 tvg-name="风尚生活" group-title="IPTV-数字付费",风尚生活高清
+rtp://239.253.43.95:5146
 #EXTINF:-1 tvg-name="幸福娱乐" group-title="IPTV-数字付费",幸福娱乐高清
 rtp://239.253.43.97:5146
+#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
+rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.1.116:5146
 #EXTINF:-1,九屏同播
@@ -430,4 +500,8 @@ rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.208:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
+#EXTINF:-1,版权问题不能播放
+rtp://239.77.0.185:5146
