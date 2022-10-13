@@ -83,8 +83,6 @@ rtp://239.77.0.120:5146
 rtp://239.77.0.121:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
 rtp://239.77.0.157:5146
-#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
-rtp://239.77.0.240:5146
 #EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活
 rtp://239.77.0.158:5146
 #EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合
@@ -509,6 +507,8 @@ rtp://239.77.0.109:5146
 rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
 rtp://239.77.0.111:5146
+#EXTINF:-1,EBU
+rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
@@ -521,6 +521,8 @@ rtp://239.77.0.236:5146
 rtp://239.77.0.165:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
+#EXTINF:-1,版权问题不能播放
+rtp://239.77.0.185:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.241:5146
 #EXTINF:-1,精选频道1

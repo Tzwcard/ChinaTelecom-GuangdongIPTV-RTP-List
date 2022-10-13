@@ -93,6 +93,8 @@ rtp://239.77.0.119:5146
 rtp://239.77.0.141:5146
 #EXTINF:-1 tvg-name="湛江公共" group-title="IPTV-广东地方台",湛江公共高清
 rtp://239.77.0.140:5146
+#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
+rtp://239.77.0.240:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
 rtp://239.77.0.229:5146
 #EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活高清
@@ -503,5 +505,3 @@ rtp://239.77.1.107:5146
 rtp://239.77.0.208:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
-#EXTINF:-1,版权问题不能播放
-rtp://239.77.0.185:5146
