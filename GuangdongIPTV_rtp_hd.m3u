@@ -45,6 +45,28 @@ rtp://239.253.43.73:5146
 rtp://239.253.43.74:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛高清
 rtp://239.253.43.75:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学一
+rtp://239.253.43.76:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学二
+rtp://239.253.43.77:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学三
+rtp://239.253.43.78:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学四
+rtp://239.253.43.79:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学五
+rtp://239.253.43.80:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学六
+rtp://239.253.43.81:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 初一
+rtp://239.253.43.89:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 初二
+rtp://239.253.43.90:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 初三
+rtp://239.253.43.91:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 高一
+rtp://239.253.43.92:5146
+#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 高二
+rtp://239.253.43.93:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 rtp://239.77.1.3:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
