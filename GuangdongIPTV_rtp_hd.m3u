@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-rtp://239.77.1.152:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
@@ -199,7 +197,7 @@ rtp://239.77.0.86:5146
 rtp://239.77.0.129:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
 rtp://239.77.1.158:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
 rtp://239.253.43.17:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清测试(CCTV -2财经高清)
 rtp://239.77.0.137:5146
@@ -519,6 +517,8 @@ rtp://239.253.43.97:5146
 rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.1.116:5146
+#EXTINF:-1,Unknown@239.253.43.169:5146
+rtp://239.253.43.169:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
