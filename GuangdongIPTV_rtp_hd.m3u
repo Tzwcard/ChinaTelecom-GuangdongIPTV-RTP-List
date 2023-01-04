@@ -255,6 +255,8 @@ rtp://239.77.1.170:5146
 rtp://239.77.0.136:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
 rtp://239.77.0.188:5146
+#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
+rtp://239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
@@ -493,6 +495,8 @@ rtp://239.77.0.147:5146
 rtp://239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
 rtp://239.77.0.153:5146
+#EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
+rtp://239.77.1.200:5146
 #EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
 rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园频道高清
