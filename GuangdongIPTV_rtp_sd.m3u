@@ -449,6 +449,14 @@ rtp://239.253.43.98:5146
 rtp://239.77.1.135:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.253.43.58:5146
+#EXTINF:-1 tvg-name="每日影院" group-title="IPTV-数字付费",每日影院高清
+rtp://239.253.43.94:5146
+#EXTINF:-1 tvg-name="幸福剧场" group-title="IPTV-数字付费",幸福剧场高清
+rtp://239.253.43.96:5146
+#EXTINF:-1 tvg-name="风尚生活" group-title="IPTV-数字付费",风尚生活高清
+rtp://239.253.43.95:5146
+#EXTINF:-1 tvg-name="幸福娱乐" group-title="IPTV-数字付费",幸福娱乐高清
+rtp://239.253.43.97:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1
 rtp://239.77.1.75:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2
@@ -514,11 +522,11 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.236:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.233:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.241:5146
 #EXTINF:-1,版权问题不能播放

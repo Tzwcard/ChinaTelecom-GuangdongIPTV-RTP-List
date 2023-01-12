@@ -505,20 +505,10 @@ rtp://239.77.1.100:5146
 rtp://239.77.1.108:5146
 #EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
 rtp://239.77.1.120:5146
-#EXTINF:-1 tvg-name="每日影院" group-title="IPTV-数字付费",每日影院高清
-rtp://239.253.43.94:5146
-#EXTINF:-1 tvg-name="幸福剧场" group-title="IPTV-数字付费",幸福剧场高清
-rtp://239.253.43.96:5146
-#EXTINF:-1 tvg-name="风尚生活" group-title="IPTV-数字付费",风尚生活高清
-rtp://239.253.43.95:5146
-#EXTINF:-1 tvg-name="幸福娱乐" group-title="IPTV-数字付费",幸福娱乐高清
-rtp://239.253.43.97:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.1.116:5146
-#EXTINF:-1,Unknown@239.253.43.169:5146
-rtp://239.253.43.169:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
