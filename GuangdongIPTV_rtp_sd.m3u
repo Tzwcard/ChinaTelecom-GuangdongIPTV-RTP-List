@@ -7,10 +7,6 @@ rtp://239.77.1.2:5146
 rtp://239.77.0.3:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
-#EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
-rtp://239.77.0.4:5146
-#EXTINF:-1 tvg-name="广东公共" group-title="IPTV-广东电视台",广东公共
-rtp://239.77.0.5:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
 rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
@@ -107,8 +103,6 @@ rtp://239.77.1.230:5146
 rtp://239.77.1.231:5146
 #EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合
 rtp://239.253.43.3:5146
-#EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务
-rtp://239.253.43.4:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
 rtp://239.253.43.215:5146
 #EXTINF:-1 tvg-name="河源公共" group-title="IPTV-广东地方台",河源公共
@@ -291,8 +285,6 @@ rtp://239.77.0.64:5146
 rtp://239.77.1.60:5146
 #EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
 rtp://239.77.0.65:5146
-#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
-rtp://239.77.1.1:5146
 #EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
 rtp://239.77.1.213:5146
 #EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视
@@ -515,18 +507,16 @@ rtp://239.77.0.109:5146
 rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
 rtp://239.77.0.111:5146
-#EXTINF:-1,EBU
-rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.233:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.236:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.241:5146
 #EXTINF:-1,版权问题不能播放
