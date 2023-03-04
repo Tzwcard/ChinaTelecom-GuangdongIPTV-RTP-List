@@ -459,7 +459,7 @@ rtp://239.77.0.131:5146
 rtp://239.77.0.132:5146
 #EXTINF:-1 tvg-id="530" tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
 rtp://239.77.0.161:5146
-#EXTINF:-1 tvg-id="531" tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
+#EXTINF:-1 tvg-id="531" tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试
 rtp://239.77.0.162:5146
 #EXTINF:-1 tvg-id="532" tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
 rtp://239.77.0.163:5146
