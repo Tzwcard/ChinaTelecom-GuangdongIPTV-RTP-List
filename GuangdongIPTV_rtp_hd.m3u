@@ -133,6 +133,8 @@ rtp://239.77.1.232:5146
 rtp://239.77.1.233:5146
 #EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1高清
 rtp://239.77.0.155:5146
+#EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2高清
+rtp://239.77.0.154:5146
 #EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合高清
 rtp://239.253.43.1:5146
 #EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务高清
@@ -255,6 +257,8 @@ rtp://239.77.0.136:5146
 rtp://239.77.0.188:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
 rtp://239.253.43.196:5146
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
+rtp://239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
 rtp://239.77.1.171:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
@@ -329,6 +333,8 @@ rtp://239.77.0.97:5146
 rtp://239.77.0.131:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 rtp://239.77.1.142:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清 (CAVS)
+rtp://239.77.1.153:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 rtp://239.77.0.94:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
@@ -477,6 +483,10 @@ rtp://239.77.1.119:5146
 rtp://239.77.1.110:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清
 rtp://239.77.1.217:5146
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清测试
+rtp://239.77.0.160:5146
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
+rtp://239.77.0.162:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
 rtp://239.77.1.216:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
