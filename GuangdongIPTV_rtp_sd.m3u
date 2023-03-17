@@ -9,7 +9,7 @@ rtp://239.77.0.3:5146
 rtp://239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
 rtp://239.77.0.4:5146
-#EXTINF:-1 tvg-name="广东公共" group-title="IPTV-广东电视台",广东公共
+#EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生
 rtp://239.77.0.5:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
 rtp://239.77.0.6:5146
@@ -81,8 +81,6 @@ rtp://239.77.0.120:5146
 rtp://239.77.0.121:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
 rtp://239.77.0.157:5146
-#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
-rtp://239.77.0.240:5146
 #EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活
 rtp://239.77.0.158:5146
 #EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合
@@ -135,15 +133,21 @@ rtp://239.253.43.44:5146
 rtp://239.253.43.48:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.253.43.49:5146
+#EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
+rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德
 rtp://239.253.43.50:5146
 #EXTINF:-1 tvg-name="佛山影视" group-title="IPTV-广东地方台",佛山影视
 rtp://239.253.43.51:5146
 #EXTINF:-1 tvg-name="佛山综合" group-title="IPTV-广东地方台",佛山综合
 rtp://239.253.43.52:5146
+#EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合
+rtp://239.253.43.102:5146
+#EXTINF:-1 tvg-name="东莞生活资讯" group-title="IPTV-广东地方台",东莞生活资讯
+rtp://239.253.43.103:5146
 #EXTINF:-1 tvg-name="中山综合" group-title="IPTV-广东地方台",中山综合
 rtp://239.253.43.59:5146
-#EXTINF:-1 tvg-name="中山公共" group-title="IPTV-广东地方台",中山公共
+#EXTINF:-1 tvg-name="香山文化" group-title="IPTV-广东地方台",香山文化
 rtp://239.253.43.60:5146
 #EXTINF:-1 tvg-name="中山教育" group-title="IPTV-广东地方台",中山教育
 rtp://239.253.43.61:5146
@@ -201,6 +205,8 @@ rtp://239.77.1.43:5146
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
 rtp://239.77.1.11:5146
+#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
+rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17
 rtp://239.77.1.123:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
@@ -393,8 +399,8 @@ rtp://239.77.1.81:5146
 rtp://239.77.1.143:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.77.1.198:5146
-#EXTINF:-1 tvg-name="DOXTV" group-title="IPTV-数字付费",DOXTV
-rtp://239.77.1.155:5146
+#EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
+rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="优优宝贝" group-title="IPTV-数字付费",优优宝贝
 rtp://239.77.1.193:5146
 #EXTINF:-1 tvg-name="优优宝贝" group-title="IPTV-数字付费",优优宝贝
@@ -413,18 +419,18 @@ rtp://239.253.43.42:5146
 rtp://239.77.1.203:5146
 #EXTINF:-1 tvg-name="车迷" group-title="IPTV-数字付费",车迷频道
 rtp://239.253.43.41:5146
-#EXTINF:-1 tvg-name="网络棋牌" group-title="IPTV-数字付费",GTV网络棋牌
-rtp://239.253.43.38:5146
 #EXTINF:-1 tvg-name="新动漫" group-title="IPTV-数字付费",新动漫
 rtp://239.77.1.136:5146
 #EXTINF:-1 tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
-rtp://239.77.0.211:5146
+rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.0.212:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.1.118:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
+#EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
+rtp://239.77.1.105:5146
 #EXTINF:-1 tvg-name="先锋乒羽" group-title="IPTV-数字付费",先锋乒羽
 rtp://239.77.1.208:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
@@ -437,14 +443,6 @@ rtp://239.253.43.98:5146
 rtp://239.77.1.135:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.253.43.58:5146
-#EXTINF:-1 tvg-name="每日影院" group-title="IPTV-数字付费",每日影院高清
-rtp://239.253.43.94:5146
-#EXTINF:-1 tvg-name="幸福剧场" group-title="IPTV-数字付费",幸福剧场高清
-rtp://239.253.43.96:5146
-#EXTINF:-1 tvg-name="风尚生活" group-title="IPTV-数字付费",风尚生活高清
-rtp://239.253.43.95:5146
-#EXTINF:-1 tvg-name="幸福娱乐" group-title="IPTV-数字付费",幸福娱乐高清
-rtp://239.253.43.97:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1
 rtp://239.77.1.75:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2
@@ -462,7 +460,11 @@ rtp://239.77.0.108:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育
 rtp://239.77.1.77:5146
 #EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
+rtp://239.77.0.103:5146
+#EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
 rtp://239.77.1.138:5146
+#EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
+rtp://239.77.0.105:5146
 #EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
 rtp://239.77.1.82:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
@@ -497,6 +499,8 @@ rtp://239.77.1.90:5146
 rtp://239.77.0.109:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",IPTV少儿动画
 rtp://239.77.1.91:5146
+#EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
+rtp://239.77.0.111:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
@@ -504,18 +508,32 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.208:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.240:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.236:5146
+rtp://239.253.43.94:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.253.43.97:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.253.43.96:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.253.43.95:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.211:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.208:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.241:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.185:5146
 #EXTINF:-1,精选频道1
 rtp://239.77.0.186:5146
+#EXTINF:-1,（信号传输故障）
+rtp://239.253.43.38:5146
+#EXTINF:-1,（信号传输故障）
+rtp://239.77.1.155:5146

@@ -5,8 +5,6 @@ rtp://239.77.0.2:5146
 rtp://239.77.0.3:5146
 #EXTINF:-1 tvg-id="3" tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
 rtp://239.77.0.4:5146
-#EXTINF:-1 tvg-id="4" tvg-name="广东公共" group-title="IPTV-广东电视台",广东公共
-rtp://239.77.0.5:5146
 #EXTINF:-1 tvg-id="5" tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
 rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-id="6" tvg-name="广东国际" group-title="IPTV-广东电视台",广东国际
@@ -257,7 +255,7 @@ rtp://239.77.0.1:5146
 rtp://239.77.0.215:5146
 #EXTINF:-1 tvg-id="305" tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视高清
 rtp://239.77.0.217:5146
-#EXTINF:-1 tvg-id="306" tvg-name="广东公共" group-title="IPTV-广东电视台",广东公共高清
+#EXTINF:-1 tvg-id="306" tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生高清
 rtp://239.77.0.225:5146
 #EXTINF:-1 tvg-id="307" tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿高清
 rtp://239.77.0.250:5146
@@ -315,7 +313,7 @@ rtp://239.253.43.56:5146
 rtp://239.253.43.57:5146
 #EXTINF:-1 tvg-id="368" tvg-name="中山综合" group-title="IPTV-广东地方台",中山综合高清
 rtp://239.253.43.62:5146
-#EXTINF:-1 tvg-id="369" tvg-name="中山公共" group-title="IPTV-广东地方台",中山公共高清
+#EXTINF:-1 tvg-id="369" tvg-name="香山文化" group-title="IPTV-广东地方台",香山文化高清
 rtp://239.253.43.63:5146
 #EXTINF:-1 tvg-id="370" tvg-name="中山教育" group-title="IPTV-广东地方台",中山教育高清
 rtp://239.253.43.64:5146
@@ -509,8 +507,6 @@ rtp://239.77.0.21:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-id="810" tvg-name="梨园" group-title="IPTV-数字付费",梨园频道高清
 rtp://239.77.1.100:5146
-#EXTINF:-1 tvg-id="811" tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
-rtp://239.77.0.211:5146
 #EXTINF:-1 tvg-id="812" tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.0.212:5146
 #EXTINF:-1 tvg-id="816" tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
