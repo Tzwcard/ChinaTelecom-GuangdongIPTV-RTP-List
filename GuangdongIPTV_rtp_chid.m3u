@@ -79,7 +79,7 @@ rtp://239.253.43.215:5146
 rtp://239.253.43.216:5146
 #EXTINF:-1 tvg-id="54" tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合
 rtp://239.253.43.31:5146
-#EXTINF:-1 tvg-id="55" tvg-name="清远公共" group-title="IPTV-广东地方台",清远公共
+#EXTINF:-1 tvg-id="55" tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活
 rtp://239.253.43.32:5146
 #EXTINF:-1 tvg-id="56" tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合
 rtp://239.253.43.195:5146
@@ -289,7 +289,7 @@ rtp://239.77.0.141:5146
 rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-id="345" tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合高清
 rtp://239.253.43.33:5146
-#EXTINF:-1 tvg-id="346" tvg-name="清远公共" group-title="IPTV-广东地方台",清远公共高清
+#EXTINF:-1 tvg-id="346" tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活高清
 rtp://239.253.43.34:5146
 #EXTINF:-1 tvg-id="358" tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合高清
 rtp://239.77.0.206:5146

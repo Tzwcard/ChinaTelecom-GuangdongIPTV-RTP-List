@@ -47,6 +47,8 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -113,8 +115,10 @@ rtp://239.253.43.215:5146
 rtp://239.253.43.216:5146
 #EXTINF:-1 tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合
 rtp://239.253.43.31:5146
-#EXTINF:-1 tvg-name="清远公共" group-title="IPTV-广东地方台",清远公共
+#EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活
 rtp://239.253.43.32:5146
+#EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活
+rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合
 rtp://239.253.43.195:5146
 #EXTINF:-1 tvg-name="云浮文旅" group-title="IPTV-广东地方台",云浮文旅
@@ -359,6 +363,8 @@ rtp://239.77.0.220:5146
 rtp://239.77.1.197:5146
 #EXTINF:-1 tvg-name="中学生" group-title="IPTV-央视网台",中学生
 rtp://239.77.1.195:5146
+#EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
+rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="IPTV-数字付费",卡酷少儿
 rtp://239.77.0.79:5146
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="IPTV-数字付费",卡酷少儿
@@ -421,8 +427,6 @@ rtp://239.77.1.203:5146
 rtp://239.253.43.41:5146
 #EXTINF:-1 tvg-name="新动漫" group-title="IPTV-数字付费",新动漫
 rtp://239.77.1.136:5146
-#EXTINF:-1 tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
-rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.0.212:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
@@ -508,9 +512,11 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.208:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.211:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
@@ -524,16 +530,12 @@ rtp://239.253.43.96:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.253.43.95:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.211:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.208:5146
-#EXTINF:-1,版权问题不能播放
-rtp://239.77.0.241:5146
+rtp://239.77.0.233:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.185:5146
 #EXTINF:-1,精选频道1
 rtp://239.77.0.186:5146
 #EXTINF:-1,（信号传输故障）
-rtp://239.253.43.38:5146
-#EXTINF:-1,（信号传输故障）
 rtp://239.77.1.155:5146
+#EXTINF:-1,（信号传输故障）
+rtp://239.253.43.38:5146
