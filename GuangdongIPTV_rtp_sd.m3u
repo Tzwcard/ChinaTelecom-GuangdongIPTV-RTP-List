@@ -219,6 +219,14 @@ rtp://239.77.0.174:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
+#EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
+rtp://239.77.0.221:5146
+#EXTINF:-1 tvg-name="CGTN法语" group-title="IPTV-央视",CGTN法语高清
+rtp://239.77.0.228:5146
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="IPTV-央视",CGTN阿拉伯语高清
+rtp://239.253.43.200:5146
+#EXTINF:-1 tvg-name="CGTN俄语" group-title="IPTV-央视",CGTN俄语高清
+rtp://239.253.43.201:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视
 rtp://239.77.0.46:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视
@@ -510,21 +518,11 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.253.43.95:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.253.43.96:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.253.43.97:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.253.43.94:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.208:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.211:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
