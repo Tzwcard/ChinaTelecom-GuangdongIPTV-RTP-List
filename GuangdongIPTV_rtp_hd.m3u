@@ -15,6 +15,10 @@ rtp://239.77.0.114:5146
 rtp://239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生高清
 rtp://239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
+rtp://239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
+rtp://239.77.0.168:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教高清
 rtp://239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
@@ -493,6 +497,10 @@ rtp://239.77.0.147:5146
 rtp://239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
 rtp://239.77.0.153:5146
+#EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
+rtp://239.77.1.200:5146
+#EXTINF:-1 tvg-name="中华美食" group-title="IPTV-数字付费",中华美食高清
+rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="梨园" group-title="IPTV-数字付费",梨园频道高清
 rtp://239.77.1.100:5146
 #EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
