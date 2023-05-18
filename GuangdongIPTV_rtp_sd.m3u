@@ -15,6 +15,10 @@ rtp://239.77.0.5:5146
 rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
 rtp://239.77.1.97:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
+rtp://239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
+rtp://239.77.0.168:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
 rtp://239.77.0.8:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
@@ -45,6 +49,8 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -73,6 +79,8 @@ rtp://239.77.1.39:5146
 rtp://239.77.0.116:5146
 #EXTINF:-1 tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活
 rtp://239.77.0.118:5146
+#EXTINF:-1 tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活高清
+rtp://239.77.0.119:5146
 #EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合
 rtp://239.77.0.120:5146
 #EXTINF:-1 tvg-name="湛江公共" group-title="IPTV-广东地方台",湛江公共
@@ -508,6 +516,8 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.218:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
@@ -515,8 +525,6 @@ rtp://239.77.0.232:5146
 rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.208:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.218:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.185:5146
 #EXTINF:-1,精选频道1
