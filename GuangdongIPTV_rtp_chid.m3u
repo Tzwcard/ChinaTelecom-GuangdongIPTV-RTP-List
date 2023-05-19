@@ -507,6 +507,8 @@ rtp://239.77.0.21:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-id="810" tvg-name="梨园" group-title="IPTV-数字付费",梨园频道高清
 rtp://239.77.1.100:5146
+#EXTINF:-1 tvg-id="811" tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
+rtp://239.77.0.211:5146
 #EXTINF:-1 tvg-id="812" tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.0.212:5146
 #EXTINF:-1 tvg-id="816" tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
