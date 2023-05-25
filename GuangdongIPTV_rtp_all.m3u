@@ -283,7 +283,7 @@ rtp://239.253.43.31:5146
 rtp://239.253.43.33:5146
 #EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活
 rtp://239.253.43.32:5146
-#EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活 (CAVS)
+#EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活
 rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活高清
 rtp://239.253.43.34:5146
