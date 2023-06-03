@@ -45,8 +45,6 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
 rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学一
 rtp://239.253.43.76:5146
 #EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学二
