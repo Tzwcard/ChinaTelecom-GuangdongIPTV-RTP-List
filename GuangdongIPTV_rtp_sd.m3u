@@ -43,30 +43,6 @@ rtp://239.253.43.67:5146
 rtp://239.253.43.68:5146
 #EXTINF:-1 tvg-name="广州法治" group-title="IPTV-广州电视台",广州法治
 rtp://239.253.43.69:5146
-#EXTINF:-1 tvg-name="广州竞赛" group-title="IPTV-广州电视台",广州竞赛
-rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学一
-rtp://239.253.43.76:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学二
-rtp://239.253.43.77:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学三
-rtp://239.253.43.78:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学四
-rtp://239.253.43.79:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学五
-rtp://239.253.43.80:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 小学六
-rtp://239.253.43.81:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 初一
-rtp://239.253.43.89:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 初二
-rtp://239.253.43.90:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 初三
-rtp://239.253.43.91:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 高一
-rtp://239.253.43.92:5146
-#EXTINF:-1 tvg-name="广视课堂" group-title="IPTV-广州电视台",广视课堂 高二
-rtp://239.253.43.93:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -95,8 +71,6 @@ rtp://239.77.1.39:5146
 rtp://239.77.0.116:5146
 #EXTINF:-1 tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活
 rtp://239.77.0.118:5146
-#EXTINF:-1 tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活高清
-rtp://239.77.0.119:5146
 #EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合
 rtp://239.77.0.120:5146
 #EXTINF:-1 tvg-name="湛江公共" group-title="IPTV-广东地方台",湛江公共
@@ -445,8 +419,6 @@ rtp://239.77.1.203:5146
 rtp://239.253.43.41:5146
 #EXTINF:-1 tvg-name="新动漫" group-title="IPTV-数字付费",新动漫
 rtp://239.77.1.136:5146
-#EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
-rtp://239.77.0.212:5146
 #EXTINF:-1 tvg-name="靓妆" group-title="IPTV-数字付费",靓妆
 rtp://239.77.1.118:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
