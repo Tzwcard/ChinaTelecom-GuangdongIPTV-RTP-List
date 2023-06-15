@@ -251,12 +251,6 @@ rtp://239.77.0.198:5146
 rtp://239.77.0.199:5146
 #EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
 rtp://239.77.0.221:5146
-#EXTINF:-1 tvg-name="CGTN法语" group-title="IPTV-央视",CGTN法语高清
-rtp://239.77.0.228:5146
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="IPTV-央视",CGTN阿拉伯语高清
-rtp://239.253.43.200:5146
-#EXTINF:-1 tvg-name="CGTN俄语" group-title="IPTV-央视",CGTN俄语高清
-rtp://239.253.43.201:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
 rtp://239.77.1.5:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清 (CAVS)
