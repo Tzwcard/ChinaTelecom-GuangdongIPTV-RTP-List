@@ -703,7 +703,7 @@ rtp://239.77.0.63:5146
 rtp://239.77.1.16:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
 rtp://239.77.1.162:5146
-#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
+#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清 (CAVS)
 rtp://239.77.1.210:5146
 #EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
 rtp://239.77.0.182:5146
