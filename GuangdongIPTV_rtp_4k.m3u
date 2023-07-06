@@ -1,10 +1,1 @@
-<br />
-<b>Warning</b>:  DOMDocument::loadHTMLFile(http://10.0.1.1:62594/status): failed to open stream: ����Ŀ����������ܾ����޷����ӡ�
- in <b>C:\IPTV\index.php</b> on line <b>899</b><br />
-<br />
-<b>Warning</b>:  DOMDocument::loadHTMLFile(): I/O warning : failed to load external entity &quot;http://10.0.1.1:62594/status&quot; in <b>C:\IPTV\index.php</b> on line <b>899</b><br />
-<br />
-<b>Fatal error</b>:  Uncaught Error: Call to a member function getElementsByTagName() on null in C:\IPTV\index.php:908
-Stack trace:
-#0 {main}
-  thrown in <b>C:\IPTV\index.php</b> on line <b>908</b><br />
+#EXTM3U name="广东电信IPTV"
