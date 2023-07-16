@@ -3,8 +3,6 @@
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教高清
 rtp://239.77.0.85:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
-rtp://239.77.0.22:5146
 #EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
 rtp://239.253.43.71:5146
 #EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻高清
@@ -15,8 +13,6 @@ rtp://239.253.43.73:5146
 rtp://239.253.43.74:5146
 #EXTINF:-1 tvg-name="深圳宝安频道" group-title="IPTV-深圳电视台",深圳宝安频道高清
 rtp://239.77.1.67:5146
-#EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合高清
-rtp://239.77.0.25:5146
 #EXTINF:-1 tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合高清
 rtp://239.253.43.33:5146
 #EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活高清
@@ -45,10 +41,16 @@ rtp://239.253.43.63:5146
 rtp://239.253.43.64:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.17:5146
+#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清 (CAVS)
+rtp://239.253.43.17:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 rtp://239.77.0.78:5146
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
+rtp://239.77.1.31:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
 rtp://239.77.1.76:5146
+#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
+rtp://239.77.1.33:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
 rtp://239.253.43.37:5146
 #EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视高清
@@ -57,23 +59,45 @@ rtp://239.253.43.36:5146
 rtp://239.253.43.35:5146
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
 rtp://239.253.43.18:5146
+#EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
+rtp://239.253.43.9:5146
 #EXTINF:-1 tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
 rtp://239.253.43.19:5146
+#EXTINF:-1 tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
+rtp://239.253.43.10:5146
+#EXTINF:-1 tvg-name="风云足球" group-title="IPTV-央视网台",风云足球高清
+rtp://239.253.43.20:5146
 #EXTINF:-1 tvg-name="央视台球" group-title="IPTV-央视网台",央视台球高清
 rtp://239.253.43.21:5146
+#EXTINF:-1 tvg-name="央视台球" group-title="IPTV-央视网台",央视台球高清
+rtp://239.253.43.11:5146
+#EXTINF:-1 tvg-name="高尔夫网球" group-title="IPTV-央视网台",高尔夫网球高清
+rtp://239.253.43.22:5146
 #EXTINF:-1 tvg-name="高尔夫网球" group-title="IPTV-央视网台",高尔夫网球高清
 rtp://239.253.43.12:5146
 #EXTINF:-1 tvg-name="女性时尚" group-title="IPTV-央视网台",女性时尚高清
 rtp://239.253.43.23:5146
+#EXTINF:-1 tvg-name="女性时尚" group-title="IPTV-央视网台",女性时尚高清
+rtp://239.253.43.8:5146
+#EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
+rtp://239.253.43.24:5146
+#EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
+rtp://239.253.43.7:5146
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
+rtp://239.253.43.25:5146
+#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
+rtp://239.253.43.5:5146
 #EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场高清
 rtp://239.253.43.26:5146
-#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场高清
-rtp://239.253.43.16:5146
 #EXTINF:-1 tvg-name="央视文化精品" group-title="IPTV-央视网台",央视文化精品高清
 rtp://239.253.43.27:5146
+#EXTINF:-1 tvg-name="央视文化精品" group-title="IPTV-央视网台",央视文化精品高清
+rtp://239.253.43.13:5146
 #EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
 rtp://239.253.43.28:5146
 #EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台",风云音乐高清
 rtp://239.253.43.29:5146
+#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台",风云音乐高清
+rtp://239.253.43.6:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.253.43.40:5146
