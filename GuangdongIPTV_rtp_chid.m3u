@@ -43,7 +43,7 @@ rtp://239.253.43.68:5146
 rtp://239.253.43.69:5146
 #EXTINF:-1 tvg-id="32" tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合
 rtp://239.77.0.116:5146
-#EXTINF:-1 tvg-id="33" tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活
+#EXTINF:-1 tvg-id="33",广东IPTV广告
 rtp://239.77.0.118:5146
 #EXTINF:-1 tvg-id="34" tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合
 rtp://239.77.0.120:5146
@@ -273,8 +273,6 @@ rtp://239.253.43.73:5146
 rtp://239.253.43.74:5146
 #EXTINF:-1 tvg-id="333" tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合高清
 rtp://239.77.0.117:5146
-#EXTINF:-1 tvg-id="334" tvg-name="韶关绿色生活" group-title="IPTV-广东地方台",韶关绿色生活高清
-rtp://239.77.0.119:5146
 #EXTINF:-1 tvg-id="335" tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1高清
 rtp://239.77.1.232:5146
 #EXTINF:-1 tvg-id="336" tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2高清
