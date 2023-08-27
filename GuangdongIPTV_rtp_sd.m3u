@@ -293,6 +293,8 @@ rtp://239.77.1.213:5146
 rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视
 rtp://239.77.1.59:5146
+#EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视高清
+rtp://239.77.0.139:5146
 #EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视
 rtp://239.77.0.67:5146
 #EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视
