@@ -31,6 +31,8 @@ rtp://239.77.0.13:5146
 rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲
 rtp://239.77.0.16:5146
+#EXTINF:-1 tvg-name="广东房产" group-title="IPTV-广东电视台",广东房产
+rtp://239.77.0.14:5146
 #EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
