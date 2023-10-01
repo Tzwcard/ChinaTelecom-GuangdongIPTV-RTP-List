@@ -143,8 +143,6 @@ rtp://239.77.1.132:5146
 rtp://239.253.43.47:5146
 #EXTINF:-1 tvg-name="佛山公共" group-title="IPTV-广东地方台",佛山公共高清
 rtp://239.253.43.53:5146
-#EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海高清
-rtp://239.253.43.54:5146
 #EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德高清
 rtp://239.253.43.55:5146
 #EXTINF:-1 tvg-name="佛山影视" group-title="IPTV-广东地方台",佛山影视高清
@@ -173,8 +171,6 @@ rtp://239.253.43.123:5146
 rtp://239.253.43.124:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
 rtp://239.77.0.241:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
-rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.144:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
@@ -291,8 +287,6 @@ rtp://239.77.1.150:5146
 rtp://239.77.0.89:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
 rtp://239.77.0.125:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
-rtp://239.77.1.18:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清 (CAVS)
 rtp://239.77.1.149:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
@@ -433,8 +427,6 @@ rtp://239.253.43.23:5146
 rtp://239.253.43.8:5146
 #EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
 rtp://239.253.43.24:5146
-#EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
-rtp://239.253.43.7:5146
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
 rtp://239.253.43.25:5146
 #EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
@@ -473,8 +465,6 @@ rtp://239.253.43.114:5146
 rtp://239.77.0.180:5146
 #EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
 rtp://239.77.1.249:5146
-#EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
-rtp://239.77.0.15:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶频道高清
 rtp://239.77.1.207:5146
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="IPTV-数字付费",快乐垂钓
