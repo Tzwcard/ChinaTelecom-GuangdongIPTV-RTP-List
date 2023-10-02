@@ -21,6 +21,8 @@ rtp://239.77.0.8:5146
 rtp://239.77.0.9:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.1.12:5146
+#EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视
+rtp://239.77.0.11:5146
 #EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿
 rtp://239.77.0.12:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
@@ -31,6 +33,8 @@ rtp://239.77.1.15:5146
 rtp://239.77.0.16:5146
 #EXTINF:-1 tvg-name="广东房产" group-title="IPTV-广东电视台",广东房产
 rtp://239.77.0.14:5146
+#EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
+rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
 #EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合
@@ -47,6 +51,8 @@ rtp://239.77.0.55:5146
 rtp://239.77.1.21:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道
 rtp://239.77.1.34:5146
+#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道
+rtp://239.77.1.7:5146
 #EXTINF:-1 tvg-name="深圳财经生活" group-title="IPTV-深圳电视台",深圳财经生活
 rtp://239.77.1.22:5146
 #EXTINF:-1 tvg-name="深圳娱乐频道" group-title="IPTV-深圳电视台",深圳娱乐频道
@@ -181,6 +187,8 @@ rtp://239.77.0.40:5146
 rtp://239.77.1.42:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12社会与法
 rtp://239.77.0.41:5146
+#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12
+rtp://239.77.1.10:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13新闻
 rtp://239.77.0.42:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13
@@ -246,6 +254,8 @@ rtp://239.77.0.56:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视
 rtp://239.77.1.44:5146
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视
+rtp://239.77.0.57:5146
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视
 rtp://239.77.1.62:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视
 rtp://239.77.0.58:5146
@@ -299,6 +309,8 @@ rtp://239.77.0.69:5146
 rtp://239.77.1.74:5146
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="IPTV-卫视",内蒙古卫视
 rtp://239.77.0.70:5146
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="IPTV-卫视",内蒙古卫视
+rtp://239.77.1.55:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 rtp://239.77.0.71:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
