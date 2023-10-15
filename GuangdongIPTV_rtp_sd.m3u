@@ -315,10 +315,6 @@ rtp://239.77.0.70:5146
 rtp://239.77.1.55:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 rtp://239.77.0.71:5146
-#EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
-rtp://239.77.1.70:5146
-#EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视
-rtp://239.77.0.72:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视
 rtp://239.77.1.51:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
