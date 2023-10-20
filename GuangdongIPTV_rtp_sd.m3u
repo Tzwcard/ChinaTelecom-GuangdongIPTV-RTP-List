@@ -37,8 +37,6 @@ rtp://239.77.0.14:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-rtp://239.77.0.244:5146
 #EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合
 rtp://239.253.43.66:5146
 #EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻
@@ -47,8 +45,6 @@ rtp://239.253.43.67:5146
 rtp://239.253.43.68:5146
 #EXTINF:-1 tvg-name="广州法治" group-title="IPTV-广州电视台",广州法治
 rtp://239.253.43.69:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -67,6 +63,8 @@ rtp://239.77.1.8:5146
 rtp://239.77.1.38:5146
 #EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道
 rtp://239.77.1.9:5146
+#EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
+rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
 rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物
@@ -105,6 +103,8 @@ rtp://239.77.1.231:5146
 rtp://239.253.43.3:5146
 #EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务
 rtp://239.253.43.4:5146
+#EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
+rtp://239.253.43.215:5146
 #EXTINF:-1 tvg-name="河源公共" group-title="IPTV-广东地方台",河源公共
 rtp://239.253.43.216:5146
 #EXTINF:-1 tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合
@@ -370,6 +370,8 @@ rtp://239.77.0.81:5146
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="IPTV-数字付费",哈哈炫动
 rtp://239.77.1.139:5146
 #EXTINF:-1 tvg-name="优漫卡通" group-title="IPTV-数字付费",优漫卡通
+rtp://239.77.0.222:5146
+#EXTINF:-1 tvg-name="优漫卡通" group-title="IPTV-数字付费",优漫卡通
 rtp://239.77.1.79:5146
 #EXTINF:-1 tvg-name="CETV-1" group-title="IPTV-数字付费",CETV-1
 rtp://239.77.0.82:5146
@@ -497,6 +499,8 @@ rtp://239.253.43.165:5146
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.232:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
