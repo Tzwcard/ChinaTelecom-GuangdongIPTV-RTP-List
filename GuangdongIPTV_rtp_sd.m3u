@@ -45,8 +45,6 @@ rtp://239.253.43.67:5146
 rtp://239.253.43.68:5146
 #EXTINF:-1 tvg-name="广州法治" group-title="IPTV-广州电视台",广州法治
 rtp://239.253.43.69:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
 rtp://239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视
@@ -147,8 +145,6 @@ rtp://239.253.43.103:5146
 rtp://239.253.43.59:5146
 #EXTINF:-1 tvg-name="香山文化" group-title="IPTV-广东地方台",香山文化
 rtp://239.253.43.60:5146
-#EXTINF:-1 tvg-name="中山教育" group-title="IPTV-广东地方台",中山教育
-rtp://239.253.43.61:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
@@ -203,8 +199,6 @@ rtp://239.77.1.43:5146
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
 rtp://239.77.1.11:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.1.98:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17
