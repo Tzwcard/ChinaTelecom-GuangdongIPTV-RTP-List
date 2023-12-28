@@ -499,6 +499,8 @@ rtp://239.77.1.100:5146
 rtp://239.77.1.108:5146
 #EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
 rtp://239.77.1.120:5146
+#EXTINF:-1 tvg-name="天元围棋" group-title="IPTV-数字付费",天元围棋
+rtp://239.253.43.98:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
