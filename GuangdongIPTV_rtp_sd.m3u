@@ -47,40 +47,10 @@ rtp://239.77.1.225:5146
 rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物
 rtp://239.77.1.39:5146
-#EXTINF:-1 tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合
-rtp://239.77.0.116:5146
-#EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合
-rtp://239.77.0.120:5146
-#EXTINF:-1 tvg-name="湛江公共" group-title="IPTV-广东地方台",湛江公共
-rtp://239.77.0.121:5146
-#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合
-rtp://239.77.0.157:5146
-#EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活
-rtp://239.77.0.158:5146
-#EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合
-rtp://239.77.1.189:5146
-#EXTINF:-1 tvg-name="汕尾文化生活" group-title="IPTV-广东地方台",汕尾文化生活
-rtp://239.77.1.190:5146
-#EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合
-rtp://239.77.0.195:5146
-#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活
-rtp://239.77.0.196:5146
-#EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1
-rtp://239.77.0.247:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1
 rtp://239.77.1.154:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2
-rtp://239.77.0.248:5146
-#EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2
 rtp://239.77.1.173:5146
-#EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1
-rtp://239.77.1.230:5146
-#EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2
-rtp://239.77.1.231:5146
-#EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合
-rtp://239.253.43.3:5146
-#EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务
-rtp://239.253.43.4:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
 rtp://239.253.43.215:5146
 #EXTINF:-1 tvg-name="河源公共" group-title="IPTV-广东地方台",河源公共
