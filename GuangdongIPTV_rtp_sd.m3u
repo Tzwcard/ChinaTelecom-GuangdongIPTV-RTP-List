@@ -87,8 +87,6 @@ rtp://239.77.1.42:5146
 rtp://239.77.0.41:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13新闻
 rtp://239.77.0.42:5146
-#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13
-rtp://239.77.1.26:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14少儿
 rtp://239.77.0.43:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15音乐
@@ -316,9 +314,9 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.232:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.232:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.240:5146
 #EXTINF:-1,版权问题不能播放
