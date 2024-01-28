@@ -79,8 +79,6 @@ rtp://239.77.1.126:5146
 rtp://239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 rtp://239.77.1.223:5146
-#EXTINF:-1 tvg-name="深圳东部频道" group-title="IPTV-深圳电视台",深圳东部频道高清
-rtp://239.77.1.224:5146
 #EXTINF:-1 tvg-name="深圳众创TV" group-title="IPTV-深圳电视台",深圳众创TV高清
 rtp://239.77.1.247:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物高清
@@ -137,6 +135,8 @@ rtp://239.77.1.130:5146
 rtp://239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
 rtp://239.77.1.131:5146
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
+rtp://239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
 rtp://239.77.1.132:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
@@ -161,8 +161,6 @@ rtp://239.253.43.62:5146
 rtp://239.253.43.63:5146
 #EXTINF:-1 tvg-name="潮州综合" group-title="IPTV-广东地方台",潮州综合高清
 rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="潮州民生" group-title="IPTV-广东地方台",潮州民生高清
-rtp://239.253.43.75:5146
 #EXTINF:-1 tvg-name="徐闻综合" group-title="IPTV-广东地方台",徐闻综合高清
 rtp://239.253.43.112:5146
 #EXTINF:-1 tvg-name="梅州-1" group-title="IPTV-广东地方台",梅州-1高清
@@ -255,8 +253,6 @@ rtp://239.77.0.133:5146
 rtp://239.77.1.239:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
 rtp://239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
-rtp://239.77.1.76:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17高清
 rtp://239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
@@ -463,6 +459,8 @@ rtp://239.77.1.222:5146
 rtp://239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.77.1.200:5146
+#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
+rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
