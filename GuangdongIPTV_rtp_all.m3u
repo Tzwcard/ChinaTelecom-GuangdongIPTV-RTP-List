@@ -69,10 +69,14 @@ rtp://239.77.0.19:5146
 rtp://239.77.0.22:5146
 #EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲
 rtp://239.77.0.16:5146
+#EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲高清
+rtp://239.77.0.122:5146
 #EXTINF:-1 tvg-name="广东房产" group-title="IPTV-广东电视台",广东房产
 rtp://239.77.0.14:5146
 #EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
 rtp://239.77.0.18:5146
+#EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育高清
+rtp://239.77.0.213:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K50p
@@ -347,6 +351,8 @@ rtp://239.77.0.241:5146
 rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.144:5146
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
+rtp://239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
 rtp://239.77.0.86:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1超清
@@ -741,6 +747,8 @@ rtp://239.77.1.55:5146
 rtp://239.77.0.71:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 rtp://239.77.1.70:5146
+#EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视高清
+rtp://239.253.43.125:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视
 rtp://239.77.0.72:5146
 #EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视
@@ -839,6 +847,8 @@ rtp://239.77.1.197:5146
 rtp://239.77.1.195:5146
 #EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
 rtp://239.77.1.112:5146
+#EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
+rtp://239.253.43.127:5146
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="IPTV-央视网台",CHC高清电影
 rtp://239.77.0.27:5146
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="IPTV-数字付费",卡酷少儿
@@ -917,6 +927,8 @@ rtp://239.77.0.147:5146
 rtp://239.77.0.224:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.77.1.198:5146
+#EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
+rtp://239.253.43.126:5146
 #EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
 rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="DOXTV" group-title="IPTV-数字付费",DOXTV
@@ -1055,18 +1067,6 @@ rtp://239.77.1.184:5146
 rtp://239.77.1.185:5146
 #EXTINF:-1,PPTV-4
 rtp://239.77.1.186:5146
-#EXTINF:-1,Unknown@239.253.43.125:5146
-rtp://239.253.43.125:5146
-#EXTINF:-1,Unknown@239.253.43.126:5146
-rtp://239.253.43.126:5146
-#EXTINF:-1,Unknown@239.253.43.127:5146
-rtp://239.253.43.127:5146
-#EXTINF:-1,Unknown@239.77.0.119:5146
-rtp://239.77.0.119:5146
-#EXTINF:-1,Unknown@239.77.0.122:5146
-rtp://239.77.0.122:5146
-#EXTINF:-1,Unknown@239.77.0.213:5146
-rtp://239.77.0.213:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,卫星信号传输故障高清
@@ -1078,13 +1078,13 @@ rtp://239.77.0.218:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.240:5146
+rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.118:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.208:5146
+rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146
+rtp://239.77.0.208:5146
 #EXTINF:-1,极K精选-测试
 rtp://239.77.0.231:5146
 #EXTINF:-1,极k影视-测试
