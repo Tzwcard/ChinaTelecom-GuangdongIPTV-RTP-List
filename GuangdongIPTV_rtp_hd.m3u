@@ -475,12 +475,8 @@ rtp://239.77.0.180:5146
 rtp://239.77.1.249:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
 rtp://239.77.0.15:5146
-#EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶频道高清
-rtp://239.77.1.207:5146
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="IPTV-数字付费",快乐垂钓
 rtp://239.77.0.145:5146
-#EXTINF:-1 tvg-name="快乐垂钓" group-title="IPTV-数字付费",快乐垂钓高清
-rtp://239.77.1.119:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清
 rtp://239.77.1.217:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清测试
