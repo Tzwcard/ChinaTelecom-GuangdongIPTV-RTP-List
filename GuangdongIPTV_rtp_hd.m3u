@@ -491,6 +491,10 @@ rtp://239.77.0.147:5146
 rtp://239.77.0.21:5146
 #EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
 rtp://239.77.0.153:5146
+#EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
+rtp://239.77.1.108:5146
+#EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
+rtp://239.77.1.120:5146
 #EXTINF:-1 tvg-name="先锋乒羽" group-title="IPTV-数字付费",先锋乒羽
 rtp://239.77.1.208:5146
 #EXTINF:-1 tvg-name="天元围棋" group-title="IPTV-数字付费",天元围棋
