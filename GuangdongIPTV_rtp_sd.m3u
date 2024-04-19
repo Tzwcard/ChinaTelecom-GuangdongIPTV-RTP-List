@@ -35,6 +35,8 @@ rtp://239.77.0.14:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
+rtp://239.77.0.244:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -47,8 +49,6 @@ rtp://239.77.1.173:5146
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
-rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2财经
 rtp://239.77.0.31:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3综艺
