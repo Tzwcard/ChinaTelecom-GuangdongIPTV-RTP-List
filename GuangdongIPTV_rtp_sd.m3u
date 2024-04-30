@@ -183,14 +183,6 @@ rtp://239.77.1.204:5146
 rtp://239.77.1.137:5146
 #EXTINF:-1 tvg-name="环球旅游" group-title="IPTV-数字付费",环球旅游
 rtp://239.77.1.202:5146
-#EXTINF:-1 tvg-name="生态环境" group-title="IPTV-数字付费",生态环境
-rtp://239.77.1.201:5146
-#EXTINF:-1 tvg-name="生态环境" group-title="IPTV-数字付费",生态环境
-rtp://239.253.43.42:5146
-#EXTINF:-1 tvg-name="车迷" group-title="IPTV-数字付费",车迷频道
-rtp://239.77.1.203:5146
-#EXTINF:-1 tvg-name="车迷" group-title="IPTV-数字付费",车迷频道
-rtp://239.253.43.41:5146
 #EXTINF:-1 tvg-name="新动漫" group-title="IPTV-数字付费",新动漫
 rtp://239.77.1.136:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
