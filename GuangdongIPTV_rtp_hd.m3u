@@ -59,6 +59,8 @@ rtp://239.77.0.130:5146
 rtp://239.77.1.176:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
 rtp://239.77.1.124:5146
+#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道
+rtp://239.77.1.7:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
 rtp://239.77.1.177:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
@@ -67,12 +69,16 @@ rtp://239.77.1.125:5146
 rtp://239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳娱乐频道" group-title="IPTV-深圳电视台",深圳娱乐频道高清
 rtp://239.77.1.243:5146
+#EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康
+rtp://239.77.1.8:5146
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康高清
 rtp://239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康高清
 rtp://239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳少儿频道" group-title="IPTV-深圳电视台",深圳少儿频道高清
 rtp://239.77.1.244:5146
+#EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道
+rtp://239.77.1.9:5146
 #EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道高清
 rtp://239.77.1.178:5146
 #EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道高清
@@ -239,6 +245,8 @@ rtp://239.77.1.169:5146
 rtp://239.77.0.134:5146
 #EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
 rtp://239.77.1.238:5146
+#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12
+rtp://239.77.1.10:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
 rtp://239.77.1.109:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
@@ -517,6 +525,8 @@ rtp://239.253.43.98:5146
 rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.1.116:5146
+#EXTINF:-1,Unknown@239.253.43.169:5146
+rtp://239.253.43.169:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
