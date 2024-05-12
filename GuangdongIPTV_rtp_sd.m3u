@@ -99,18 +99,26 @@ rtp://239.77.0.69:5146
 rtp://239.77.1.74:5146
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="IPTV-卫视",内蒙古卫视
 rtp://239.77.0.70:5146
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="IPTV-卫视",内蒙古卫视
+rtp://239.77.1.55:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 rtp://239.77.0.71:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 rtp://239.77.1.70:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
 rtp://239.77.0.73:5146
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
+rtp://239.77.1.47:5146
 #EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
 rtp://239.77.0.74:5146
+#EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
+rtp://239.77.1.49:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
 rtp://239.77.0.75:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
 rtp://239.77.1.53:5146
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="IPTV-卫视",甘肃卫视
+rtp://239.77.1.57:5146
 #EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
 rtp://239.77.0.77:5146
 #EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
