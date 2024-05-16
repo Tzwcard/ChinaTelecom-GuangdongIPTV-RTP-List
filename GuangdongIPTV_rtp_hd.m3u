@@ -27,8 +27,6 @@ rtp://239.77.0.167:5146
 rtp://239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视高清
 rtp://239.77.0.217:5146
-#EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿高清
-rtp://239.77.0.250:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通高清
 rtp://239.77.0.179:5146
 #EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
@@ -65,8 +63,6 @@ rtp://239.77.1.7:5146
 rtp://239.77.1.177:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
 rtp://239.77.1.125:5146
-#EXTINF:-1 tvg-name="深圳财经生活" group-title="IPTV-深圳电视台",深圳财经生活高清
-rtp://239.77.1.242:5146
 #EXTINF:-1 tvg-name="深圳娱乐频道" group-title="IPTV-深圳电视台",深圳娱乐频道高清
 rtp://239.77.1.243:5146
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康
@@ -117,8 +113,6 @@ rtp://239.77.1.233:5146
 rtp://239.77.0.155:5146
 #EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2高清
 rtp://239.77.0.154:5146
-#EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合高清
-rtp://239.253.43.1:5146
 #EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务高清
 rtp://239.253.43.2:5146
 #EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合高清
@@ -425,8 +419,6 @@ rtp://239.253.43.19:5146
 rtp://239.253.43.10:5146
 #EXTINF:-1 tvg-name="风云足球" group-title="IPTV-央视网台",风云足球高清
 rtp://239.253.43.20:5146
-#EXTINF:-1 tvg-name="风云足球" group-title="IPTV-央视网台",风云足球高清
-rtp://239.253.43.14:5146
 #EXTINF:-1 tvg-name="央视台球" group-title="IPTV-央视网台",央视台球高清
 rtp://239.253.43.21:5146
 #EXTINF:-1 tvg-name="央视台球" group-title="IPTV-央视网台",央视台球高清
@@ -479,8 +471,6 @@ rtp://239.253.43.40:5146
 rtp://239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 rtp://239.77.0.180:5146
-#EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
-rtp://239.77.1.249:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
 rtp://239.77.0.15:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶频道高清

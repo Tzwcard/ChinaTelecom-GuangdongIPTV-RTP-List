@@ -29,8 +29,6 @@ rtp://239.77.0.13:5146
 rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲
 rtp://239.77.0.16:5146
-#EXTINF:-1 tvg-name="广东房产" group-title="IPTV-广东电视台",广东房产
-rtp://239.77.0.14:5146
 #EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
@@ -177,18 +175,6 @@ rtp://239.77.1.198:5146
 rtp://239.253.43.126:5146
 #EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
 rtp://239.77.1.115:5146
-#EXTINF:-1 tvg-name="优优宝贝" group-title="IPTV-数字付费",优优宝贝
-rtp://239.77.1.193:5146
-#EXTINF:-1 tvg-name="优优宝贝" group-title="IPTV-数字付费",优优宝贝
-rtp://239.253.43.39:5146
-#EXTINF:-1 tvg-name="中华特产" group-title="IPTV-数字付费",中华特产
-rtp://239.77.1.204:5146
-#EXTINF:-1 tvg-name="四海钓鱼" group-title="IPTV-数字付费",四海钓鱼
-rtp://239.77.1.137:5146
-#EXTINF:-1 tvg-name="环球旅游" group-title="IPTV-数字付费",环球旅游
-rtp://239.77.1.202:5146
-#EXTINF:-1 tvg-name="新动漫" group-title="IPTV-数字付费",新动漫
-rtp://239.77.1.136:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
@@ -223,8 +209,6 @@ rtp://239.77.0.103:5146
 rtp://239.77.1.138:5146
 #EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
 rtp://239.77.0.105:5146
-#EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
-rtp://239.77.1.82:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.0.99:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
