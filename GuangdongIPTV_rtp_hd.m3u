@@ -494,8 +494,6 @@ rtp://239.77.0.160:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
 rtp://239.77.0.162:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
-rtp://239.77.1.216:5146
-#EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
 rtp://239.77.0.147:5146
 #EXTINF:-1 tvg-name="生态环境" group-title="IPTV-数字付费",生态环境
 rtp://239.77.1.201:5146
