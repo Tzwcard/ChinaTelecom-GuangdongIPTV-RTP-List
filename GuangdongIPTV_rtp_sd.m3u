@@ -35,8 +35,8 @@ rtp://239.77.0.14:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-rtp://239.77.0.244:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -45,6 +45,8 @@ rtp://239.77.1.175:5146
 rtp://239.77.1.154:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2
 rtp://239.77.1.173:5146
+#EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
+rtp://239.253.43.47:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
@@ -81,8 +83,6 @@ rtp://239.77.0.43:5146
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
 rtp://239.77.1.11:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-rtp://239.77.1.98:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
