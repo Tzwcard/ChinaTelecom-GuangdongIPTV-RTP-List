@@ -35,8 +35,6 @@ rtp://239.77.0.14:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -85,6 +83,14 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
+#EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
+rtp://239.77.0.221:5146
+#EXTINF:-1 tvg-name="CGTN法语" group-title="IPTV-央视",CGTN法语高清
+rtp://239.77.0.228:5146
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="IPTV-央视",CGTN阿拉伯语高清
+rtp://239.253.43.200:5146
+#EXTINF:-1 tvg-name="CGTN俄语" group-title="IPTV-央视",CGTN俄语高清
+rtp://239.253.43.201:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
@@ -199,6 +205,8 @@ rtp://239.77.1.56:5146
 rtp://239.77.0.108:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育
 rtp://239.77.1.77:5146
+#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
+rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
 rtp://239.77.0.103:5146
 #EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
