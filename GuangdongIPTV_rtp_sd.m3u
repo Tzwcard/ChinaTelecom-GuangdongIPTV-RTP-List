@@ -35,8 +35,6 @@ rtp://239.77.0.14:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="深圳财经生活" group-title="IPTV-深圳电视台",深圳财经生活
-rtp://239.77.1.22:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -125,8 +123,6 @@ rtp://239.77.0.96:5146
 rtp://239.77.1.117:5146
 #EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",吉林延边卫视
 rtp://239.77.0.10:5146
-#EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",延边卫视
-rtp://239.77.1.99:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
 rtp://239.77.0.220:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
@@ -200,15 +196,9 @@ rtp://239.77.0.108:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育
 rtp://239.77.1.77:5146
 #EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
-rtp://239.77.0.103:5146
-#EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
 rtp://239.77.1.138:5146
 #EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
-rtp://239.77.0.105:5146
-#EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
 rtp://239.77.1.82:5146
-#EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
-rtp://239.77.0.99:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.1.83:5146
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="IPTV-IPTV频道",IPTV相声小品
@@ -216,19 +206,13 @@ rtp://239.77.0.100:5146
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="IPTV-IPTV频道",IPTV相声小品
 rtp://239.77.1.84:5146
 #EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
-rtp://239.77.0.101:5146
-#EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
 rtp://239.77.1.85:5146
-#EXTINF:-1 tvg-name="IPTV法治" group-title="IPTV-IPTV频道",IPTV法治
-rtp://239.77.0.102:5146
 #EXTINF:-1 tvg-name="IPTV法治" group-title="IPTV-IPTV频道",IPTV法治
 rtp://239.77.1.86:5146
 #EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",魅力时尚
 rtp://239.77.0.110:5146
 #EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",IPTV魅力时尚
 rtp://239.77.1.88:5146
-#EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",经典电影
-rtp://239.77.0.104:5146
 #EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",IPTV经典电影
 rtp://239.77.1.89:5146
 #EXTINF:-1 tvg-name="IPTV热播剧场" group-title="IPTV-IPTV频道",热播剧场
@@ -239,8 +223,6 @@ rtp://239.77.1.90:5146
 rtp://239.77.0.109:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",IPTV少儿动画
 rtp://239.77.1.91:5146
-#EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
-rtp://239.77.0.111:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
