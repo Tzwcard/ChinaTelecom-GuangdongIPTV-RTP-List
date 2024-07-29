@@ -1,10 +1,11 @@
-<br />
-<b>Warning</b>:  DOMDocument::loadHTMLFile(http://10.0.1.1:62594/status): failed to open stream: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
- in <b>C:\IPTV\index.php</b> on line <b>906</b><br />
-<br />
-<b>Warning</b>:  DOMDocument::loadHTMLFile(): I/O warning : failed to load external entity &quot;http://10.0.1.1:62594/status&quot; in <b>C:\IPTV\index.php</b> on line <b>906</b><br />
-<br />
-<b>Fatal error</b>:  Uncaught Error: Call to a member function getElementsByTagName() on null in C:\IPTV\index.php:915
-Stack trace:
-#0 {main}
-  thrown in <b>C:\IPTV\index.php</b> on line <b>915</b><br />
+#EXTM3U name="广东电信IPTV"
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
+#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
+rtp://239.77.1.98:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+rtp://239.77.0.194:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
+rtp://239.77.0.174:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+rtp://239.77.1.180:5146
