@@ -39,8 +39,12 @@ rtp://239.77.0.20:5146
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
 rtp://239.77.1.175:5146
+#EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
+rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
+rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2财经
 rtp://239.77.0.31:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3综艺
@@ -243,6 +247,10 @@ rtp://239.77.1.183:5146
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.232:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.233:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.240:5146
 #EXTINF:-1,版权问题不能播放
 rtp://239.77.0.185:5146
 #EXTINF:-1,精选频道1
