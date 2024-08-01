@@ -115,8 +115,6 @@ rtp://239.77.1.232:5146
 rtp://239.77.1.233:5146
 #EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1高清
 rtp://239.77.0.155:5146
-#EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2高清
-rtp://239.77.0.154:5146
 #EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合高清
 rtp://239.253.43.1:5146
 #EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务高清
