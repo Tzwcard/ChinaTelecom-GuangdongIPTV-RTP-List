@@ -15,6 +15,10 @@ rtp://239.77.0.114:5146
 rtp://239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生高清
 rtp://239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
+rtp://239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
+rtp://239.77.0.168:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教高清
 rtp://239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
@@ -141,14 +145,20 @@ rtp://239.77.1.130:5146
 rtp://239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
 rtp://239.77.1.131:5146
+#EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
+rtp://239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
 rtp://239.77.1.132:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
 rtp://239.253.43.47:5146
 #EXTINF:-1 tvg-name="佛山公共" group-title="IPTV-广东地方台",佛山公共高清
 rtp://239.253.43.53:5146
+#EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海高清
+rtp://239.253.43.54:5146
 #EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德高清
 rtp://239.253.43.55:5146
+#EXTINF:-1 tvg-name="佛山影视" group-title="IPTV-广东地方台",佛山影视高清
+rtp://239.253.43.56:5146
 #EXTINF:-1 tvg-name="佛山综合" group-title="IPTV-广东地方台",佛山综合高清
 rtp://239.253.43.57:5146
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合高清
@@ -197,8 +207,6 @@ rtp://239.77.1.163:5146
 rtp://239.77.1.166:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 rtp://239.77.0.78:5146
-#EXTINF:-1 tvg-name="CCTV-4美洲" group-title="IPTV-央视",CCTV-4美洲高清
-rtp://239.253.43.121:5146
 #EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="IPTV-央视",CCTV-4欧洲高清
 rtp://239.253.43.120:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
@@ -467,6 +475,8 @@ rtp://239.77.1.222:5146
 rtp://239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.77.1.200:5146
+#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
+rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
