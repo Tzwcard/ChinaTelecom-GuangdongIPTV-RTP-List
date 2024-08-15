@@ -405,7 +405,7 @@ rtp://239.77.1.147:5146
 rtp://239.77.0.35:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
 rtp://239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清
 rtp://239.77.0.178:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7国防军事
 rtp://239.77.0.36:5146
@@ -413,7 +413,7 @@ rtp://239.77.0.36:5146
 rtp://239.77.1.24:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 rtp://239.77.1.159:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 rtp://239.77.1.167:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清测试(CCTV -7军事农业高清)
 rtp://239.77.0.138:5146
@@ -439,7 +439,7 @@ rtp://239.77.0.39:5146
 rtp://239.77.1.25:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.169:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
 rtp://239.77.0.134:5146
@@ -473,7 +473,7 @@ rtp://239.77.0.43:5146
 rtp://239.77.1.43:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.171:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
 rtp://239.77.0.133:5146
