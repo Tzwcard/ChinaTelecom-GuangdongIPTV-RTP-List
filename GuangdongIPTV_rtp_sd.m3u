@@ -41,6 +41,8 @@ rtp://239.77.1.225:5146
 rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
+#EXTINF:-1 tvg-name="徐闻综合" group-title="IPTV-广东地方台",徐闻综合高清
+rtp://239.253.43.112:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
