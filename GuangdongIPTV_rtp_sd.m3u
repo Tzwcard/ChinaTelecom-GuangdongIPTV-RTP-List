@@ -43,8 +43,6 @@ rtp://239.77.1.225:5146
 rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
-#EXTINF:-1 tvg-name="徐闻综合" group-title="IPTV-广东地方台",徐闻综合高清
-rtp://239.253.43.112:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
@@ -168,8 +166,6 @@ rtp://239.77.0.113:5146
 #EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气
 rtp://239.77.1.143:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
-rtp://239.77.1.198:5146
-#EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.253.43.126:5146
 #EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
 rtp://239.77.1.115:5146
@@ -179,8 +175,6 @@ rtp://239.77.0.153:5146
 rtp://239.77.0.226:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
 rtp://239.77.1.105:5146
-#EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
-rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
