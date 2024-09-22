@@ -157,8 +157,6 @@ rtp://239.253.43.62:5146
 rtp://239.253.43.63:5146
 #EXTINF:-1 tvg-name="潮州综合" group-title="IPTV-广东地方台",潮州综合高清
 rtp://239.253.43.70:5146
-#EXTINF:-1 tvg-name="潮州民生" group-title="IPTV-广东地方台",潮州民生高清
-rtp://239.253.43.75:5146
 #EXTINF:-1 tvg-name="徐闻综合" group-title="IPTV-广东地方台",徐闻综合高清
 rtp://239.253.43.112:5146
 #EXTINF:-1 tvg-name="梅州综合" group-title="IPTV-广东地方台",梅州综合高清
@@ -259,8 +257,6 @@ rtp://239.77.1.120:5146
 rtp://239.77.1.239:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
 rtp://239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
-rtp://239.77.1.76:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17高清
 rtp://239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
