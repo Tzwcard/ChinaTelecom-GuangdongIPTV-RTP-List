@@ -159,8 +159,6 @@ rtp://239.253.43.63:5146
 rtp://239.253.43.70:5146
 #EXTINF:-1 tvg-name="潮州民生" group-title="IPTV-广东地方台",潮州民生高清
 rtp://239.253.43.75:5146
-#EXTINF:-1 tvg-name="徐闻综合" group-title="IPTV-广东地方台",徐闻综合高清
-rtp://239.253.43.112:5146
 #EXTINF:-1 tvg-name="梅州综合" group-title="IPTV-广东地方台",梅州综合高清
 rtp://239.253.43.123:5146
 #EXTINF:-1 tvg-name="客家生活" group-title="IPTV-广东地方台",客家生活高清
@@ -487,8 +485,6 @@ rtp://239.77.1.217:5146
 rtp://239.77.0.160:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
 rtp://239.77.0.162:5146
-#EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
-rtp://239.77.1.216:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
 rtp://239.77.0.147:5146
 #EXTINF:-1 tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
