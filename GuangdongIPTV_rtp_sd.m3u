@@ -47,8 +47,6 @@ rtp://239.77.0.31:5146
 rtp://239.77.0.32:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4中文国际
 rtp://239.77.0.33:5146
-#EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="IPTV-央视",CCTV-4欧洲高清
-rtp://239.77.0.240:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5体育
 rtp://239.77.0.34:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6电影
@@ -71,8 +69,6 @@ rtp://239.77.0.41:5146
 rtp://239.77.0.42:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14少儿
 rtp://239.77.0.43:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
-rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15音乐
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
