@@ -33,8 +33,6 @@ rtp://239.77.0.16:5146
 rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -159,8 +157,6 @@ rtp://239.77.0.83:5146
 rtp://239.77.1.35:5146
 #EXTINF:-1 tvg-name="财富天下" group-title="IPTV-数字付费",财富天下
 rtp://239.77.0.113:5146
-#EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气
-rtp://239.77.1.143:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.77.1.198:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
@@ -244,18 +240,18 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.232:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.153:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.185:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.193:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.191:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.232:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.153:5146
+rtp://239.77.0.193:5146
 #EXTINF:-1,精选频道1
 rtp://239.77.0.186:5146
