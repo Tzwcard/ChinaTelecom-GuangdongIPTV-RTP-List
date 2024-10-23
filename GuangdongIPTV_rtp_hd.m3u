@@ -475,8 +475,6 @@ rtp://239.253.43.114:5146
 rtp://239.77.0.180:5146
 #EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
 rtp://239.77.1.249:5146
-#EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气
-rtp://239.77.1.143:5146
 #EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气高清
 rtp://239.77.1.2:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
