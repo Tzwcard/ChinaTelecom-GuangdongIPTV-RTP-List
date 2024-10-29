@@ -123,6 +123,8 @@ rtp://239.77.0.253:5146
 rtp://239.77.0.254:5146
 #EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合高清
 rtp://239.77.0.206:5146
+#EXTINF:-1 tvg-name="茂名公共" group-title="IPTV-广东地方台",茂名公共高清
+rtp://239.77.0.207:5146
 #EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合高清
 rtp://239.77.1.130:5146
 #EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合高清
