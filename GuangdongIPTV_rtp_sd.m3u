@@ -75,6 +75,8 @@ rtp://239.77.0.236:5146
 rtp://239.77.0.44:5146
 #EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15
 rtp://239.77.1.11:5146
+#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
+rtp://239.77.1.98:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
@@ -234,17 +236,15 @@ rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.153:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.193:5146
-#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.191:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.153:5146
-#EXTINF:-1,百事通高清
-rtp://239.253.43.119:5146
+rtp://239.77.0.193:5146
 #EXTINF:-1,百事通高清
 rtp://239.253.43.115:5146
 #EXTINF:-1,百事通高清
@@ -253,5 +253,7 @@ rtp://239.253.43.116:5146
 rtp://239.253.43.117:5146
 #EXTINF:-1,百事通高清
 rtp://239.253.43.118:5146
+#EXTINF:-1,百事通高清
+rtp://239.253.43.119:5146
 #EXTINF:-1,精选频道1
 rtp://239.77.0.186:5146
