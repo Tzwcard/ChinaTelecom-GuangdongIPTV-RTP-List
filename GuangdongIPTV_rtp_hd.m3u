@@ -71,10 +71,14 @@ rtp://239.77.1.242:5146
 rtp://239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康高清
 rtp://239.77.1.140:5146
+#EXTINF:-1 tvg-name="深圳少儿频道" group-title="IPTV-深圳电视台",深圳少儿频道高清
+rtp://239.77.1.244:5146
 #EXTINF:-1 tvg-name="深圳宝安频道" group-title="IPTV-深圳电视台",深圳宝安频道高清
 rtp://239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
 rtp://239.77.1.223:5146
+#EXTINF:-1 tvg-name="深圳众创TV" group-title="IPTV-深圳电视台",深圳众创TV高清
+rtp://239.77.1.247:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物高清
 rtp://239.77.1.87:5146
 #EXTINF:-1 tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合高清
@@ -85,6 +89,8 @@ rtp://239.77.0.141:5146
 rtp://239.77.0.140:5146
 #EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
 rtp://239.77.0.229:5146
+#EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活高清
+rtp://239.77.0.251:5146
 #EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合高清
 rtp://239.77.0.25:5146
 #EXTINF:-1 tvg-name="汕尾文化生活" group-title="IPTV-广东地方台",汕尾文化生活高清
@@ -111,6 +117,8 @@ rtp://239.253.43.214:5146
 rtp://239.253.43.33:5146
 #EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活高清
 rtp://239.253.43.34:5146
+#EXTINF:-1 tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合高清
+rtp://239.77.0.253:5146
 #EXTINF:-1 tvg-name="云浮文旅" group-title="IPTV-广东地方台",云浮文旅高清
 rtp://239.77.0.254:5146
 #EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合高清
@@ -461,6 +469,8 @@ rtp://239.253.43.40:5146
 rtp://239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 rtp://239.77.0.180:5146
+#EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
+rtp://239.77.1.249:5146
 #EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气高清
 rtp://239.77.1.2:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
