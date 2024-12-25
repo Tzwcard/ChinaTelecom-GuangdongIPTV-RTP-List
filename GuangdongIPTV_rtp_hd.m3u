@@ -484,8 +484,6 @@ rtp://239.77.0.160:5146
 #EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
 rtp://239.77.0.162:5146
 #EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
-rtp://239.77.1.216:5146
-#EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
 rtp://239.77.0.147:5146
 #EXTINF:-1 tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
 rtp://239.77.0.21:5146
@@ -515,6 +513,10 @@ rtp://239.77.1.10:5146
 rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.1.116:5146
+#EXTINF:-1,Unknown@239.253.43.82:5146
+rtp://239.253.43.82:5146
+#EXTINF:-1,Unknown@239.253.43.83:5146
+rtp://239.253.43.83:5146
 #EXTINF:-1,Unknown@239.77.1.114:5146
 rtp://239.77.1.114:5146
 #EXTINF:-1,九屏同播
