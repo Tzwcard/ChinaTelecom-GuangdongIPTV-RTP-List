@@ -373,7 +373,7 @@ rtp://239.77.0.124:5146
 rtp://239.77.0.128:5146
 #EXTINF:-1 tvg-id="527" tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
 rtp://239.77.0.131:5146
-#EXTINF:-1 tvg-id="528" tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
+#EXTINF:-1 tvg-id="528" tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清
 rtp://239.77.0.132:5146
 #EXTINF:-1 tvg-id="530" tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
 rtp://239.77.0.161:5146
