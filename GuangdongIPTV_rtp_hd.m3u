@@ -469,8 +469,6 @@ rtp://239.253.43.40:5146
 rtp://239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 rtp://239.77.0.180:5146
-#EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
-rtp://239.77.1.249:5146
 #EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气高清
 rtp://239.77.1.2:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
@@ -519,8 +517,6 @@ rtp://239.253.43.83:5146
 rtp://239.77.1.114:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
-#EXTINF:-1,四屏同播
-rtp://239.77.1.107:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.185:5146
 #EXTINF:-1,网络通道6HD
