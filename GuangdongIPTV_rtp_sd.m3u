@@ -13,10 +13,6 @@ rtp://239.77.0.5:5146
 rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
 rtp://239.77.1.97:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
-rtp://239.77.0.112:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
-rtp://239.77.0.168:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
 rtp://239.77.0.8:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
@@ -87,6 +83,8 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
+#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
+rtp://239.77.1.174:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
