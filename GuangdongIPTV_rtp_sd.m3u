@@ -1,38 +1,16 @@
 #EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视
-rtp://239.77.0.2:5146
-#EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
-rtp://239.77.0.3:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
-#EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
-rtp://239.77.0.4:5146
-#EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生
-rtp://239.77.0.5:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
-rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
 rtp://239.77.1.97:5146
-#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
-rtp://239.77.0.8:5146
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
-rtp://239.77.0.9:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.1.12:5146
-#EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视
-rtp://239.77.0.11:5146
-#EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿
-rtp://239.77.0.12:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
-rtp://239.77.0.13:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
 rtp://239.77.1.15:5146
-#EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲
-rtp://239.77.0.16:5146
-#EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育
-rtp://239.77.0.18:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
 rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -94,8 +72,6 @@ rtp://239.77.0.70:5146
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="IPTV-卫视",内蒙古卫视
 rtp://239.77.1.55:5146
 #EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
-rtp://239.77.0.71:5146
-#EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视
 rtp://239.77.1.70:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
 rtp://239.77.0.73:5146
@@ -138,8 +114,6 @@ rtp://239.77.0.79:5146
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="IPTV-数字付费",卡酷少儿
 rtp://239.77.1.50:5146
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="IPTV-数字付费",金鹰卡通
-rtp://239.77.0.80:5146
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="IPTV-数字付费",金鹰卡通
 rtp://239.77.1.52:5146
 #EXTINF:-1 tvg-name="哈哈炫动" group-title="IPTV-数字付费",哈哈炫动
 rtp://239.77.0.81:5146
@@ -173,8 +147,6 @@ rtp://239.77.1.105:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
-#EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
-rtp://239.77.1.135:5146
 #EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
 rtp://239.253.43.58:5146
 #EXTINF:-1,EBU

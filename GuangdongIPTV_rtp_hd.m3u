@@ -462,8 +462,6 @@ rtp://239.77.1.222:5146
 #EXTINF:-1 tvg-name="中国教育-1" group-title="IPTV-数字付费",中国教育-1高清
 rtp://239.77.0.200:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
-rtp://239.77.1.200:5146
-#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.253.43.114:5146
@@ -495,12 +493,8 @@ rtp://239.77.1.21:5146
 rtp://239.77.1.23:5146
 #EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1高清
 rtp://239.77.1.7:5146
-#EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1高清
-rtp://239.77.1.203:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2高清
 rtp://239.77.1.8:5146
-#EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2高清
-rtp://239.77.1.201:5146
 #EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
 rtp://239.77.0.107:5146
 #EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
