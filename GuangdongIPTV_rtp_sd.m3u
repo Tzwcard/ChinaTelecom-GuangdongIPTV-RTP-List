@@ -95,8 +95,6 @@ rtp://239.77.0.96:5146
 rtp://239.77.1.117:5146
 #EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",吉林延边卫视
 rtp://239.77.0.10:5146
-#EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",延边卫视
-rtp://239.77.1.99:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
 rtp://239.77.0.220:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
