@@ -145,8 +145,6 @@ rtp://239.77.1.105:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
-#EXTINF:-1 tvg-name="证券服务" group-title="IPTV-数字付费",证券服务
-rtp://239.253.43.58:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
