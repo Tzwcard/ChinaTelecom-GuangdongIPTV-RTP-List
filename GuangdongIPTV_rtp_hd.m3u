@@ -299,6 +299,8 @@ rtp://239.77.1.218:5146
 rtp://239.77.1.156:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
 rtp://239.77.0.98:5146
+#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
+rtp://239.77.1.92:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清 (CAVS)
 rtp://239.77.1.157:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
@@ -313,12 +315,16 @@ rtp://239.77.0.91:5146
 rtp://239.77.1.141:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 rtp://239.77.1.182:5146
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
+rtp://239.77.0.97:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
 rtp://239.77.0.131:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 rtp://239.77.1.142:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清 (CAVS)
 rtp://239.77.1.153:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
+rtp://239.77.0.94:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
 rtp://239.77.0.132:5146
 #EXTINF:-1 tvg-name="江西卫视" group-title="IPTV-卫视",江西卫视高清
@@ -343,6 +349,8 @@ rtp://239.77.0.161:5146
 rtp://239.77.1.6:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
 rtp://239.77.1.179:5146
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
+rtp://239.77.0.93:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视超清
 rtp://239.77.0.124:5146
 #EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
@@ -487,6 +495,8 @@ rtp://239.77.1.7:5146
 rtp://239.77.1.8:5146
 #EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
 rtp://239.77.0.107:5146
+#EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
+rtp://239.77.1.78:5146
 #EXTINF:-1 tvg-name="IPTV3" group-title="IPTV-IPTV频道",IPTV3高清
 rtp://239.77.1.9:5146
 #EXTINF:-1 tvg-name="IPTV4" group-title="IPTV-IPTV频道",IPTV4高清
@@ -505,26 +515,36 @@ rtp://239.77.0.103:5146
 rtp://239.77.1.138:5146
 #EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
 rtp://239.77.0.105:5146
+#EXTINF:-1 tvg-name="IPTV爱大剧" group-title="IPTV-IPTV频道",爱大剧
+rtp://239.77.1.82:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.0.99:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.1.83:5146
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="IPTV-IPTV频道",IPTV相声小品
 rtp://239.77.0.100:5146
+#EXTINF:-1 tvg-name="IPTV相声小品" group-title="IPTV-IPTV频道",IPTV相声小品
+rtp://239.77.1.84:5146
 #EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
 rtp://239.77.0.101:5146
 #EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
 rtp://239.77.1.85:5146
 #EXTINF:-1 tvg-name="IPTV法治" group-title="IPTV-IPTV频道",IPTV法治
 rtp://239.77.0.102:5146
+#EXTINF:-1 tvg-name="IPTV法治" group-title="IPTV-IPTV频道",IPTV法治
+rtp://239.77.1.86:5146
 #EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",魅力时尚
 rtp://239.77.0.110:5146
+#EXTINF:-1 tvg-name="IPTV魅力时尚" group-title="IPTV-IPTV频道",IPTV魅力时尚
+rtp://239.77.1.88:5146
 #EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",经典电影
 rtp://239.77.0.104:5146
 #EXTINF:-1 tvg-name="IPTV经典电影" group-title="IPTV-IPTV频道",IPTV经典电影
 rtp://239.77.1.89:5146
 #EXTINF:-1 tvg-name="IPTV热播剧场" group-title="IPTV-IPTV频道",热播剧场
 rtp://239.77.0.106:5146
+#EXTINF:-1 tvg-name="IPTV热播剧场" group-title="IPTV-IPTV频道",IPTV热播剧场
+rtp://239.77.1.90:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",少儿动画
 rtp://239.77.0.109:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",IPTV少儿动画
@@ -533,6 +553,8 @@ rtp://239.77.1.91:5146
 rtp://239.77.0.111:5146
 #EXTINF:-1,Unknown@239.253.43.82:5146
 rtp://239.253.43.82:5146
+#EXTINF:-1,Unknown@239.253.43.83:5146
+rtp://239.253.43.83:5146
 #EXTINF:-1,Unknown@239.77.1.114:5146
 rtp://239.77.1.114:5146
 #EXTINF:-1,九屏同播
