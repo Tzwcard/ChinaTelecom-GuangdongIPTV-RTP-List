@@ -148,6 +148,8 @@ rtp://239.253.43.104:5146
 #EXTINF:-1 tvg-name="东莞生活资讯" group-title="IPTV-广东地方台",东莞生活资讯高清
 rtp://239.253.43.105:5146
 #EXTINF:-1 tvg-name="中山综合" group-title="IPTV-广东地方台",中山综合高清
+rtp://239.77.0.185:5146
+#EXTINF:-1 tvg-name="中山综合" group-title="IPTV-广东地方台",中山综合高清
 rtp://239.253.43.62:5146
 #EXTINF:-1 tvg-name="香山文化" group-title="IPTV-广东地方台",香山文化高清
 rtp://239.253.43.63:5146
@@ -159,10 +161,16 @@ rtp://239.253.43.75:5146
 rtp://239.253.43.123:5146
 #EXTINF:-1 tvg-name="客家生活" group-title="IPTV-广东地方台",客家生活高清
 rtp://239.253.43.124:5146
+#EXTINF:-1 tvg-name="阳江-1" group-title="IPTV-广东地方台",阳江-1高清
+rtp://239.253.43.82:5146
+#EXTINF:-1 tvg-name="阳江-2" group-title="IPTV-广东地方台",阳江-2高清
+rtp://239.253.43.83:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.1.144:5146
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
+rtp://239.77.1.76:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
 rtp://239.77.0.119:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
@@ -249,8 +257,6 @@ rtp://239.77.1.120:5146
 rtp://239.77.1.239:5146
 #EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
 rtp://239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
-rtp://239.77.1.76:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17高清
 rtp://239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
@@ -462,7 +468,11 @@ rtp://239.253.43.40:5146
 #EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
 rtp://239.253.43.114:5146
 #EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
+rtp://239.77.1.122:5146
+#EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
 rtp://239.77.0.180:5146
+#EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
+rtp://239.77.1.114:5146
 #EXTINF:-1 tvg-name="中国天气" group-title="IPTV-数字付费",中国天气高清
 rtp://239.77.1.2:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
@@ -549,17 +559,7 @@ rtp://239.77.0.109:5146
 rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
 rtp://239.77.0.111:5146
-#EXTINF:-1,Unknown@239.253.43.82:5146
-rtp://239.253.43.82:5146
-#EXTINF:-1,Unknown@239.253.43.83:5146
-rtp://239.253.43.83:5146
-#EXTINF:-1,Unknown@239.77.1.114:5146
-rtp://239.77.1.114:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
 rtp://239.77.1.107:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.185:5146
-#EXTINF:-1,网络通道6HD
-rtp://239.77.1.122:5146
