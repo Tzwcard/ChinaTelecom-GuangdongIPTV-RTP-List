@@ -455,8 +455,6 @@ rtp://239.253.43.29:5146
 rtp://239.253.43.6:5146
 #EXTINF:-1 tvg-name="卫生健康" group-title="IPTV-央视网台",卫生健康高清
 rtp://239.77.0.212:5146
-#EXTINF:-1 tvg-name="CHC影迷电影" group-title="IPTV-央视网台",CHC影迷电影高清
-rtp://239.77.0.27:5146
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="IPTV-数字付费",金鹰卡通高清
 rtp://239.77.0.164:5146
 #EXTINF:-1 tvg-name="CETV-1" group-title="IPTV-数字付费",CETV-1高清

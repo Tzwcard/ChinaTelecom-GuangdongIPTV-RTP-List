@@ -107,6 +107,8 @@ rtp://239.77.1.195:5146
 rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
 rtp://239.253.43.127:5146
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="IPTV-央视网台",CHC影迷电影高清
+rtp://239.77.0.27:5146
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="IPTV-数字付费",卡酷少儿
 rtp://239.77.0.79:5146
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="IPTV-数字付费",卡酷少儿
