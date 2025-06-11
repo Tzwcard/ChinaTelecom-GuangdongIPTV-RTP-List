@@ -19,7 +19,7 @@ rtp://239.77.0.174:5146
 rtp://239.77.1.180:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
 rtp://239.77.0.2:5146
-#EXTINF:-1,Unknown@239.77.1.13:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
 rtp://239.77.1.13:5146
 #EXTINF:-1,Unknown@239.77.1.14:5146
 rtp://239.77.1.14:5146
