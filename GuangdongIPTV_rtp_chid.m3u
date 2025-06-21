@@ -1,6 +1,4 @@
 #EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-id="2" tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
-rtp://239.77.0.3:5146
 #EXTINF:-1 tvg-id="3" tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
 rtp://239.77.0.4:5146
 #EXTINF:-1 tvg-id="5" tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
@@ -117,10 +115,6 @@ rtp://239.77.0.63:5146
 rtp://239.77.0.64:5146
 #EXTINF:-1 tvg-id="219" tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
 rtp://239.77.0.65:5146
-#EXTINF:-1 tvg-id="220" tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视
-rtp://239.77.0.66:5146
-#EXTINF:-1 tvg-id="221" tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视
-rtp://239.77.0.67:5146
 #EXTINF:-1 tvg-id="222" tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-id="223" tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -413,11 +407,11 @@ rtp://239.253.43.219:5146
 rtp://239.77.0.231:5146
 #EXTINF:-1 tvg-id="620",广东IPTV广告
 rtp://239.77.0.232:5146
-#EXTINF:-1 tvg-id="621",广东IPTV广告
+#EXTINF:-1 tvg-id="621" tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 宽色域 25p 4K
 rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-id="622",4k测试频道8
 rtp://239.77.0.249:5146
-#EXTINF:-1 tvg-id="623",广东IPTV广告
+#EXTINF:-1 tvg-id="623" tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 宽色域 50p 4K
 rtp://239.77.0.153:5146
 #EXTINF:-1 tvg-id="632" tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
 rtp://239.77.0.21:5146
@@ -427,10 +421,10 @@ rtp://239.77.0.209:5146
 rtp://239.77.0.210:5146
 #EXTINF:-1 tvg-id="811" tvg-name="游戏竞技" group-title="IPTV-数字付费",游戏竞技
 rtp://239.77.0.211:5146
-#EXTINF:-1 tvg-id="816" tvg-name="武术世界" group-title="IPTV-数字付费",武术世界
-rtp://239.77.0.216:5146
 #EXTINF:-1 tvg-id="816" tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
 rtp://239.77.1.108:5146
+#EXTINF:-1 tvg-id="816" tvg-name="武术世界" group-title="IPTV-数字付费",武术世界
+rtp://239.77.0.216:5146
 #EXTINF:-1 tvg-id="820" tvg-name="老故事" group-title="IPTV-央视网台",老故事
 rtp://239.77.0.220:5146
 #EXTINF:-1 tvg-id="824" tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
