@@ -7,6 +7,8 @@ rtp://239.77.1.152:5146
 rtp://239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K
+rtp://239.77.0.65:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 50p 4K
 rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 25p 4K
@@ -553,8 +555,6 @@ rtp://239.77.0.64:5146
 rtp://239.77.1.214:5146
 #EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视高清
 rtp://239.77.0.148:5146
-#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
-rtp://239.77.0.65:5146
 #EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视高清
 rtp://239.77.1.104:5146
 #EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",福建东南卫视高清
