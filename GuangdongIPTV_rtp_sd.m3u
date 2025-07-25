@@ -1,16 +1,14 @@
 #EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 50p 4K
-rtp://239.77.0.66:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 宽色域 25p 4K
+rtp://239.77.0.233:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 宽色域 50p 4K
+rtp://239.77.0.153:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
 rtp://239.77.1.97:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.1.12:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
-rtp://239.77.1.15:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物高清
-rtp://239.77.0.241:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
 #EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
@@ -61,10 +59,6 @@ rtp://239.77.1.11:5146
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.0.45:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
-rtp://239.77.1.27:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 宽色域 50p 4K
-rtp://239.77.0.3:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
@@ -167,6 +161,8 @@ rtp://239.77.0.191:5146
 rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.193:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.232:5146
 #EXTINF:-1,百事通高清
 rtp://239.253.43.119:5146
 #EXTINF:-1,百事通高清
