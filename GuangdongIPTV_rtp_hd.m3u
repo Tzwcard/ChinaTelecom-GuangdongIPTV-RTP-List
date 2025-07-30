@@ -173,7 +173,7 @@ rtp://239.77.0.86:5146
 rtp://239.77.0.129:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
 rtp://239.77.1.158:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
+#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清 (CAVS)
 rtp://239.253.43.17:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清测试(CCTV -2财经高清)
 rtp://239.77.0.137:5146
@@ -221,7 +221,7 @@ rtp://239.77.1.168:5146
 rtp://239.77.0.135:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
+#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
 rtp://239.77.1.169:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
 rtp://239.77.0.134:5146
@@ -231,7 +231,7 @@ rtp://239.77.1.108:5146
 rtp://239.77.1.238:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
 rtp://239.77.1.109:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
+#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
 rtp://239.77.1.170:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清测试
 rtp://239.77.0.136:5146
@@ -281,7 +281,7 @@ rtp://239.77.0.127:5146
 rtp://239.77.0.47:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
 rtp://239.77.1.33:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
+#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清 (CAVS)
 rtp://239.77.1.150:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
 rtp://239.77.0.89:5146
@@ -291,7 +291,7 @@ rtp://239.77.0.125:5146
 rtp://239.77.0.48:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 rtp://239.77.1.18:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清 (CAVS)
 rtp://239.77.1.149:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 rtp://239.77.0.90:5146
@@ -557,6 +557,18 @@ rtp://239.77.0.109:5146
 rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
 rtp://239.77.0.111:5146
+#EXTINF:-1,Unknown@239.253.43.202:5146
+rtp://239.253.43.202:5146
+#EXTINF:-1,Unknown@239.77.1.246:5146
+rtp://239.77.1.246:5146
+#EXTINF:-1,Unknown@239.77.1.25:5146
+rtp://239.77.1.25:5146
+#EXTINF:-1,Unknown@239.77.1.26:5146
+rtp://239.77.1.26:5146
+#EXTINF:-1,Unknown@239.77.1.28:5146
+rtp://239.77.1.28:5146
+#EXTINF:-1,Unknown@239.77.1.29:5146
+rtp://239.77.1.29:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
 #EXTINF:-1,四屏同播
