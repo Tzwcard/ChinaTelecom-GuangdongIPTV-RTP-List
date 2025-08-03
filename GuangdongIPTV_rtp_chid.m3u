@@ -75,14 +75,6 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.194:5146
 #EXTINF:-1 tvg-id="152" tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
 rtp://239.77.0.174:5146
-#EXTINF:-1 tvg-id="200" tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视
-rtp://239.77.0.46:5146
-#EXTINF:-1 tvg-id="201" tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视
-rtp://239.77.0.47:5146
-#EXTINF:-1 tvg-id="202" tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视
-rtp://239.77.0.48:5146
-#EXTINF:-1 tvg-id="203" tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视
-rtp://239.77.0.49:5146
 #EXTINF:-1 tvg-id="204" tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视
 rtp://239.77.0.50:5146
 #EXTINF:-1 tvg-id="205" tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视
@@ -405,11 +397,11 @@ rtp://239.253.43.219:5146
 rtp://239.77.0.231:5146
 #EXTINF:-1 tvg-id="620",广东IPTV广告
 rtp://239.77.0.232:5146
-#EXTINF:-1 tvg-id="621" tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 宽色域 25p 4K
+#EXTINF:-1 tvg-id="621",广东IPTV广告
 rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-id="622",4k测试频道8
 rtp://239.77.0.249:5146
-#EXTINF:-1 tvg-id="623" tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 宽色域 50p 4K
+#EXTINF:-1 tvg-id="623",广东IPTV广告
 rtp://239.77.0.153:5146
 #EXTINF:-1 tvg-id="632" tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
 rtp://239.77.0.21:5146
@@ -429,10 +421,10 @@ rtp://239.77.0.220:5146
 rtp://239.77.0.224:5146
 #EXTINF:-1 tvg-id="826" tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
-#EXTINF:-1 tvg-id="827" tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
-rtp://239.77.0.227:5146
 #EXTINF:-1 tvg-id="827" tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
 rtp://239.77.1.120:5146
+#EXTINF:-1 tvg-id="827" tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
+rtp://239.77.0.227:5146
 #EXTINF:-1 tvg-id="830" tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
 rtp://239.253.43.18:5146
 #EXTINF:-1 tvg-id="831" tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
