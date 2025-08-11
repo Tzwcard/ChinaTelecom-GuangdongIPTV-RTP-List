@@ -135,8 +135,6 @@ rtp://239.253.43.53:5146
 rtp://239.253.43.54:5146
 #EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德高清
 rtp://239.253.43.55:5146
-#EXTINF:-1 tvg-name="佛山影视" group-title="IPTV-广东地方台",佛山影视高清
-rtp://239.253.43.56:5146
 #EXTINF:-1 tvg-name="佛山综合" group-title="IPTV-广东地方台",佛山综合高清
 rtp://239.253.43.57:5146
 #EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合高清
