@@ -95,8 +95,6 @@ rtp://239.77.0.25:5146
 rtp://239.77.0.187:5146
 #EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合高清
 rtp://239.77.0.201:5146
-#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活高清
-rtp://239.77.0.202:5146
 #EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1高清
 rtp://239.77.1.232:5146
 #EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2高清
