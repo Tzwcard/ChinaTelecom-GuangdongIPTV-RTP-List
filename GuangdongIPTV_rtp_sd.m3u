@@ -1,4 +1,6 @@
 #EXTM3U name="广东电信IPTV"
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 50p 4K
+rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
@@ -9,12 +11,8 @@ rtp://239.77.1.12:5146
 rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="深圳宝安第一课" group-title="IPTV-深圳电视台",深圳宝安第一课
-rtp://239.77.1.225:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
 rtp://239.77.1.175:5146
-#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活高清
-rtp://239.77.0.202:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1
@@ -55,8 +53,6 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
-rtp://239.77.1.13:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
@@ -73,22 +69,14 @@ rtp://239.77.1.55:5146
 rtp://239.77.1.70:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
 rtp://239.77.0.73:5146
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视
-rtp://239.77.1.47:5146
 #EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
 rtp://239.77.0.74:5146
-#EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
-rtp://239.77.1.49:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
 rtp://239.77.0.75:5146
-#EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
-rtp://239.77.1.53:5146
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="IPTV-卫视",甘肃卫视
 rtp://239.77.1.57:5146
 #EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
 rtp://239.77.0.77:5146
-#EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
-rtp://239.77.1.80:5146
 #EXTINF:-1 tvg-name="厦门卫视" group-title="IPTV-卫视",厦门卫视
 rtp://239.77.0.96:5146
 #EXTINF:-1 tvg-name="三沙卫视" group-title="IPTV-卫视",三沙卫视

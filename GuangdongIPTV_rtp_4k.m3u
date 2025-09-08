@@ -1,8 +1,6 @@
 #EXTM3U name="广东电信IPTV"
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K
 rtp://239.77.0.65:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 50p 4K
-rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 25p 4K
 rtp://239.77.0.27:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
@@ -35,6 +33,8 @@ rtp://239.77.1.180:5146
 rtp://239.77.0.2:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 宽色域 50p 4K
 rtp://239.77.0.3:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
+rtp://239.77.1.13:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.153:5146
 #EXTINF:-1,广东IPTV广告
