@@ -27,12 +27,26 @@ rtp://239.77.1.24:5146
 rtp://239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
 rtp://239.77.1.180:5146
+#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视 4K (AVS2)
+rtp://239.77.1.30:5146
+#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视 4K (AVS2)
+rtp://239.77.1.32:5146
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视 4K (AVS2)
+rtp://239.77.1.36:5146
+#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视 4K (AVS2)
+rtp://239.77.1.34:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
 rtp://239.77.0.2:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 宽色域 50p 4K
 rtp://239.77.0.3:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
+rtp://239.77.0.233:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
+rtp://239.77.0.153:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
 rtp://239.77.1.13:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视 4K (AVS2)
+rtp://239.77.1.37:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视
 rtp://239.77.0.56:5146
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视
@@ -43,21 +57,7 @@ rtp://239.77.0.58:5146
 rtp://239.77.0.59:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视
 rtp://239.77.0.60:5146
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K (AVS2)
+rtp://239.77.1.38:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
 rtp://239.77.0.61:5146
-#EXTINF:-1,Unknown@239.77.1.30:5146 (AVS2)
-rtp://239.77.1.30:5146
-#EXTINF:-1,Unknown@239.77.1.32:5146 (AVS2)
-rtp://239.77.1.32:5146
-#EXTINF:-1,Unknown@239.77.1.34:5146 (AVS2)
-rtp://239.77.1.34:5146
-#EXTINF:-1,Unknown@239.77.1.36:5146 (AVS2)
-rtp://239.77.1.36:5146
-#EXTINF:-1,Unknown@239.77.1.37:5146 (AVS2)
-rtp://239.77.1.37:5146
-#EXTINF:-1,Unknown@239.77.1.38:5146 (AVS2)
-rtp://239.77.1.38:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.153:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.233:5146

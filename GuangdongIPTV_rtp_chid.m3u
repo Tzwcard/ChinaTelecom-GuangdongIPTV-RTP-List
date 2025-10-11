@@ -395,13 +395,13 @@ rtp://239.253.43.218:5146
 rtp://239.253.43.219:5146
 #EXTINF:-1 tvg-id="619",极K精选-测试
 rtp://239.77.0.231:5146
-#EXTINF:-1 tvg-id="620",广东IPTV广告
+#EXTINF:-1 tvg-id="620" tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 rtp://239.77.0.232:5146
-#EXTINF:-1 tvg-id="621",广东IPTV广告
+#EXTINF:-1 tvg-id="621" tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
 rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-id="622",4k测试频道8
 rtp://239.77.0.249:5146
-#EXTINF:-1 tvg-id="623",广东IPTV广告
+#EXTINF:-1 tvg-id="623" tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
 rtp://239.77.0.153:5146
 #EXTINF:-1 tvg-id="632" tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
 rtp://239.77.0.21:5146
@@ -421,10 +421,10 @@ rtp://239.77.0.220:5146
 rtp://239.77.0.224:5146
 #EXTINF:-1 tvg-id="826" tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
-#EXTINF:-1 tvg-id="827" tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
-rtp://239.77.1.120:5146
 #EXTINF:-1 tvg-id="827" tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
 rtp://239.77.0.227:5146
+#EXTINF:-1 tvg-id="827" tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
+rtp://239.77.1.120:5146
 #EXTINF:-1 tvg-id="830" tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
 rtp://239.253.43.18:5146
 #EXTINF:-1 tvg-id="831" tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
