@@ -29,6 +29,10 @@ rtp://239.77.0.252:5146
 rtp://239.77.0.20:5146
 #EXTINF:-1 tvg-id="21" tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
 rtp://239.253.43.99:5146
+#EXTINF:-1 tvg-id="41",Unknown@239.77.1.189:5146
+rtp://239.77.1.189:5146
+#EXTINF:-1 tvg-id="42",Unknown@239.77.1.190:5146 (CAVS)
+rtp://239.77.1.190:5146
 #EXTINF:-1 tvg-id="52" tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
 rtp://239.253.43.215:5146
 #EXTINF:-1 tvg-id="91" tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
@@ -421,10 +425,10 @@ rtp://239.77.0.220:5146
 rtp://239.77.0.224:5146
 #EXTINF:-1 tvg-id="826" tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
-#EXTINF:-1 tvg-id="827" tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
-rtp://239.77.0.227:5146
 #EXTINF:-1 tvg-id="827" tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
 rtp://239.77.1.120:5146
+#EXTINF:-1 tvg-id="827" tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库
+rtp://239.77.0.227:5146
 #EXTINF:-1 tvg-id="830" tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
 rtp://239.253.43.18:5146
 #EXTINF:-1 tvg-id="831" tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清

@@ -11,22 +11,38 @@ rtp://239.77.0.166:5146
 rtp://239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江超清
 rtp://239.77.0.114:5146
+#EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻
+rtp://239.77.0.4:5146
 #EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻高清
 rtp://239.77.0.173:5146
+#EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生
+rtp://239.77.0.5:5146
 #EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生高清
 rtp://239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育
+rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
 rtp://239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
 rtp://239.77.0.168:5146
+#EXTINF:-1 tvg-name="广东国际" group-title="IPTV-广东电视台",广东国际
+rtp://239.77.0.7:5146
+#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教
+rtp://239.77.0.8:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教高清
 rtp://239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
 rtp://239.77.0.167:5146
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
+rtp://239.77.0.9:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视高清
 rtp://239.77.0.215:5146
+#EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视
+rtp://239.77.0.11:5146
 #EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视高清
 rtp://239.77.0.217:5146
+#EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿
+rtp://239.77.0.12:5146
 #EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿高清
 rtp://239.77.0.250:5146
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通高清
@@ -567,5 +583,9 @@ rtp://239.77.0.109:5146
 rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",IPTV收视指南
 rtp://239.77.0.111:5146
+#EXTINF:-1,Unknown@239.77.1.189:5146
+rtp://239.77.1.189:5146
+#EXTINF:-1,Unknown@239.77.1.190:5146 (CAVS)
+rtp://239.77.1.190:5146
 #EXTINF:-1,九屏同播
 rtp://239.77.1.234:5146
