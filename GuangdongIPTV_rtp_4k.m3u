@@ -17,8 +17,6 @@ rtp://239.77.0.244:5146
 rtp://239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 rtp://239.77.0.252:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视 宽色域 25p" group-title="IPTV-深圳电视台",深圳卫视 宽色域 25p 4K
 rtp://239.77.0.67:5146
 #EXTINF:-1 tvg-name="深圳卫视 25p" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
@@ -65,5 +63,3 @@ rtp://239.77.1.38:5146
 rtp://239.77.0.61:5146
 #EXTINF:-1,Unknown@239.77.1.191:5146
 rtp://239.77.1.191:5146
-#EXTINF:-1,Unknown@239.77.1.194:5146 (AVS2)
-rtp://239.77.1.194:5146
