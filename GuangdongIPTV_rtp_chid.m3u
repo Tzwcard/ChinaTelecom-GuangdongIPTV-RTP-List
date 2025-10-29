@@ -19,7 +19,7 @@ rtp://239.77.0.20:5146
 rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-id="41" tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 rtp://239.77.1.189:5146
-#EXTINF:-1 tvg-id="42" tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
+#EXTINF:-1 tvg-id="42" tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
 rtp://239.77.1.190:5146
 #EXTINF:-1 tvg-id="52" tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合
 rtp://239.253.43.215:5146
