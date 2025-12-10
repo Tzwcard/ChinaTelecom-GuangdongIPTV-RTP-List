@@ -323,7 +323,7 @@ rtp://239.77.0.178:5146
 rtp://239.77.0.181:5146
 #EXTINF:-1 tvg-id="521" tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视超清 (CAVS)
 rtp://239.77.0.127:5146
-#EXTINF:-1 tvg-id="522" tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清
+#EXTINF:-1 tvg-id="522" tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
 rtp://239.77.0.125:5146
 #EXTINF:-1 tvg-id="523" tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
 rtp://239.77.0.126:5146
