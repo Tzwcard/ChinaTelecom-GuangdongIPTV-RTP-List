@@ -1,1230 +1,1109 @@
 {
-    "time_gen": 1592398287,
+    "time_gen": 1765451115,
     "data": [
-        {
-            "UserChannelID": "710",
-            "ChannelName": "\u76f4\u64ad\u5ba4101",
-            "MultiCastURI": "239.253.43.217:5146"
-        },
-        {
-            "UserChannelID": "711",
-            "ChannelName": "\u76f4\u64ad\u5ba4102",
-            "MultiCastURI": "239.253.43.153:5146"
-        },
-        {
-            "UserChannelID": "712",
-            "ChannelName": "\u76f4\u64ad\u5ba4103",
-            "MultiCastURI": "239.253.43.154:5146"
-        },
-        {
-            "UserChannelID": "713",
-            "ChannelName": "\u76f4\u64ad\u5ba4104",
-            "MultiCastURI": "239.253.43.155:5146"
-        },
-        {
-            "UserChannelID": "714",
-            "ChannelName": "\u76f4\u64ad\u5ba4105",
-            "MultiCastURI": "239.253.43.156:5146"
-        },
-        {
-            "UserChannelID": "715",
-            "ChannelName": "\u76f4\u64ad\u5ba4106",
-            "MultiCastURI": "239.253.43.157:5146"
-        },
-        {
-            "UserChannelID": "716",
-            "ChannelName": "\u76f4\u64ad\u5ba4107",
-            "MultiCastURI": "239.253.43.158:5146"
-        },
-        {
-            "UserChannelID": "717",
-            "ChannelName": "\u76f4\u64ad\u5ba4108",
-            "MultiCastURI": "239.253.43.160:5146"
-        },
-        {
-            "UserChannelID": "718",
-            "ChannelName": "\u76f4\u64ad\u5ba4109",
-            "MultiCastURI": "239.253.43.161:5146"
-        },
-        {
-            "UserChannelID": "719",
-            "ChannelName": "\u76f4\u64ad\u5ba4110",
-            "MultiCastURI": "239.253.43.162:5146"
-        },
-        {
-            "UserChannelID": "720",
-            "ChannelName": "\u76f4\u64ad\u5ba4111",
-            "MultiCastURI": "239.253.43.163:5146"
-        },
-        {
-            "UserChannelID": "721",
-            "ChannelName": "\u76f4\u64ad\u5ba4201",
-            "MultiCastURI": "239.253.43.82:5146"
-        },
-        {
-            "UserChannelID": "722",
-            "ChannelName": "\u76f4\u64ad\u5ba4202",
-            "MultiCastURI": "239.253.43.83:5146"
-        },
-        {
-            "UserChannelID": "723",
-            "ChannelName": "\u76f4\u64ad\u5ba4203",
-            "MultiCastURI": "239.253.43.84:5146"
-        },
-        {
-            "UserChannelID": "724",
-            "ChannelName": "\u76f4\u64ad\u5ba4204",
-            "MultiCastURI": "239.253.43.85:5146"
-        },
-        {
-            "UserChannelID": "725",
-            "ChannelName": "\u76f4\u64ad\u5ba4205",
-            "MultiCastURI": "239.253.43.86:5146"
-        },
-        {
-            "UserChannelID": "726",
-            "ChannelName": "\u76f4\u64ad\u5ba4206",
-            "MultiCastURI": "239.253.43.87:5146"
-        },
-        {
-            "UserChannelID": "727",
-            "ChannelName": "\u76f4\u64ad\u5ba4207",
-            "MultiCastURI": "239.253.43.88:5146"
-        },
-        {
-            "UserChannelID": "728",
-            "ChannelName": "\u76f4\u64ad\u5ba4208",
-            "MultiCastURI": "239.253.43.244:5146"
-        },
-        {
-            "UserChannelID": "729",
-            "ChannelName": "\u76f4\u64ad\u5ba4209",
-            "MultiCastURI": "239.253.43.245:5146"
-        },
-        {
-            "UserChannelID": "730",
-            "ChannelName": "\u76f4\u64ad\u5ba4210",
-            "MultiCastURI": "239.253.43.246:5146"
-        },
-        {
-            "UserChannelID": "731",
-            "ChannelName": "\u76f4\u64ad\u5ba4211",
-            "MultiCastURI": "239.253.43.247:5146"
-        },
-        {
-            "UserChannelID": "732",
-            "ChannelName": "\u7f51\u7edc\u901a\u90531HD",
-            "MultiCastURI": "239.77.0.194:5146"
-        },
-        {
-            "UserChannelID": "733",
-            "ChannelName": "\u7f51\u7edc\u901a\u90532HD",
-            "MultiCastURI": "239.77.0.174:5146"
-        },
-        {
-            "UserChannelID": "734",
-            "ChannelName": "\u7f51\u7edc\u901a\u90533HD",
-            "MultiCastURI": "239.77.1.187:5146"
-        },
-        {
-            "UserChannelID": "735",
-            "ChannelName": "\u7f51\u7edc\u901a\u90534HD",
-            "MultiCastURI": "239.77.0.235:5146"
-        },
-        {
-            "UserChannelID": "736",
-            "ChannelName": "\u7f51\u7edc\u901a\u90535HD",
-            "MultiCastURI": "239.77.1.120:5146"
-        },
-        {
-            "UserChannelID": "737",
-            "ChannelName": "\u7f51\u7edc\u901a\u90536HD",
-            "MultiCastURI": "239.77.1.122:5146"
-        },
         {
             "UserChannelID": "933",
             "ChannelName": "CCTV -1\u7efc\u5408\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.86:5146"
+            "MultiCastURI": "239.77.0.86:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888888\/224\/3221229774\/10000100000000060000000008842383_0.smil"
         },
         {
             "UserChannelID": "934",
             "ChannelName": "CCTV -2\u8d22\u7ecf\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.137:5146"
+            "MultiCastURI": "239.77.0.137:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888888\/224\/3221229763\/10000100000000060000000008839684_0.smil"
         },
         {
             "UserChannelID": "935",
             "ChannelName": "CCTV -7\u519b\u4e8b\u519c\u4e1a\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.138:5146"
+            "MultiCastURI": "239.77.0.138:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888888\/224\/3221229730\/10000100000000060000000008839665_0.smil"
         },
         {
             "UserChannelID": "936",
             "ChannelName": "CCTV-10\u79d1\u6559\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.134:5146"
-        },
-        {
-            "UserChannelID": "937",
-            "ChannelName": "CCTV -1\u7efc\u5408",
-            "MultiCastURI": "239.77.0.30:5146"
-        },
-        {
-            "UserChannelID": "938",
-            "ChannelName": "CCTV -2\u8d22\u7ecf",
-            "MultiCastURI": "239.77.0.31:5146"
-        },
-        {
-            "UserChannelID": "939",
-            "ChannelName": "CCTV -7\u519b\u4e8b\u519c\u4e1a",
-            "MultiCastURI": "239.77.0.36:5146"
-        },
-        {
-            "UserChannelID": "940",
-            "ChannelName": "CCTV -10\u79d1\u6559",
-            "MultiCastURI": "239.77.0.39:5146"
+            "MultiCastURI": "239.77.0.134:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888888\/224\/3221229756\/10000100000000060000000008839531_0.smil"
         },
         {
             "UserChannelID": "2001",
             "ChannelName": "\u5e7f\u4e1c\u536b\u89c6",
-            "MultiCastURI": "239.77.0.2:5146"
+            "MultiCastURI": "239.77.0.84:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227218\/10000100000000060000000000988525_0.smil"
         },
         {
             "UserChannelID": "2002",
             "ChannelName": "\u5e7f\u4e1c\u73e0\u6c5f",
-            "MultiCastURI": "239.77.0.3:5146"
+            "MultiCastURI": "239.77.0.1:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229811\/10000100000000060000000009467087_0.smil"
         },
         {
             "UserChannelID": "2003",
             "ChannelName": "\u5e7f\u4e1c\u65b0\u95fb",
-            "MultiCastURI": "239.77.0.4:5146"
+            "MultiCastURI": "239.77.0.173:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230032\/320917528.smil"
         },
         {
             "UserChannelID": "2004",
-            "ChannelName": "\u5e7f\u4e1c\u516c\u5171",
-            "MultiCastURI": "239.77.0.5:5146"
+            "ChannelName": "\u5e7f\u4e1c\u6c11\u751f",
+            "MultiCastURI": "239.77.0.225:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230072\/10000100000000060000000011293287_0.smil"
         },
         {
             "UserChannelID": "2005",
             "ChannelName": "\u5e7f\u4e1c\u4f53\u80b2",
-            "MultiCastURI": "239.77.0.6:5146"
-        },
-        {
-            "UserChannelID": "2006",
-            "ChannelName": "\u5e7f\u4e1c\u56fd\u9645",
-            "MultiCastURI": "239.77.0.7:5146"
+            "MultiCastURI": "239.77.0.112:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227484\/10000100000000060000000003928833_0.smil"
         },
         {
             "UserChannelID": "2007",
             "ChannelName": "\u7ecf\u6d4e\u79d1\u6559",
-            "MultiCastURI": "239.77.0.8:5146"
+            "MultiCastURI": "239.77.0.85:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227238\/10000100000000060000000000987130_0.smil"
         },
         {
             "UserChannelID": "2008",
-            "ChannelName": "\u5357\u65b9\u536b\u89c6",
-            "MultiCastURI": "239.77.0.9:5146"
+            "ChannelName": "\u5927\u6e7e\u533a\u536b\u89c6",
+            "MultiCastURI": "239.77.0.215:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230001\/10000100000000060000000011293289_0.smil"
         },
         {
             "UserChannelID": "2010",
             "ChannelName": "\u5e7f\u4e1c\u5f71\u89c6",
-            "MultiCastURI": "239.77.0.11:5146"
+            "MultiCastURI": "239.77.0.217:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229939\/10000100000000060000000011293286_0.smil"
         },
         {
             "UserChannelID": "2011",
             "ChannelName": "\u5e7f\u4e1c\u5c11\u513f",
-            "MultiCastURI": "239.77.0.12:5146"
+            "MultiCastURI": "239.77.0.250:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230010\/10000100000000060000000011293288_0.smil"
         },
         {
             "UserChannelID": "2012",
             "ChannelName": "\u5609\u4f73\u5361\u901a",
-            "MultiCastURI": "239.77.0.13:5146"
+            "MultiCastURI": "239.77.0.179:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230108\/320918166.smil"
         },
         {
             "UserChannelID": "2013",
-            "ChannelName": "\u5e7f\u4e1c\u7efc\u827a(4k)",
-            "MultiCastURI": "239.77.0.244:5146"
-        },
-        {
-            "UserChannelID": "2014",
-            "ChannelName": "\u5e7f\u4e1c\u7efc\u827a \u5bbd\u8272\u57df(4k)",
-            "MultiCastURI": "239.77.0.246:5146"
+            "ChannelName": "\u5e7f\u4e1c4K\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.244:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229717\/10000100000000060000000008643415_0.smil"
         },
         {
             "UserChannelID": "2015",
-            "ChannelName": "\u5e7f\u4e1c\u7efc\u827a(4k)",
-            "MultiCastURI": "239.77.0.245:5146"
+            "ChannelName": "\u5e7f\u4e1c4K\u8d85\u9ad8\u6e05 \u7a84\u8272\u57df 30",
+            "MultiCastURI": "239.77.0.245:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229713\/10000100000000060000000008646185_0.smil"
         },
         {
             "UserChannelID": "2016",
             "ChannelName": "\u5357\u65b9\u8d2d\u7269-\u7cbe\u9009",
-            "MultiCastURI": "239.77.0.19:5146"
+            "MultiCastURI": "239.77.0.19:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227224\/10000100000000060000000000990026_0.smil"
         },
         {
-            "UserChannelID": "2017",
-            "ChannelName": "\u5e7f\u4e1c\u7efc\u827a \u5bbd\u8272\u57dfAVS2(4k)",
-            "MultiCastURI": "239.77.0.252:5146"
+            "UserChannelID": "2018",
+            "ChannelName": "\u5e7f\u4e1c\u79fb\u52a8",
+            "MultiCastURI": "239.77.0.20:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227209\/10000100000000060000000000987164_0.smil"
         },
         {
-            "UserChannelID": "2089",
-            "ChannelName": "\u73e0\u6c5f\u7535\u5f71",
-            "MultiCastURI": "239.77.1.181:5146"
+            "UserChannelID": "2019",
+            "ChannelName": "\u5e7f\u4e1c\u536b\u89c64k\u8d85\u9ad8\u6e0525p",
+            "MultiCastURI": "239.77.0.65:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230302\/807931402.smil"
+        },
+        {
+            "UserChannelID": "2020",
+            "ChannelName": "\u5e7f\u4e1c\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.66:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230139\/805788522.smil"
+        },
+        {
+            "UserChannelID": "2021",
+            "ChannelName": "\u5357\u56fd\u90fd\u5e024K",
+            "MultiCastURI": "239.253.43.99:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230174\/486705679.smil"
+        },
+        {
+            "UserChannelID": "2022",
+            "ChannelName": "\u5e7f\u5dde\u7efc\u5408\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.71:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230104\/453207146.smil"
+        },
+        {
+            "UserChannelID": "2023",
+            "ChannelName": "\u5e7f\u5dde\u65b0\u95fb\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.72:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230113\/453206913.smil"
         },
         {
             "UserChannelID": "2091",
             "ChannelName": "\u5357\u65b9\u8d2d\u7269",
-            "MultiCastURI": "239.77.0.22:5146"
+            "MultiCastURI": "239.77.0.22:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227200\/10000100000000060000000000987154_0.smil"
         },
         {
             "UserChannelID": "2093",
             "ChannelName": "\u5cad\u5357\u620f\u66f2",
-            "MultiCastURI": "239.77.0.16:5146"
-        },
-        {
-            "UserChannelID": "2094",
-            "ChannelName": "\u5e7f\u4e1c\u623f\u4ea7",
-            "MultiCastURI": "239.77.0.14:5146"
+            "MultiCastURI": "239.77.0.122:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230103\/669448382.smil"
         },
         {
             "UserChannelID": "2095",
             "ChannelName": "\u73b0\u4ee3\u6559\u80b2",
-            "MultiCastURI": "239.77.0.18:5146"
-        },
-        {
-            "UserChannelID": "2097",
-            "ChannelName": "\u5e7f\u4e1c\u79fb\u52a8",
-            "MultiCastURI": "239.77.0.20:5146"
-        },
-        {
-            "UserChannelID": "2099",
-            "ChannelName": "\u82f1\u8bed\u8f85\u5bfc",
-            "MultiCastURI": "239.77.0.17:5146"
+            "MultiCastURI": "239.77.0.213:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230127\/669448259.smil"
         },
         {
             "UserChannelID": "2100",
             "ChannelName": "CCTV-1\u7efc\u5408",
-            "MultiCastURI": "239.77.0.30:5146"
+            "MultiCastURI": "239.77.0.30:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227255\/10000100000000060000000001066420_0.smil"
         },
         {
             "UserChannelID": "2101",
             "ChannelName": "CCTV-2\u8d22\u7ecf",
-            "MultiCastURI": "239.77.0.31:5146"
+            "MultiCastURI": "239.77.0.31:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227316\/10000100000000060000000001066428_0.smil"
         },
         {
             "UserChannelID": "2102",
-            "ChannelName": "CCTV-3\u7efc\u827a\u6d4b\u8bd5",
-            "MultiCastURI": "239.0.10.52:5052"
+            "ChannelName": "CCTV-3\u7efc\u827a",
+            "MultiCastURI": "239.77.0.32:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227046\/10000100000000060000000000657994_0.smil"
         },
         {
             "UserChannelID": "2103",
             "ChannelName": "CCTV-4\u4e2d\u6587\u56fd\u9645",
-            "MultiCastURI": "239.77.0.33:5146"
+            "MultiCastURI": "239.77.0.33:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227284\/10000100000000060000000001066429_0.smil"
         },
         {
             "UserChannelID": "2104",
-            "ChannelName": "CCTV-5\u4f53\u80b2\u6d4b\u8bd5",
-            "MultiCastURI": "239.0.10.53:5053"
+            "ChannelName": "CCTV-5\u4f53\u80b2",
+            "MultiCastURI": "239.77.0.34:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227038\/10000100000000060000000000657995_0.smil"
         },
         {
             "UserChannelID": "2105",
-            "ChannelName": "CCTV-6\u7535\u5f71\u6d4b\u8bd5",
-            "MultiCastURI": "239.0.10.54:5054"
+            "ChannelName": "CCTV-6\u7535\u5f71",
+            "MultiCastURI": "239.77.0.35:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221226991\/10000100000000060000000000657996_0.smil"
         },
         {
             "UserChannelID": "2106",
             "ChannelName": "CCTV-7\u56fd\u9632\u519b\u4e8b",
-            "MultiCastURI": "239.77.0.36:5146"
+            "MultiCastURI": "239.77.0.36:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227290\/10000100000000060000000001066434_0.smil"
         },
         {
             "UserChannelID": "2107",
-            "ChannelName": "CCTV-8\u7535\u89c6\u5267\u6d4b\u8bd5",
-            "MultiCastURI": "239.0.10.55:5055"
+            "ChannelName": "CCTV-8\u7535\u89c6\u5267",
+            "MultiCastURI": "239.77.0.37:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227041\/10000100000000060000000000657998_0.smil"
         },
         {
             "UserChannelID": "2108",
             "ChannelName": "CCTV-9\u7eaa\u5f55",
-            "MultiCastURI": "239.77.0.38:5146"
+            "MultiCastURI": "239.77.0.38:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227272\/10000100000000060000000001030757_0.smil"
         },
         {
             "UserChannelID": "2109",
             "ChannelName": "CCTV-10\u79d1\u6559",
-            "MultiCastURI": "239.77.0.39:5146"
+            "MultiCastURI": "239.77.0.39:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227287\/10000100000000060000000001066432_0.smil"
         },
         {
             "UserChannelID": "2110",
             "ChannelName": "CCTV-11\u620f\u66f2",
-            "MultiCastURI": "239.77.0.40:5146"
+            "MultiCastURI": "239.77.0.40:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227319\/10000100000000060000000001066511_0.smil"
         },
         {
             "UserChannelID": "2111",
             "ChannelName": "CCTV-12\u793e\u4f1a\u4e0e\u6cd5",
-            "MultiCastURI": "239.77.0.41:5146"
+            "MultiCastURI": "239.77.0.41:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227313\/10000100000000060000000001066425_0.smil"
         },
         {
             "UserChannelID": "2112",
             "ChannelName": "CCTV-13\u65b0\u95fb",
-            "MultiCastURI": "239.77.0.42:5146"
+            "MultiCastURI": "239.77.0.42:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227258\/10000100000000060000000001066424_0.smil"
         },
         {
             "UserChannelID": "2113",
             "ChannelName": "CCTV-14\u5c11\u513f",
-            "MultiCastURI": "239.77.0.43:5146"
+            "MultiCastURI": "239.77.0.43:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227278\/10000100000000060000000001066421_0.smil"
         },
         {
             "UserChannelID": "2114",
             "ChannelName": "CCTV-15\u97f3\u4e50",
-            "MultiCastURI": "239.77.0.44:5146"
+            "MultiCastURI": "239.77.0.44:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227281\/10000100000000060000000001066427_0.smil"
         },
         {
             "UserChannelID": "2115",
-            "ChannelName": "CCTV-NEWS",
-            "MultiCastURI": "239.77.0.45:5146"
+            "ChannelName": "CGTN",
+            "MultiCastURI": "239.77.0.45:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227064\/10000100000000060000000000698831_0.smil"
         },
         {
             "UserChannelID": "2116",
             "ChannelName": "CCTV-17\u519c\u4e1a",
-            "MultiCastURI": "239.77.0.115:5146"
+            "MultiCastURI": "239.77.0.115:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229868\/10000100000000060000000010232872_0.smil"
+        },
+        {
+            "UserChannelID": "2151",
+            "ChannelName": "CCTV4K-25P",
+            "MultiCastURI": "239.77.0.194:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230109\/477174391.smil"
+        },
+        {
+            "UserChannelID": "2152",
+            "ChannelName": "CCTV4K-50P",
+            "MultiCastURI": "239.77.0.174:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230158\/477174390.smil"
         },
         {
             "UserChannelID": "2200",
             "ChannelName": "\u6e56\u5357\u536b\u89c6",
-            "MultiCastURI": "239.77.0.46:5146"
+            "MultiCastURI": "239.77.0.88:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227325\/10000100000000060000000001141345_0.smil"
         },
         {
             "UserChannelID": "2201",
             "ChannelName": "\u6d59\u6c5f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.47:5146"
+            "MultiCastURI": "239.77.0.89:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227296\/10000100000000060000000001141335_0.smil"
         },
         {
             "UserChannelID": "2202",
             "ChannelName": "\u6c5f\u82cf\u536b\u89c6",
-            "MultiCastURI": "239.77.0.48:5146"
+            "MultiCastURI": "239.77.0.90:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227027\/10000100000000060000000000698853_0.smil"
         },
         {
             "UserChannelID": "2203",
             "ChannelName": "\u4e1c\u65b9\u536b\u89c6",
-            "MultiCastURI": "239.77.0.49:5146"
+            "MultiCastURI": "239.77.0.98:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227299\/10000100000000060000000001141344_0.smil"
         },
         {
             "UserChannelID": "2204",
             "ChannelName": "\u5b89\u5fbd\u536b\u89c6",
-            "MultiCastURI": "239.77.0.50:5146"
+            "MultiCastURI": "239.77.0.183:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227928\/10000100000000060000000006526299_0.smil"
         },
         {
             "UserChannelID": "2205",
             "ChannelName": "\u5317\u4eac\u536b\u89c6",
-            "MultiCastURI": "239.77.0.51:5146"
+            "MultiCastURI": "239.77.0.91:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227018\/10000100000000060000000000698843_0.smil"
         },
         {
             "UserChannelID": "2206",
             "ChannelName": "\u5929\u6d25\u536b\u89c6",
-            "MultiCastURI": "239.77.0.52:5146"
+            "MultiCastURI": "239.77.0.97:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227346\/10000100000000060000000003100521_0.smil"
         },
         {
             "UserChannelID": "2207",
             "ChannelName": "\u5c71\u4e1c\u536b\u89c6",
-            "MultiCastURI": "239.77.0.53:5146"
+            "MultiCastURI": "239.77.0.94:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227215\/10000100000000060000000000988473_0.smil"
         },
         {
             "UserChannelID": "2208",
             "ChannelName": "\u6c5f\u897f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.54:5146"
+            "MultiCastURI": "239.77.0.149:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229779\/10000100000000060000000009575029_0.smil"
         },
         {
             "UserChannelID": "2209",
             "ChannelName": "\u6df1\u5733\u536b\u89c6",
-            "MultiCastURI": "239.77.0.55:5146"
+            "MultiCastURI": "239.77.0.92:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227267\/10000100000000060000000001141334_0.smil"
         },
         {
             "UserChannelID": "2210",
             "ChannelName": "\u6e56\u5317\u536b\u89c6",
-            "MultiCastURI": "239.77.0.56:5146"
+            "MultiCastURI": "239.77.0.95:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227322\/10000100000000060000000001141333_0.smil"
         },
         {
             "UserChannelID": "2211",
             "ChannelName": "\u8fbd\u5b81\u536b\u89c6",
-            "MultiCastURI": "239.77.0.57:5146"
+            "MultiCastURI": "239.77.0.123:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227608\/10000100000000060000000004547240_0.smil"
         },
         {
             "UserChannelID": "2212",
             "ChannelName": "\u9ed1\u9f99\u6c5f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.58:5146"
+            "MultiCastURI": "239.77.0.93:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227302\/10000100000000060000000001141347_0.smil"
         },
         {
             "UserChannelID": "2213",
             "ChannelName": "\u8d35\u5dde\u536b\u89c6",
-            "MultiCastURI": "239.77.0.59:5146"
+            "MultiCastURI": "239.77.0.230:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228286\/10000100000000060000000007781468_0.smil"
         },
         {
             "UserChannelID": "2214",
             "ChannelName": "\u56db\u5ddd\u536b\u89c6",
-            "MultiCastURI": "239.77.0.60:5146"
+            "MultiCastURI": "239.77.0.159:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227882\/10000100000000060000000006078789_0.smil"
         },
         {
             "UserChannelID": "2215",
             "ChannelName": "\u6cb3\u5357\u536b\u89c6",
-            "MultiCastURI": "239.77.0.61:5146"
+            "MultiCastURI": "239.77.0.17:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230114\/367378146.smil"
         },
         {
             "UserChannelID": "2216",
             "ChannelName": "\u4e91\u5357\u536b\u89c6",
-            "MultiCastURI": "239.77.0.62:5146"
+            "MultiCastURI": "239.253.43.100:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230270\/488774604.smil"
         },
         {
             "UserChannelID": "2217",
             "ChannelName": "\u91cd\u5e86\u536b\u89c6",
-            "MultiCastURI": "239.77.0.63:5146"
+            "MultiCastURI": "239.77.0.182:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227897\/10000100000000060000000006388228_0.smil"
         },
         {
             "UserChannelID": "2218",
             "ChannelName": "\u6cb3\u5317\u536b\u89c6",
-            "MultiCastURI": "239.77.0.64:5146"
+            "MultiCastURI": "239.77.0.148:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229830\/10000100000000060000000009574961_0.smil"
         },
         {
             "UserChannelID": "2219",
             "ChannelName": "\u4e1c\u5357\u536b\u89c6",
-            "MultiCastURI": "239.77.0.65:5146"
+            "MultiCastURI": "239.77.0.146:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229798\/10000100000000060000000009574969_0.smil"
         },
         {
             "UserChannelID": "2220",
             "ChannelName": "\u5e7f\u897f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.66:5146"
+            "MultiCastURI": "239.77.0.139:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229990\/10000100000000060000000010232875_0.smil"
         },
         {
             "UserChannelID": "2221",
             "ChannelName": "\u5409\u6797\u536b\u89c6",
-            "MultiCastURI": "239.77.0.67:5146"
+            "MultiCastURI": "239.77.0.150:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229881\/10000100000000060000000009574938_0.smil"
         },
         {
             "UserChannelID": "2222",
             "ChannelName": "\u9655\u897f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.68:5146"
+            "MultiCastURI": "239.77.0.68:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227090\/10000100000000060000000000937749_0.smil"
         },
         {
             "UserChannelID": "2223",
             "ChannelName": "\u5c71\u897f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.69:5146"
+            "MultiCastURI": "239.77.0.69:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227110\/10000100000000060000000000937735_0.smil"
         },
         {
             "UserChannelID": "2224",
             "ChannelName": "\u5185\u8499\u53e4\u536b\u89c6",
-            "MultiCastURI": "239.77.0.70:5146"
+            "MultiCastURI": "239.77.0.70:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227133\/10000100000000060000000000937736_0.smil"
         },
         {
             "UserChannelID": "2225",
             "ChannelName": "\u9752\u6d77\u536b\u89c6",
-            "MultiCastURI": "239.77.0.71:5146"
+            "MultiCastURI": "239.253.43.125:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230136\/594151287.smil"
         },
         {
             "UserChannelID": "2226",
-            "ChannelName": "\u65c5\u6e38\u536b\u89c6",
-            "MultiCastURI": "239.77.0.72:5146"
-        },
-        {
-            "UserChannelID": "2227",
-            "ChannelName": "\u5b81\u590f\u536b\u89c6",
-            "MultiCastURI": "239.77.0.73:5146"
-        },
-        {
-            "UserChannelID": "2228",
-            "ChannelName": "\u897f\u85cf\u536b\u89c6",
-            "MultiCastURI": "239.77.0.74:5146"
-        },
-        {
-            "UserChannelID": "2229",
-            "ChannelName": "\u65b0\u7586\u536b\u89c6",
-            "MultiCastURI": "239.77.0.75:5146"
+            "ChannelName": "\u6d77\u5357\u536b\u89c6",
+            "MultiCastURI": "239.253.43.101:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230178\/488773816.smil"
         },
         {
             "UserChannelID": "2230",
             "ChannelName": "\u7518\u8083\u536b\u89c6",
-            "MultiCastURI": "239.77.0.76:5146"
-        },
-        {
-            "UserChannelID": "2231",
-            "ChannelName": "\u5175\u56e2\u536b\u89c6",
-            "MultiCastURI": "239.77.0.77:5146"
+            "MultiCastURI": "239.77.0.189:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230176\/527111724.smil"
         },
         {
             "UserChannelID": "2233",
             "ChannelName": "\u5361\u9177\u52a8\u753b",
-            "MultiCastURI": "239.77.0.79:5146"
+            "MultiCastURI": "239.77.0.79:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227111\/10000100000000060000000000937814_0.smil"
         },
         {
             "UserChannelID": "2234",
             "ChannelName": "\u91d1\u9e70\u5361\u901a",
-            "MultiCastURI": "239.77.0.80:5146"
-        },
-        {
-            "UserChannelID": "2235",
-            "ChannelName": "\u70ab\u52a8\u5361\u901a",
-            "MultiCastURI": "239.77.0.81:5146"
+            "MultiCastURI": "239.77.0.164:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230141\/422706995.smil"
         },
         {
             "UserChannelID": "2236",
             "ChannelName": "CETV-1",
-            "MultiCastURI": "239.77.0.82:5146"
+            "MultiCastURI": "239.77.0.200:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228289\/10000100000000060000000007781467_0.smil"
         },
         {
             "UserChannelID": "2237",
             "ChannelName": "\u5c71\u4e1c\u6559\u80b2",
-            "MultiCastURI": "239.77.0.83:5146"
-        },
-        {
-            "UserChannelID": "2238",
-            "ChannelName": "\u8d22\u5bcc\u5929\u4e0b",
-            "MultiCastURI": "239.77.0.113:5146"
+            "MultiCastURI": "239.77.0.83:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227244\/10000100000000060000000000987144_0.smil"
         },
         {
             "UserChannelID": "2239",
             "ChannelName": "\u53a6\u95e8\u536b\u89c6",
-            "MultiCastURI": "239.77.0.96:5146"
+            "MultiCastURI": "239.77.0.96:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227312\/10000100000000060000000003100522_0.smil"
         },
         {
             "UserChannelID": "2240",
             "ChannelName": "\u4f18\u6f2b\u5361\u901a",
-            "MultiCastURI": "239.77.0.222:5146"
+            "MultiCastURI": "239.77.0.222:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228324\/10000100000000060000000007935406_0.smil"
         },
         {
             "UserChannelID": "2241",
             "ChannelName": "\u4e09\u6c99\u536b\u89c6",
-            "MultiCastURI": "239.77.0.152:5146"
+            "MultiCastURI": "239.253.43.113:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230306\/571071008.smil"
         },
         {
             "UserChannelID": "2242",
             "ChannelName": "\u5409\u6797\u5ef6\u8fb9\u536b\u89c6",
-            "MultiCastURI": "239.77.0.10:5146"
+            "MultiCastURI": "239.77.0.10:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221226940\/00000100000000060000000000554911_0.smil"
         },
         {
             "UserChannelID": "2243",
             "ChannelName": "CETV2",
-            "MultiCastURI": "239.77.0.28:5146"
+            "MultiCastURI": "239.77.0.28:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230017\/10000100000000060000000010698698_0.smil"
         },
         {
             "UserChannelID": "2244",
             "ChannelName": "CETV4",
-            "MultiCastURI": "239.77.0.29:5146"
-        },
-        {
-            "UserChannelID": "2300",
-            "ChannelName": "\u5e7f\u4e1c\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.84:5146"
-        },
-        {
-            "UserChannelID": "2301",
-            "ChannelName": "\u7ecf\u6d4e\u79d1\u6559\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.85:5146"
-        },
-        {
-            "UserChannelID": "2302",
-            "ChannelName": "\u5e7f\u4e1c\u4f53\u80b2\u9ad8\u6e05-\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.112:5146"
-        },
-        {
-            "UserChannelID": "2303",
-            "ChannelName": "\u5e7f\u4e1c\u73e0\u6c5f\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.1:5146"
+            "MultiCastURI": "239.253.43.114:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230118\/582786019.smil"
         },
         {
             "UserChannelID": "2373",
             "ChannelName": "CCTV-1\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.86:5146"
+            "MultiCastURI": "239.77.0.86:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227270\/10000100000000060000000001141346_0.smil"
         },
         {
             "UserChannelID": "2374",
             "ChannelName": "CCTV5\uff0b\u4f53\u80b2\u9ad8\u6e05-\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.87:5146"
+            "MultiCastURI": "239.77.0.87:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227192\/10000100000000060000000000987131_0.smil"
         },
         {
             "UserChannelID": "2375",
             "ChannelName": "CCTV-2\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.137:5146"
+            "MultiCastURI": "239.77.0.137:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227634\/10000100000000060000000004662503_0.smil"
         },
         {
             "UserChannelID": "2376",
-            "ChannelName": "CCTV-3\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.169:5146"
+            "ChannelName": "CCTV-3\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.169:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229838\/10000100000000060000000009924454_0.smil"
         },
         {
             "UserChannelID": "2377",
             "ChannelName": "CCTV-4\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.78:5146"
+            "MultiCastURI": "239.77.0.78:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229981\/10000100000000060000000010232874_0.smil"
         },
         {
             "UserChannelID": "2378",
-            "ChannelName": "CCTV-5\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.170:5146"
+            "ChannelName": "CCTV-5\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.170:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229857\/10000100000000060000000009924447_0.smil"
         },
         {
             "UserChannelID": "2379",
-            "ChannelName": "CCTV-6\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.171:5146"
+            "ChannelName": "CCTV-6\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.171:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229898\/10000100000000060000000009924445_0.smil"
         },
         {
             "UserChannelID": "2380",
             "ChannelName": "CCTV-7\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.138:5146"
+            "MultiCastURI": "239.77.0.138:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227620\/10000100000000060000000004662504_0.smil"
         },
         {
             "UserChannelID": "2381",
-            "ChannelName": "CCTV-8\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.172:5146"
+            "ChannelName": "CCTV-8\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.172:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229900\/10000100000000060000000009924385_0.smil"
         },
         {
             "UserChannelID": "2382",
             "ChannelName": "CCTV-9\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.135:5146"
+            "MultiCastURI": "239.77.0.135:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227617\/10000100000000060000000004662501_0.smil"
         },
         {
             "UserChannelID": "2383",
             "ChannelName": "CCTV-10\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.134:5146"
+            "MultiCastURI": "239.77.0.134:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227631\/10000100000000060000000004662500_0.smil"
         },
         {
             "UserChannelID": "2384",
             "ChannelName": "CCTV-11\u9ad8\u6e05",
-            "MultiCastURI": "239.77.1.238:5146"
+            "MultiCastURI": "239.77.1.238:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229858\/10000100000000060000000010595398_0.smil"
         },
         {
             "UserChannelID": "2385",
             "ChannelName": "CCTV-12\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.136:5146"
+            "MultiCastURI": "239.77.0.136:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227576\/10000100000000060000000004662502_0.smil"
+        },
+        {
+            "UserChannelID": "2386",
+            "ChannelName": "CCTV-13\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.188:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230039\/10000100000000060000000011392793_0.smil"
         },
         {
             "UserChannelID": "2387",
             "ChannelName": "CCTV-14\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.133:5146"
+            "MultiCastURI": "239.77.0.133:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227573\/10000100000000060000000004662499_0.smil"
         },
         {
             "UserChannelID": "2388",
             "ChannelName": "CCTV-15\u9ad8\u6e05",
-            "MultiCastURI": "239.77.1.239:5146"
+            "MultiCastURI": "239.77.1.239:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229902\/10000100000000060000000010595397_0.smil"
         },
         {
             "UserChannelID": "2389",
-            "ChannelName": "IPTV5\uff0b\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.176:5146"
+            "ChannelName": "\u7231\u4f53\u80b2\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.176:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227991\/10000100000000060000000006877797_0.smil"
+        },
+        {
+            "UserChannelID": "2390",
+            "ChannelName": "CCTV-16\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.165:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230225\/425398358.smil"
         },
         {
             "UserChannelID": "2391",
             "ChannelName": "CCTV-17\u519c\u4e1a\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.198:5146"
+            "MultiCastURI": "239.77.0.198:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229870\/10000100000000060000000010232873_0.smil"
         },
         {
-            "UserChannelID": "2400",
-            "ChannelName": "\u6e56\u5357\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.88:5146"
+            "UserChannelID": "2392",
+            "ChannelName": "CCTV4\u4e2d\u6587\u56fd\u9645\u6b27\u6d32\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.120:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230230\/594151338.smil"
         },
         {
-            "UserChannelID": "2401",
-            "ChannelName": "\u6d59\u6c5f\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.89:5146"
+            "UserChannelID": "2393",
+            "ChannelName": "CCTV4\u4e2d\u6587\u56fd\u9645\u7f8e\u6d32\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.121:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230076\/594151334.smil"
         },
         {
-            "UserChannelID": "2402",
-            "ChannelName": "\u6c5f\u82cf\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.90:5146"
+            "UserChannelID": "2394",
+            "ChannelName": "CGTN\u82f1\u8bed\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.199:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230162\/381195956.smil"
         },
         {
-            "UserChannelID": "2403",
-            "ChannelName": "\u5317\u4eac\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.91:5146"
+            "UserChannelID": "2395",
+            "ChannelName": "CGTN\u82f1\u6587\u8bb0\u5f55\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.122:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230201\/594590904.smil"
         },
         {
-            "UserChannelID": "2404",
-            "ChannelName": "\u6df1\u5733\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.92:5146"
+            "UserChannelID": "2396",
+            "ChannelName": "CGTN\u897f\u73ed\u7259\u8bed\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.221:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230171\/388096680.smil"
         },
         {
-            "UserChannelID": "2405",
-            "ChannelName": "\u9ed1\u9f99\u6c5f\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.93:5146"
+            "UserChannelID": "2397",
+            "ChannelName": "CGTN\u6cd5\u8bed\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.228:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230011\/388097126.smil"
         },
         {
-            "UserChannelID": "2406",
-            "ChannelName": "\u6e56\u5317\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.95:5146"
+            "UserChannelID": "2398",
+            "ChannelName": "CGTN\u963f\u62c9\u4f2f\u8bed\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.200:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230022\/388099935.smil"
         },
         {
-            "UserChannelID": "2407",
-            "ChannelName": "\u5929\u6d25\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.97:5146"
-        },
-        {
-            "UserChannelID": "2408",
-            "ChannelName": "\u5c71\u4e1c\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.94:5146"
-        },
-        {
-            "UserChannelID": "2409",
-            "ChannelName": "\u4e1c\u65b9\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.98:5146"
-        },
-        {
-            "UserChannelID": "2410",
-            "ChannelName": "BTV\u51ac\u5965\u7eaa\u5b9e\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.122:5146"
-        },
-        {
-            "UserChannelID": "2411",
-            "ChannelName": "\u8fbd\u5b81\u536b\u89c6 \u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.123:5146"
-        },
-        {
-            "UserChannelID": "2412",
-            "ChannelName": "\u56db\u5ddd\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.159:5146"
+            "UserChannelID": "2399",
+            "ChannelName": "CGTN\u4fc4\u8bed\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.201:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230077\/388096896.smil"
         },
         {
             "UserChannelID": "2413",
             "ChannelName": "\u91d1\u9e70\u7eaa\u5b9e\u9ad8\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.160:5146"
+            "MultiCastURI": "239.77.0.160:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227916\/10000100000000060000000006078790_0.smil"
         },
         {
-            "UserChannelID": "2414",
-            "ChannelName": "\u91cd\u5e86\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.182:5146"
+            "UserChannelID": "2436",
+            "ChannelName": "\u897f\u85cf\u536b\u89c6",
+            "MultiCastURI": "239.77.0.46:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230369\/817309967.smil"
         },
         {
-            "UserChannelID": "2415",
-            "ChannelName": "\u5b89\u5fbd\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.183:5146"
+            "UserChannelID": "2437",
+            "ChannelName": "\u65b0\u7586\u536b\u89c6",
+            "MultiCastURI": "239.77.0.47:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230148\/817310116.smil"
         },
         {
-            "UserChannelID": "2417",
-            "ChannelName": "\u8d35\u5dde\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.230:5146"
+            "UserChannelID": "2438",
+            "ChannelName": "\u5175\u56e2\u536b\u89c6",
+            "MultiCastURI": "239.77.0.48:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230282\/817309843.smil"
         },
         {
-            "UserChannelID": "2418",
-            "ChannelName": "\u4e2d\u56fd\u6559\u80b2-1\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.200:5146"
+            "UserChannelID": "2439",
+            "ChannelName": "\u5b81\u590f\u536b\u89c6",
+            "MultiCastURI": "239.77.0.49:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230378\/817310024.smil"
         },
         {
-            "UserChannelID": "2419",
-            "ChannelName": "\u4e2d\u56fd\u4ea4\u901a",
-            "MultiCastURI": "239.77.1.249:5146"
+            "UserChannelID": "2448",
+            "ChannelName": "\u5e7f\u4e1c\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.84:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230366\/840347059.smil"
         },
         {
-            "UserChannelID": "2421",
-            "ChannelName": "\u798f\u5efa\u4e1c\u5357\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.146:5146"
+            "UserChannelID": "2449",
+            "ChannelName": "\u4e1c\u65b9\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.98:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230336\/840337789.smil"
         },
         {
-            "UserChannelID": "2422",
-            "ChannelName": "\u4e0a\u6d77\u7eaa\u5b9e\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.147:5146"
+            "UserChannelID": "2450",
+            "ChannelName": "\u6e56\u5357\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.88:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230348\/840347077.smil"
         },
         {
-            "UserChannelID": "2423",
-            "ChannelName": "\u6cb3\u5317\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.148:5146"
+            "UserChannelID": "2451",
+            "ChannelName": "\u6c5f\u82cf\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.90:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230339\/840347110.smil"
         },
         {
-            "UserChannelID": "2424",
-            "ChannelName": "\u6c5f\u897f\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.149:5146"
+            "UserChannelID": "2452",
+            "ChannelName": "\u5c71\u4e1c\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.94:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230262\/840337793.smil"
         },
         {
-            "UserChannelID": "2425",
-            "ChannelName": "\u5409\u6797\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.150:5146"
+            "UserChannelID": "2453",
+            "ChannelName": "\u6df1\u5733\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.92:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230247\/840347071.smil"
         },
         {
-            "UserChannelID": "2426",
-            "ChannelName": "\u718a\u732b\u9891\u9053",
-            "MultiCastURI": "239.77.0.151:5146"
+            "UserChannelID": "2454",
+            "ChannelName": "\u56db\u5ddd\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.159:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230419\/840347075.smil"
         },
         {
-            "UserChannelID": "2427",
-            "ChannelName": "\u5e7f\u897f\u536b\u89c6\u9ad8\u6e05",
-            "MultiCastURI": "239.77.0.139:5146"
+            "UserChannelID": "2455",
+            "ChannelName": "\u6d59\u6c5f\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.89:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230410\/840347169.smil"
         },
         {
-            "UserChannelID": "2492",
-            "ChannelName": "CHC\u9ad8\u6e05\u7535\u5f71",
-            "MultiCastURI": "239.77.0.27:5146"
+            "UserChannelID": "2456",
+            "ChannelName": "\u5317\u4eac\u536b\u89c6\u65f6\u79fb\u4e13\u7528",
+            "MultiCastURI": "239.77.0.91:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230357\/840347063.smil"
         },
         {
             "UserChannelID": "2493",
             "ChannelName": "\u8336",
-            "MultiCastURI": "239.77.0.15:5146"
+            "MultiCastURI": "239.77.0.15:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229888\/10000100000000060000000010323146_0.smil"
         },
         {
             "UserChannelID": "2494",
             "ChannelName": "\u5feb\u4e50\u5782\u9493",
-            "MultiCastURI": "239.77.0.145:5146"
-        },
-        {
-            "UserChannelID": "2500",
-            "ChannelName": "\u5e7f\u4e1c\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.166:5146"
-        },
-        {
-            "UserChannelID": "2501",
-            "ChannelName": "\u7ecf\u6d4e\u79d1\u6559\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.167:5146"
+            "MultiCastURI": "239.77.0.145:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229928\/10000100000000060000000010323147_0.smil"
         },
         {
             "UserChannelID": "2502",
             "ChannelName": "\u5e7f\u4e1c\u4f53\u80b2\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.168:5146"
-        },
-        {
-            "UserChannelID": "2503",
-            "ChannelName": "\u5e7f\u4e1c\u73e0\u6c5f\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.114:5146"
+            "MultiCastURI": "239.77.0.168:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227818\/10000100000000060000000005076859_0.smil"
         },
         {
             "UserChannelID": "2511",
             "ChannelName": "CCTV-1\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.129:5146"
-        },
-        {
-            "UserChannelID": "2513",
-            "ChannelName": "CCTV-3\u8d85\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.175:5146"
+            "MultiCastURI": "239.77.0.129:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227610\/10000100000000060000000004462931_0.smil"
         },
         {
             "UserChannelID": "2515",
-            "ChannelName": "CCTV-5\u8d85\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.177:5146"
+            "ChannelName": "CCTV-5\u8d85\u6e05",
+            "MultiCastURI": "239.77.0.177:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229805\/10000100000000060000000009924448_0.smil"
         },
         {
-            "UserChannelID": "2516",
-            "ChannelName": "CCTV-6\u8d85\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.178:5146"
+            "UserChannelID": "2541",
+            "ChannelName": "\u5317\u4eac\u536b\u89c64K\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.2:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230255\/780168653.smil"
         },
         {
-            "UserChannelID": "2518",
-            "ChannelName": "CCTV-8\u8d85\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.181:5146"
+            "UserChannelID": "2542",
+            "ChannelName": "\u5317\u4eac\u536b\u89c64K\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.3:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230293\/780169344.smil"
         },
         {
-            "UserChannelID": "2521",
-            "ChannelName": "\u6e56\u5357\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.127:5146"
+            "UserChannelID": "2543",
+            "ChannelName": "\u6df1\u5733\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.67:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230273\/805916568.smil"
         },
         {
-            "UserChannelID": "2522",
-            "ChannelName": "\u6d59\u6c5f\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.125:5146"
+            "UserChannelID": "2544",
+            "ChannelName": "\u6c5f\u82cf\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.57:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230405\/831926590.smil"
         },
         {
-            "UserChannelID": "2523",
-            "ChannelName": "\u6c5f\u82cf\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.126:5146"
+            "UserChannelID": "2545",
+            "ChannelName": "\u6d59\u6c5f\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.58:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230199\/831926511.smil"
         },
         {
-            "UserChannelID": "2524",
-            "ChannelName": "\u6df1\u5733\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.130:5146"
+            "UserChannelID": "2546",
+            "ChannelName": "\u4e1c\u65b9\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.59:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230193\/831926507.smil"
         },
         {
-            "UserChannelID": "2525",
-            "ChannelName": "\u9ed1\u9f99\u6c5f\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.124:5146"
+            "UserChannelID": "2547",
+            "ChannelName": "\u56db\u5ddd\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.60:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230312\/831926586.smil"
         },
         {
-            "UserChannelID": "2526",
-            "ChannelName": "\u6e56\u5317\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.128:5146"
+            "UserChannelID": "2548",
+            "ChannelName": "\u5c71\u4e1c\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.61:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230318\/831926238.smil"
         },
         {
-            "UserChannelID": "2527",
-            "ChannelName": "\u5929\u6d25\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.131:5146"
-        },
-        {
-            "UserChannelID": "2528",
-            "ChannelName": "\u5c71\u4e1c\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.132:5146"
-        },
-        {
-            "UserChannelID": "2529",
-            "ChannelName": "BTV\u51ac\u5965\u7eaa\u5b9e\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.184:5146"
-        },
-        {
-            "UserChannelID": "2530",
-            "ChannelName": "\u8fbd\u5b81\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.161:5146"
-        },
-        {
-            "UserChannelID": "2531",
-            "ChannelName": "\u91d1\u9e70\u7eaa\u5b9e\u8d85\u6e05\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.162:5146"
-        },
-        {
-            "UserChannelID": "2532",
-            "ChannelName": "\u56db\u5ddd\u536b\u89c6\u8d85\u6e05",
-            "MultiCastURI": "239.77.0.163:5146"
+            "UserChannelID": "2549",
+            "ChannelName": "\u6e56\u5357\u536b\u89c64k\u8d85\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.56:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230356\/831926234.smil"
         },
         {
             "UserChannelID": "2600",
             "ChannelName": "IPTV\u8c0d\u6218\u5267\u573a",
-            "MultiCastURI": "239.77.0.99:5146"
+            "MultiCastURI": "239.77.0.99:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227158\/10000100000000060000000000937867_0.smil"
         },
         {
             "UserChannelID": "2601",
             "ChannelName": "IPTV\u76f8\u58f0\u5c0f\u54c1",
-            "MultiCastURI": "239.77.0.100:5146"
+            "MultiCastURI": "239.77.0.100:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227135\/10000100000000060000000000937845_0.smil"
         },
         {
             "UserChannelID": "2602",
             "ChannelName": "IPTV\u91ce\u5916",
-            "MultiCastURI": "239.77.0.101:5146"
+            "MultiCastURI": "239.77.0.101:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227190\/10000100000000060000000000937868_0.smil"
         },
         {
             "UserChannelID": "2603",
             "ChannelName": "IPTV\u6cd5\u6cbb",
-            "MultiCastURI": "239.77.0.102:5146"
+            "MultiCastURI": "239.77.0.102:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227155\/10000100000000060000000000937846_0.smil"
         },
         {
             "UserChannelID": "2604",
-            "ChannelName": "IPTV6\uff0b",
-            "MultiCastURI": "239.77.0.103:5146"
+            "ChannelName": "\u7231\u7535\u5f71",
+            "MultiCastURI": "239.77.0.103:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227021\/10000100000000060000000000698846_0.smil"
         },
         {
             "UserChannelID": "2605",
             "ChannelName": "\u7ecf\u5178\u7535\u5f71",
-            "MultiCastURI": "239.77.0.104:5146"
+            "MultiCastURI": "239.77.0.104:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227204\/10000100000000060000000000987156_0.smil"
         },
         {
             "UserChannelID": "2606",
-            "ChannelName": "IPTV8\uff0b",
-            "MultiCastURI": "239.77.0.105:5146"
+            "ChannelName": "\u7231\u5927\u5267",
+            "MultiCastURI": "239.77.0.105:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227012\/10000100000000060000000000698838_0.smil"
         },
         {
             "UserChannelID": "2607",
             "ChannelName": "\u70ed\u64ad\u5267\u573a",
-            "MultiCastURI": "239.77.0.106:5146"
+            "MultiCastURI": "239.77.0.106:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227203\/10000100000000060000000000987157_0.smil"
         },
         {
             "UserChannelID": "2608",
-            "ChannelName": "IPTV3\uff0b",
-            "MultiCastURI": "239.77.0.107:5146"
+            "ChannelName": "\u7231\u7efc\u827a",
+            "MultiCastURI": "239.77.0.107:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227024\/10000100000000060000000000698849_0.smil"
         },
         {
             "UserChannelID": "2609",
-            "ChannelName": "IPTV5\uff0b",
-            "MultiCastURI": "239.77.0.108:5146"
+            "ChannelName": "\u7231\u4f53\u80b2",
+            "MultiCastURI": "239.77.0.108:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227073\/10000100000000060000000000698847_0.smil"
         },
         {
             "UserChannelID": "2610",
             "ChannelName": "\u5c11\u513f\u52a8\u753b",
-            "MultiCastURI": "239.77.0.109:5146"
+            "MultiCastURI": "239.77.0.109:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227070\/10000100000000060000000000698839_0.smil"
         },
         {
             "UserChannelID": "2611",
             "ChannelName": "\u9b45\u529b\u65f6\u5c1a",
-            "MultiCastURI": "239.77.0.110:5146"
+            "MultiCastURI": "239.77.0.110:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227015\/10000100000000060000000000698840_0.smil"
         },
         {
             "UserChannelID": "2612",
             "ChannelName": "\u6536\u89c6\u6307\u5357",
-            "MultiCastURI": "239.77.0.111:5146"
-        },
-        {
-            "UserChannelID": "2613",
-            "ChannelName": "\u6781k\u5f71\u89c6-\u6d4b\u8bd5",
-            "MultiCastURI": "239.253.43.218:5146"
-        },
-        {
-            "UserChannelID": "2614",
-            "ChannelName": "\u7231\u4e0a4K",
-            "MultiCastURI": "239.253.43.219:5146"
-        },
-        {
-            "UserChannelID": "2617",
-            "ChannelName": "\u7ca4TV-\u7ca4\u835f\u8403",
-            "MultiCastURI": "239.77.1.188:5146"
-        },
-        {
-            "UserChannelID": "2619",
-            "ChannelName": "\u6781K\u7cbe\u9009-\u6d4b\u8bd5",
-            "MultiCastURI": "239.77.0.231:5146"
-        },
-        {
-            "UserChannelID": "2620",
-            "ChannelName": "\u7cbe\u90094k\u9891\u90531",
-            "MultiCastURI": "239.77.0.232:5146"
-        },
-        {
-            "UserChannelID": "2621",
-            "ChannelName": "\u7cbe\u90094k\u9891\u90532",
-            "MultiCastURI": "239.77.0.233:5146"
-        },
-        {
-            "UserChannelID": "2622",
-            "ChannelName": "4k\u6d4b\u8bd5\u9891\u90538",
-            "MultiCastURI": "239.77.0.249:5146"
+            "MultiCastURI": "239.77.0.111:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221227222\/10000100000000060000000000990034_0.smil"
         },
         {
             "UserChannelID": "2623",
             "ChannelName": "\u7cbe\u90094k\u9891\u90533",
-            "MultiCastURI": "239.77.0.153:5146"
+            "MultiCastURI": "239.77.0.153:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229891\/10000100000000060000000009714024_0.smil"
         },
         {
-            "UserChannelID": "2631",
-            "ChannelName": "\u8db3\u7403",
-            "MultiCastURI": "239.77.1.235:5146"
+            "UserChannelID": "2632",
+            "ChannelName": "\u6c42\u7d22\u7eaa\u5f55",
+            "MultiCastURI": "239.77.0.21:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230215\/448464250.smil"
+        },
+        {
+            "UserChannelID": "2710",
+            "ChannelName": "\u767e\u89c6\u901a\u4f53\u80b2\u76f4\u64ad\u5ba41",
+            "MultiCastURI": "239.253.43.115:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230067\/584365076.smil"
+        },
+        {
+            "UserChannelID": "2713",
+            "ChannelName": "\u767e\u89c6\u901a\u4f53\u80b2\u76f4\u64ad\u5ba44",
+            "MultiCastURI": "239.253.43.116:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230212\/580568512.smil"
+        },
+        {
+            "UserChannelID": "2714",
+            "ChannelName": "\u767e\u89c6\u901a\u4f53\u80b2\u76f4\u64ad\u5ba45",
+            "MultiCastURI": "239.253.43.117:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230221\/580568513.smil"
+        },
+        {
+            "UserChannelID": "2715",
+            "ChannelName": "\u767e\u89c6\u901a\u4f53\u80b2\u76f4\u64ad\u5ba46",
+            "MultiCastURI": "239.253.43.118:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230222\/580568330.smil"
+        },
+        {
+            "UserChannelID": "2716",
+            "ChannelName": "\u767e\u89c6\u901a\u4f53\u80b2\u76f4\u64ad\u5ba47",
+            "MultiCastURI": "239.253.43.119:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230058\/580568336.smil"
         },
         {
             "UserChannelID": "2801",
-            "ChannelName": "\u7b2c\u4e00\u5267\u573a",
-            "MultiCastURI": "239.77.0.201:5146"
-        },
-        {
-            "UserChannelID": "2802",
-            "ChannelName": "\u98ce\u4e91\u8db3\u7403",
-            "MultiCastURI": "239.77.0.202:5146"
-        },
-        {
-            "UserChannelID": "2803",
-            "ChannelName": "\u4e16\u754c\u5730\u7406",
-            "MultiCastURI": "239.77.0.203:5146"
-        },
-        {
-            "UserChannelID": "2804",
-            "ChannelName": "\u98ce\u4e91\u97f3\u4e50",
-            "MultiCastURI": "239.77.0.204:5146"
-        },
-        {
-            "UserChannelID": "2805",
-            "ChannelName": "\u98ce\u4e91\u5267\u573a",
-            "MultiCastURI": "239.77.0.205:5146"
-        },
-        {
-            "UserChannelID": "2806",
-            "ChannelName": "\u6000\u65e7\u5267\u573a",
-            "MultiCastURI": "239.77.0.206:5146"
-        },
-        {
-            "UserChannelID": "2807",
-            "ChannelName": "\u592e\u89c6\u7cbe\u54c1",
-            "MultiCastURI": "239.77.0.207:5146"
-        },
-        {
-            "UserChannelID": "2808",
-            "ChannelName": "\u5175\u5668\u79d1\u6280",
-            "MultiCastURI": "239.77.0.208:5146"
+            "ChannelName": "\u5929\u5143\u56f4\u68cb",
+            "MultiCastURI": "239.253.43.98:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230287\/486705742.smil"
         },
         {
             "UserChannelID": "2809",
             "ChannelName": "\u6c7d\u6469",
-            "MultiCastURI": "239.77.0.209:5146"
-        },
-        {
-            "UserChannelID": "2810",
-            "ChannelName": "\u68a8\u56ed",
-            "MultiCastURI": "239.77.0.210:5146"
-        },
-        {
-            "UserChannelID": "2811",
-            "ChannelName": "\u6e38\u620f\u7ade\u6280",
-            "MultiCastURI": "239.77.0.211:5146"
-        },
-        {
-            "UserChannelID": "2812",
-            "ChannelName": "\u9753\u5986",
-            "MultiCastURI": "239.77.0.212:5146"
-        },
-        {
-            "UserChannelID": "2813",
-            "ChannelName": "\u65e9\u671f\u6559\u80b2",
-            "MultiCastURI": "239.77.0.213:5146"
-        },
-        {
-            "UserChannelID": "2814",
-            "ChannelName": "\u5f69\u6c11\u5728\u7ebf",
-            "MultiCastURI": "239.77.0.214:5146"
-        },
-        {
-            "UserChannelID": "2816",
-            "ChannelName": "\u6b66\u672f\u4e16\u754c",
-            "MultiCastURI": "239.77.0.216:5146"
-        },
-        {
-            "UserChannelID": "2817",
-            "ChannelName": "\u592e\u89c6\u53f0\u7403",
-            "MultiCastURI": "239.77.0.217:5146"
-        },
-        {
-            "UserChannelID": "2818",
-            "ChannelName": "\u5973\u6027\u65f6\u5c1a",
-            "MultiCastURI": "239.77.0.218:5146"
-        },
-        {
-            "UserChannelID": "2819",
-            "ChannelName": "\u73b0\u4ee3\u5973\u6027",
-            "MultiCastURI": "239.77.0.219:5146"
+            "MultiCastURI": "239.77.0.209:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228288\/10000100000000060000000007935391_0.smil"
         },
         {
             "UserChannelID": "2820",
             "ChannelName": "\u8001\u6545\u4e8b",
-            "MultiCastURI": "239.77.0.220:5146"
-        },
-        {
-            "UserChannelID": "2821",
-            "ChannelName": "\u9ad8\u5c14\u592b\u7f51\u7403",
-            "MultiCastURI": "239.77.0.221:5146"
-        },
-        {
-            "UserChannelID": "2823",
-            "ChannelName": "\u4e2d\u5b66\u751f",
-            "MultiCastURI": "239.77.0.223:5146"
-        },
-        {
-            "UserChannelID": "2824",
-            "ChannelName": "\u73af\u7403\u5947\u89c2",
-            "MultiCastURI": "239.77.0.224:5146"
+            "MultiCastURI": "239.77.0.220:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228321\/10000100000000060000000007935393_0.smil"
         },
         {
             "UserChannelID": "2826",
             "ChannelName": "\u56fd\u5b66",
-            "MultiCastURI": "239.77.0.226:5146"
+            "MultiCastURI": "239.77.0.226:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228336\/10000100000000060000000007935402_0.smil"
         },
         {
-            "UserChannelID": "2827",
-            "ChannelName": "\u6587\u7269\u5b9d\u5e93",
-            "MultiCastURI": "239.77.0.227:5146"
+            "UserChannelID": "2829",
+            "ChannelName": "\u536b\u751f\u5065\u5eb7\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.212:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230258\/710573142.smil"
         },
         {
-            "UserChannelID": "2828",
-            "ChannelName": "\u7535\u89c6\u6307\u5357",
-            "MultiCastURI": "239.77.0.228:5146"
+            "UserChannelID": "2830",
+            "ChannelName": "\u5175\u5668\u79d1\u6280\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.18:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229974\/10000100000000060000000011037420_0.smil"
+        },
+        {
+            "UserChannelID": "2831",
+            "ChannelName": "\u7535\u89c6\u6307\u5357\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.19:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230003\/10000100000000060000000011037421_0.smil"
+        },
+        {
+            "UserChannelID": "2832",
+            "ChannelName": "\u98ce\u4e91\u8db3\u7403\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.20:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229930\/10000100000000060000000011037422_0.smil"
+        },
+        {
+            "UserChannelID": "2833",
+            "ChannelName": "\u592e\u89c6\u53f0\u7403\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.21:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230116\/10000100000000060000000011037423_0.smil"
+        },
+        {
+            "UserChannelID": "2834",
+            "ChannelName": "\u9ad8\u5c14\u592b\u7f51\u7403\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.22:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229987\/10000100000000060000000011037424_0.smil"
+        },
+        {
+            "UserChannelID": "2835",
+            "ChannelName": "\u5973\u6027\u65f6\u5c1a\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.23:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229950\/10000100000000060000000011037425_0.smil"
+        },
+        {
+            "UserChannelID": "2836",
+            "ChannelName": "\u4e16\u754c\u5730\u7406\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.24:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229959\/10000100000000060000000011037426_0.smil"
+        },
+        {
+            "UserChannelID": "2837",
+            "ChannelName": "\u6000\u65e7\u5267\u573a\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.25:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230063\/10000100000000060000000011037427_0.smil"
+        },
+        {
+            "UserChannelID": "2838",
+            "ChannelName": "\u98ce\u4e91\u5267\u573a\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.26:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221229941\/10000100000000060000000011037428_0.smil"
+        },
+        {
+            "UserChannelID": "2839",
+            "ChannelName": "\u592e\u89c6\u7cbe\u54c1\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.27:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230012\/10000100000000060000000011037429_0.smil"
+        },
+        {
+            "UserChannelID": "2840",
+            "ChannelName": "\u7b2c\u4e00\u5267\u573a\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.28:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230007\/10000100000000060000000011037430_0.smil"
+        },
+        {
+            "UserChannelID": "2841",
+            "ChannelName": "\u98ce\u4e91\u97f3\u4e50\u9ad8\u6e05",
+            "MultiCastURI": "239.253.43.29:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230021\/10000100000000060000000011039295_0.smil"
+        },
+        {
+            "UserChannelID": "2842",
+            "ChannelName": "\u65e9\u671f\u6559\u80b2\u9ad8\u6e05",
+            "MultiCastURI": "239.77.0.180:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230068\/381196675.smil"
         },
         {
             "UserChannelID": "2903",
             "ChannelName": "PPTV-1",
-            "MultiCastURI": "239.77.1.183:5146"
+            "MultiCastURI": "239.77.1.183:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228106\/10000100000000060000000007150580_0.smil"
         },
         {
             "UserChannelID": "2904",
             "ChannelName": "PPTV-2",
-            "MultiCastURI": "239.77.1.184:5146"
+            "MultiCastURI": "239.77.1.184:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228103\/10000100000000060000000007150363_0.smil"
         },
         {
             "UserChannelID": "2905",
             "ChannelName": "PPTV-3",
-            "MultiCastURI": "239.77.1.185:5146"
+            "MultiCastURI": "239.77.1.185:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228072\/10000100000000060000000007150362_0.smil"
         },
         {
             "UserChannelID": "2906",
             "ChannelName": "PPTV-4",
-            "MultiCastURI": "239.77.1.186:5146"
+            "MultiCastURI": "239.77.1.186:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228020\/10000100000000060000000007150361_0.smil"
         },
         {
             "UserChannelID": "2973",
             "ChannelName": "\u7cbe\u9009\u9891\u90532",
-            "MultiCastURI": "239.77.0.185:5146"
+            "MultiCastURI": "239.77.0.185:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228156\/10000100000000060000000007500384_0.smil"
+        },
+        {
+            "UserChannelID": "2979",
+            "ChannelName": "CCTV-1\u9ad8\u6e054M",
+            "MultiCastURI": "239.77.0.119:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230094\/641196808.smil"
         },
         {
             "UserChannelID": "2987",
             "ChannelName": "\u4e5d\u9891\u540c\u64ad\u9891\u9053",
-            "MultiCastURI": "239.0.10.115:5115"
+            "MultiCastURI": "239.0.10.115:5115",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221228039\/10000100000000060000000007011371_0.smil"
         },
         {
-            "UserChannelID": "2988",
-            "ChannelName": "\u7cbe\u9009\u9891\u90531",
-            "MultiCastURI": "239.77.0.186:5146"
+            "UserChannelID": "2989",
+            "ChannelName": "CCTV1-1M\u5f00\u673a\u6807\u6e05",
+            "MultiCastURI": "239.77.0.14:5146",
+            "TimeshiftURI": "rtsp:\/\/183.59.156.166\/PLTV\/88888905\/224\/3221230210\/631542866.smil"
         }
     ]
 }
