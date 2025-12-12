@@ -1,17 +1,15 @@
 #EXTM3U name="广东电信IPTV"
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清25p
+rtp://239.77.0.65:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
+rtp://239.77.1.16:5146
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 25p 4K
+rtp://239.77.0.27:5146
 #EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清
 rtp://239.77.0.244:5146
 #EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清 窄色域 30
 rtp://239.77.0.245:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清25p
-rtp://239.77.0.65:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清
-rtp://239.77.0.66:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
-rtp://239.77.1.96:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
-rtp://239.77.1.16:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
+#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K 宽色域AVS2(4k) (AVS2)
 rtp://239.77.0.252:5146
 #EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
 rtp://239.253.43.99:5146
@@ -41,6 +39,8 @@ rtp://239.77.0.57:5146
 rtp://239.77.1.36:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视4k超高清
 rtp://239.77.0.59:5146
+#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视 4K (AVS2)
+rtp://239.77.1.34:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
 rtp://239.77.0.232:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K超高清
@@ -55,11 +55,7 @@ rtp://239.77.0.61:5146
 rtp://239.77.1.37:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视4k超高清
 rtp://239.77.0.60:5146
-#EXTINF:-1,Unknown@239.77.0.27:5146
-rtp://239.77.0.27:5146
-#EXTINF:-1,Unknown@239.77.1.13:5146
-rtp://239.77.1.13:5146
-#EXTINF:-1,Unknown@239.77.1.38:5146 (AVS2)
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K (AVS2)
 rtp://239.77.1.38:5146
 #EXTINF:-1,精选4k频道3
 rtp://239.77.0.153:5146
