@@ -3,18 +3,12 @@
 rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
-rtp://239.77.1.97:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.1.12:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
-rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
 #EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
 rtp://239.253.43.99:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
-rtp://239.77.1.125:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPTV-央视",CCTV1-1M开机标清
@@ -97,32 +91,26 @@ rtp://239.77.1.35:5146
 rtp://239.253.43.126:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.77.1.198:5146
-#EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
-rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
-#EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
-rtp://239.77.1.105:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
-#EXTINF:-1,PPTV-2
-rtp://239.77.1.184:5146
 #EXTINF:-1,Unknown@239.77.1.175:5146
 rtp://239.77.1.175:5146
 #EXTINF:-1,广东IPTV广告
+rtp://239.77.0.193:5146
+#EXTINF:-1,广东IPTV广告
 rtp://239.77.0.241:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.240:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.191:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.193:5146
+rtp://239.77.0.190:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.240:5146
 #EXTINF:-1,百视通体育直播室1
 rtp://239.253.43.115:5146
 #EXTINF:-1,百视通体育直播室4
