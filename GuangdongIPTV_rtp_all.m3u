@@ -247,7 +247,7 @@ rtp://239.77.0.171:5146
 rtp://239.77.0.178:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7国防军事
 rtp://239.77.0.36:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 rtp://239.77.1.167:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 rtp://239.77.1.159:5146
@@ -271,7 +271,7 @@ rtp://239.77.0.135:5146
 rtp://239.77.0.39:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.169:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
 rtp://239.77.0.134:5146
@@ -287,7 +287,7 @@ rtp://239.77.0.41:5146
 rtp://239.77.1.109:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
 rtp://239.77.1.170:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
 rtp://239.77.1.190:5146
 #EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清测试
 rtp://239.77.0.136:5146
@@ -745,22 +745,20 @@ rtp://239.77.1.186:5146
 rtp://239.77.1.124:5146
 #EXTINF:-1,Unknown@239.77.1.171:5146 (CAVS)
 rtp://239.77.1.171:5146
-#EXTINF:-1,Unknown@239.77.1.175:5146
-rtp://239.77.1.175:5146
+#EXTINF:-1,Unknown@239.77.1.215:5146
+rtp://239.77.1.215:5146
+#EXTINF:-1,Unknown@239.77.1.219:5146
+rtp://239.77.1.219:5146
 #EXTINF:-1,Unknown@239.77.1.222:5146
 rtp://239.77.1.222:5146
 #EXTINF:-1,Unknown@239.77.1.229:5146
 rtp://239.77.1.229:5146
-#EXTINF:-1,Unknown@239.77.1.234:5146
-rtp://239.77.1.234:5146
 #EXTINF:-1,Unknown@239.77.1.242:5146
 rtp://239.77.1.242:5146
 #EXTINF:-1,Unknown@239.77.1.82:5146
 rtp://239.77.1.82:5146
 #EXTINF:-1,Unknown@239.77.1.83:5146
 rtp://239.77.1.83:5146
-#EXTINF:-1,Unknown@239.77.1.86:5146
-rtp://239.77.1.86:5146
 #EXTINF:-1,央视精品高清
 rtp://239.253.43.27:5146
 #EXTINF:-1,广东IPTV广告
