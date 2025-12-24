@@ -369,7 +369,7 @@ rtp://239.253.43.24:5146
 rtp://239.253.43.25:5146
 #EXTINF:-1 tvg-id="838" tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场高清
 rtp://239.253.43.26:5146
-#EXTINF:-1 tvg-id="839",央视精品高清
+#EXTINF:-1 tvg-id="839" tvg-name="央视精品" group-title="IPTV-央视网台",央视精品高清
 rtp://239.253.43.27:5146
 #EXTINF:-1 tvg-id="840" tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
 rtp://239.253.43.28:5146
