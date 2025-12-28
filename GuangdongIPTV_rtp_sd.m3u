@@ -47,8 +47,6 @@ rtp://239.77.0.44:5146
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.0.45:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
-rtp://239.77.1.27:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -89,16 +87,12 @@ rtp://239.77.0.222:5146
 rtp://239.77.0.28:5146
 #EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育
 rtp://239.77.0.83:5146
-#EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育卫视
-rtp://239.77.1.35:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.253.43.126:5146
-#EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
-rtp://239.77.1.198:5146
-#EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
-rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
+#EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
+rtp://239.77.1.105:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
@@ -107,6 +101,8 @@ rtp://239.77.1.205:5146
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
 rtp://239.77.1.183:5146
+#EXTINF:-1,PPTV-2
+rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
