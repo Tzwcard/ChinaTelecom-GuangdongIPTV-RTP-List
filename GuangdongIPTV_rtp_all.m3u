@@ -97,7 +97,7 @@ rtp://239.77.1.14:5146
 rtp://239.77.1.24:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
 rtp://239.77.1.191:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
 rtp://239.77.1.194:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
 rtp://239.77.1.176:5146
@@ -277,7 +277,7 @@ rtp://239.77.0.135:5146
 rtp://239.77.0.39:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
 rtp://239.77.1.169:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
 rtp://239.77.0.134:5146
@@ -307,7 +307,7 @@ rtp://239.77.0.188:5146
 rtp://239.77.0.43:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.171:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
 rtp://239.77.0.133:5146
@@ -381,7 +381,7 @@ rtp://239.77.0.90:5146
 rtp://239.77.0.7:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 rtp://239.77.1.18:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清 (CAVS)
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 rtp://239.77.1.149:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视4k超高清
 rtp://239.77.0.57:5146
@@ -763,20 +763,16 @@ rtp://239.77.1.184:5146
 rtp://239.77.1.185:5146
 #EXTINF:-1,PPTV-4
 rtp://239.77.1.186:5146
-#EXTINF:-1,Unknown@239.77.1.219:5146
-rtp://239.77.1.219:5146
-#EXTINF:-1,Unknown@239.77.1.234:5146
-rtp://239.77.1.234:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.191:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.190:5146
+rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.241:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.240:5146
+rtp://239.77.0.190:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.191:5146
 #EXTINF:-1,百视通体育直播室1
 rtp://239.253.43.115:5146
 #EXTINF:-1,百视通体育直播室4
