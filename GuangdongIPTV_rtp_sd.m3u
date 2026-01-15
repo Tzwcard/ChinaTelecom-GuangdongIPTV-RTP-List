@@ -5,6 +5,8 @@ rtp://239.77.1.94:5146
 rtp://239.77.1.97:5146
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视
 rtp://239.77.1.12:5146
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通
+rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
@@ -77,8 +79,6 @@ rtp://239.77.1.197:5146
 rtp://239.77.1.195:5146
 #EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
 rtp://239.253.43.127:5146
-#EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
-rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="卡酷动画" group-title="IPTV-数字付费",卡酷动画
 rtp://239.77.0.79:5146
 #EXTINF:-1 tvg-name="优漫卡通" group-title="IPTV-数字付费",优漫卡通
@@ -87,8 +87,12 @@ rtp://239.77.0.222:5146
 rtp://239.77.0.28:5146
 #EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育
 rtp://239.77.0.83:5146
+#EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育卫视
+rtp://239.77.1.35:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.253.43.126:5146
+#EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
+rtp://239.77.1.198:5146
 #EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
 rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
@@ -105,16 +109,18 @@ rtp://239.253.43.165:5146
 rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.193:5146
+#EXTINF:-1,Unknown@239.77.1.79:5146
+rtp://239.77.1.79:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.191:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.190:5146
+rtp://239.77.0.240:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.241:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.240:5146
+rtp://239.77.0.190:5146
 #EXTINF:-1,百视通体育直播室1
 rtp://239.253.43.115:5146
 #EXTINF:-1,百视通体育直播室4

@@ -93,7 +93,7 @@ rtp://239.77.0.67:5146
 rtp://239.77.0.130:5146
 #EXTINF:-1 tvg-name="深圳卫视 25p" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
 rtp://239.77.1.14:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
 rtp://239.77.1.24:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
 rtp://239.77.1.191:5146
@@ -307,7 +307,7 @@ rtp://239.77.0.188:5146
 rtp://239.77.0.43:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.171:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
 rtp://239.77.0.133:5146
@@ -387,7 +387,7 @@ rtp://239.77.1.149:5146
 rtp://239.77.0.57:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
 rtp://239.77.0.126:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视 4K (AVS2)
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视 4K
 rtp://239.77.1.36:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视时移专用(东方卫视)
 rtp://239.77.0.98:5146
@@ -437,7 +437,7 @@ rtp://239.77.0.94:5146
 rtp://239.77.0.8:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
 rtp://239.77.1.142:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清 (CAVS)
 rtp://239.77.1.153:5146
 #EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视4k超高清
 rtp://239.77.0.61:5146
@@ -767,16 +767,20 @@ rtp://239.77.1.186:5146
 rtp://239.77.1.219:5146
 #EXTINF:-1,Unknown@239.77.1.234:5146
 rtp://239.77.1.234:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.193:5146
+#EXTINF:-1,Unknown@239.77.1.77:5146
+rtp://239.77.1.77:5146
+#EXTINF:-1,Unknown@239.77.1.79:5146
+rtp://239.77.1.79:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.191:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.190:5146
+rtp://239.77.0.240:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.241:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.240:5146
+rtp://239.77.0.190:5146
 #EXTINF:-1,百视通体育直播室1
 rtp://239.253.43.115:5146
 #EXTINF:-1,百视通体育直播室4
