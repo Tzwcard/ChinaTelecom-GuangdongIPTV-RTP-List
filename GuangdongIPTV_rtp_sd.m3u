@@ -1,4 +1,6 @@
 #EXTM3U name="广东电信IPTV"
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清
+rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
@@ -9,6 +11,8 @@ rtp://239.77.1.12:5146
 rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
 rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
@@ -51,8 +55,8 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
-rtp://239.77.1.174:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视4k超高清
+rtp://239.77.0.61:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -73,8 +77,14 @@ rtp://239.77.0.96:5146
 rtp://239.77.1.117:5146
 #EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",吉林延边卫视
 rtp://239.77.0.10:5146
+#EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",延边卫视
+rtp://239.77.1.99:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
 rtp://239.77.0.220:5146
+#EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
+rtp://239.77.1.197:5146
+#EXTINF:-1 tvg-name="中学生" group-title="IPTV-央视网台",中学生
+rtp://239.77.1.195:5146
 #EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
 rtp://239.253.43.127:5146
 #EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
@@ -101,6 +111,8 @@ rtp://239.77.0.226:5146
 rtp://239.77.1.105:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.0.209:5146
+#EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
+rtp://239.77.1.205:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
@@ -110,13 +122,13 @@ rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.240:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.241:5146
+rtp://239.77.0.191:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
-rtp://239.77.0.191:5146
+rtp://239.77.0.241:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.240:5146
 #EXTINF:-1,百视通体育直播室1
 rtp://239.253.43.115:5146
 #EXTINF:-1,百视通体育直播室4
@@ -127,7 +139,5 @@ rtp://239.253.43.117:5146
 rtp://239.253.43.118:5146
 #EXTINF:-1,百视通体育直播室7
 rtp://239.253.43.119:5146
-#EXTINF:-1,精选4k频道3
-rtp://239.77.0.153:5146
 #EXTINF:-1,精选频道1
 rtp://239.77.0.186:5146
