@@ -13,7 +13,7 @@ rtp://239.77.0.65:5146
 rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
 rtp://239.77.1.96:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
 rtp://239.77.1.16:5146
@@ -253,7 +253,7 @@ rtp://239.77.0.171:5146
 rtp://239.77.0.178:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7国防军事
 rtp://239.77.0.36:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
+#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清 (CAVS)
 rtp://239.77.1.167:5146
 #EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
 rtp://239.77.1.159:5146
@@ -353,7 +353,7 @@ rtp://239.77.0.88:5146
 rtp://239.77.0.6:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
 rtp://239.77.1.5:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
+#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清 (CAVS)
 rtp://239.77.1.129:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视4k超高清
 rtp://239.77.0.56:5146
@@ -373,7 +373,7 @@ rtp://239.77.1.33:5146
 rtp://239.77.0.58:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
 rtp://239.77.0.125:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视 4K
+#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视 4K (AVS2)
 rtp://239.77.1.32:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视时移专用(江苏卫视)
 rtp://239.77.0.90:5146
@@ -387,7 +387,7 @@ rtp://239.77.1.149:5146
 rtp://239.77.0.57:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
 rtp://239.77.0.126:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视 4K
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视 4K (AVS2)
 rtp://239.77.1.36:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视时移专用(东方卫视)
 rtp://239.77.0.98:5146
@@ -399,7 +399,7 @@ rtp://239.77.1.156:5146
 rtp://239.77.1.218:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视4k超高清
 rtp://239.77.0.59:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视 4K
+#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视 4K (AVS2)
 rtp://239.77.1.34:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视
 rtp://239.77.0.183:5146
@@ -483,7 +483,7 @@ rtp://239.77.1.215:5146
 rtp://239.77.0.60:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
 rtp://239.77.0.163:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K (AVS2)
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K
 rtp://239.77.1.38:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
 rtp://239.77.0.17:5146
