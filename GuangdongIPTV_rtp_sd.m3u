@@ -1,6 +1,4 @@
 #EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清
-rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
 rtp://239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育（深圳）
@@ -9,8 +7,8 @@ rtp://239.77.1.97:5146
 rtp://239.77.1.12:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
-rtp://239.253.43.99:5146
+#EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
+rtp://239.77.1.175:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPTV-央视",CCTV1-1M开机标清
@@ -51,8 +49,10 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视4K超高清
-rtp://239.77.0.3:5146
+#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视 4K
+rtp://239.77.0.233:5146
+#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
+rtp://239.77.1.174:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -111,6 +111,8 @@ rtp://239.77.1.205:5146
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
 rtp://239.77.1.183:5146
+#EXTINF:-1,PPTV-2
+rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
