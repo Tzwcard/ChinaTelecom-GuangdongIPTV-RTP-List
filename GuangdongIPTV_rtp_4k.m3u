@@ -2,21 +2,21 @@
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视4k超高清25p
 rtp://239.77.0.65:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
-rtp://239.77.1.96:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
 rtp://239.77.1.16:5146
 #EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清
 rtp://239.77.0.244:5146
 #EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K超高清 窄色域 30
 rtp://239.77.0.245:5146
+#EXTINF:-1 tvg-name="广东4K" group-title="IPTV-广东电视台",广东4K 4K
+rtp://239.77.1.237:5146
 #EXTINF:-1 tvg-name="深圳卫视4k超" group-title="IPTV-深圳电视台",深圳卫视4k超高清
 rtp://239.77.0.67:5146
 #EXTINF:-1 tvg-name="深圳卫视 25p" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
 rtp://239.77.1.14:5146
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
+rtp://239.77.1.24:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
 rtp://239.77.1.191:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
-rtp://239.77.1.194:5146
 #EXTINF:-1 tvg-name="CCTV4K" group-title="IPTV-央视",CCTV4K-25P
 rtp://239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
@@ -51,3 +51,5 @@ rtp://239.77.0.60:5146
 rtp://239.77.1.38:5146
 #EXTINF:-1,Unknown@239.77.0.18:5146
 rtp://239.77.0.18:5146
+#EXTINF:-1,Unknown@239.77.0.218:5146
+rtp://239.77.0.218:5146
