@@ -9,8 +9,6 @@ rtp://239.77.1.12:5146
 rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
-rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPTV-央视",CCTV1-1M开机标清
@@ -49,8 +47,8 @@ rtp://239.77.0.44:5146
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.0.45:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
-rtp://239.77.1.27:5146
+#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视4k超高清
+rtp://239.77.0.61:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -71,6 +69,8 @@ rtp://239.77.0.96:5146
 rtp://239.77.1.117:5146
 #EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",吉林延边卫视
 rtp://239.77.0.10:5146
+#EXTINF:-1 tvg-name="延边卫视" group-title="IPTV-卫视",延边卫视
+rtp://239.77.1.99:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
 rtp://239.77.0.220:5146
 #EXTINF:-1 tvg-name="老故事" group-title="IPTV-央视网台",老故事
@@ -79,6 +79,8 @@ rtp://239.77.1.197:5146
 rtp://239.77.1.195:5146
 #EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
 rtp://239.253.43.127:5146
+#EXTINF:-1 tvg-name="发现之旅" group-title="IPTV-央视网台",发现之旅
+rtp://239.77.1.112:5146
 #EXTINF:-1 tvg-name="卡酷动画" group-title="IPTV-数字付费",卡酷动画
 rtp://239.77.0.79:5146
 #EXTINF:-1 tvg-name="优漫卡通" group-title="IPTV-数字付费",优漫卡通
@@ -93,6 +95,8 @@ rtp://239.77.1.35:5146
 rtp://239.253.43.126:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.77.1.198:5146
+#EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
+rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
@@ -101,14 +105,10 @@ rtp://239.77.1.105:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
-#EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
-rtp://239.77.1.85:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
 #EXTINF:-1,PPTV-1
 rtp://239.77.1.183:5146
-#EXTINF:-1,PPTV-2
-rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
