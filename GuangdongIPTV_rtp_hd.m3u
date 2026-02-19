@@ -5,8 +5,6 @@ rtp://239.77.0.84:5146
 rtp://239.77.0.4:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 rtp://239.77.1.152:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-rtp://239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
 #EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江
@@ -52,6 +50,10 @@ rtp://239.77.0.9:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 rtp://239.77.1.3:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
+rtp://239.77.1.107:5146
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
+rtp://239.77.1.189:5146
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
 rtp://239.77.1.148:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视超清
 rtp://239.77.0.130:5146
@@ -61,8 +63,6 @@ rtp://239.77.1.176:5146
 rtp://239.77.1.124:5146
 #EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
 rtp://239.77.1.177:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
-rtp://239.77.1.125:5146
 #EXTINF:-1 tvg-name="深圳少儿频道" group-title="IPTV-深圳电视台",深圳少儿频道高清
 rtp://239.77.1.244:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
@@ -162,8 +162,6 @@ rtp://239.77.0.175:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 rtp://239.77.1.163:5146
 #EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
-rtp://239.77.1.166:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
 rtp://239.77.0.78:5146
 #EXTINF:-1 tvg-name="CCTV4中文国际美洲" group-title="IPTV-央视",CCTV4中文国际美洲高清
 rtp://239.253.43.121:5146
@@ -175,8 +173,6 @@ rtp://239.77.0.170:5146
 rtp://239.77.0.177:5146
 #EXTINF:-1 tvg-name="CCTV5+" group-title="IPTV-央视",CCTV5+体育高清-测试
 rtp://239.77.0.87:5146
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
-rtp://239.77.1.31:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
 rtp://239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清 (CAVS)
@@ -197,8 +193,6 @@ rtp://239.77.1.160:5146
 rtp://239.77.1.168:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清测试
 rtp://239.77.0.135:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
-rtp://239.77.1.113:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
 rtp://239.77.1.169:5146
 #EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
@@ -219,8 +213,6 @@ rtp://239.77.0.136:5146
 rtp://239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
 rtp://239.77.0.188:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
-rtp://239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
 rtp://239.77.1.171:5146
 #EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
@@ -261,8 +253,6 @@ rtp://239.77.0.127:5146
 rtp://239.77.0.89:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
 rtp://239.77.0.12:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清 (CAVS)
-rtp://239.77.1.150:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
 rtp://239.77.1.33:5146
 #EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
@@ -271,8 +261,8 @@ rtp://239.77.0.125:5146
 rtp://239.77.0.90:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
 rtp://239.77.0.7:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
-rtp://239.77.1.18:5146
+#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清 (CAVS)
+rtp://239.77.1.149:5146
 #EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
 rtp://239.77.0.126:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视时移专用(东方卫视)
@@ -281,8 +271,6 @@ rtp://239.77.0.98:5146
 rtp://239.77.0.5:5146
 #EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清 (CAVS)
 rtp://239.77.1.156:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
-rtp://239.77.1.218:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视
 rtp://239.77.0.183:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
@@ -299,6 +287,8 @@ rtp://239.77.1.4:5146
 rtp://239.77.0.233:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视
 rtp://239.77.0.97:5146
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
+rtp://239.77.1.182:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 rtp://239.77.1.141:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
@@ -321,6 +311,8 @@ rtp://239.77.1.219:5146
 rtp://239.77.0.95:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
 rtp://239.77.1.93:5146
+#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
+rtp://239.77.1.174:5146
 #EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视超清
 rtp://239.77.0.128:5146
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视
@@ -331,6 +323,8 @@ rtp://239.77.1.103:5146
 rtp://239.77.0.161:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视
 rtp://239.77.0.93:5146
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
+rtp://239.77.1.6:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
 rtp://239.77.1.179:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视超清
@@ -349,6 +343,8 @@ rtp://239.77.1.215:5146
 rtp://239.77.0.163:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
 rtp://239.77.0.17:5146
+#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
+rtp://239.77.1.229:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视
 rtp://239.253.43.100:5146
 #EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
@@ -363,8 +359,6 @@ rtp://239.77.0.148:5146
 rtp://239.77.1.214:5146
 #EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视
 rtp://239.77.0.146:5146
-#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视高清
-rtp://239.77.1.104:5146
 #EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视
 rtp://239.77.0.139:5146
 #EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视高清
@@ -387,12 +381,8 @@ rtp://239.253.43.35:5146
 rtp://239.77.0.49:5146
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视高清
 rtp://239.77.1.28:5146
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="IPTV-卫视",宁夏卫视高清
-rtp://239.77.1.246:5146
 #EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视
 rtp://239.77.0.46:5146
-#EXTINF:-1 tvg-name="西藏卫视" group-title="IPTV-卫视",西藏卫视高清
-rtp://239.77.1.26:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视
 rtp://239.77.0.47:5146
 #EXTINF:-1 tvg-name="新疆卫视" group-title="IPTV-卫视",新疆卫视高清
@@ -403,6 +393,8 @@ rtp://239.77.1.25:5146
 rtp://239.77.0.189:5146
 #EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视
 rtp://239.77.0.48:5146
+#EXTINF:-1 tvg-name="兵团卫视" group-title="IPTV-卫视",兵团卫视高清
+rtp://239.77.1.29:5146
 #EXTINF:-1 tvg-name="三沙卫视" group-title="IPTV-卫视",三沙卫视
 rtp://239.253.43.113:5146
 #EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
@@ -489,14 +481,6 @@ rtp://239.77.0.21:5146
 rtp://239.253.43.98:5146
 #EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩青少高清
 rtp://239.77.1.22:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩广场舞高清
-rtp://239.77.1.23:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩竞技高清
-rtp://239.77.1.20:5146
-#EXTINF:-1 tvg-name="睛彩" group-title="IPTV-数字付费",睛彩篮球高清
-rtp://239.77.1.21:5146
-#EXTINF:-1 tvg-name="IPTV1" group-title="IPTV-IPTV频道",IPTV1高清
-rtp://239.77.1.7:5146
 #EXTINF:-1 tvg-name="IPTV2" group-title="IPTV-IPTV频道",IPTV2高清
 rtp://239.77.1.8:5146
 #EXTINF:-1 tvg-name="IPTV爱综艺" group-title="IPTV-IPTV频道",爱综艺
@@ -508,6 +492,8 @@ rtp://239.77.1.10:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育
 rtp://239.77.0.108:5146
 #EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
+rtp://239.77.1.116:5146
+#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
 rtp://239.77.0.176:5146
 #EXTINF:-1 tvg-name="IPTV爱电影" group-title="IPTV-IPTV频道",爱电影
 rtp://239.77.0.103:5146
@@ -517,12 +503,8 @@ rtp://239.77.1.138:5146
 rtp://239.77.0.105:5146
 #EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
 rtp://239.77.0.99:5146
-#EXTINF:-1 tvg-name="IPTV谍战剧场" group-title="IPTV-IPTV频道",IPTV谍战剧场
-rtp://239.77.1.83:5146
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="IPTV-IPTV频道",IPTV相声小品
 rtp://239.77.0.100:5146
-#EXTINF:-1 tvg-name="IPTV相声小品" group-title="IPTV-IPTV频道",IPTV相声小品
-rtp://239.77.1.84:5146
 #EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
 rtp://239.77.0.101:5146
 #EXTINF:-1 tvg-name="IPTV野外" group-title="IPTV-IPTV频道",IPTV野外
@@ -545,10 +527,10 @@ rtp://239.77.0.106:5146
 rtp://239.77.1.90:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",少儿动画
 rtp://239.77.0.109:5146
+#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV-IPTV频道",IPTV少儿动画
+rtp://239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV收视指南" group-title="IPTV-IPTV频道",收视指南
 rtp://239.77.0.111:5146
-#EXTINF:-1,Unknown@239.77.1.234:5146
-rtp://239.77.1.234:5146
 #EXTINF:-1,精选4k频道3
 rtp://239.77.0.153:5146
 #EXTINF:-1,精选频道2
