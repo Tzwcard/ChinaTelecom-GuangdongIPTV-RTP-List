@@ -13,7 +13,7 @@ rtp://239.77.0.65:5146
 rtp://239.77.0.66:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
 rtp://239.77.0.166:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K
+#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
 rtp://239.77.1.96:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K (AVS2)
 rtp://239.77.1.16:5146
@@ -269,7 +269,7 @@ rtp://239.77.0.181:5146
 rtp://239.77.0.38:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
 rtp://239.77.1.160:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清 (CAVS)
+#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
 rtp://239.77.1.168:5146
 #EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清测试
 rtp://239.77.0.135:5146
