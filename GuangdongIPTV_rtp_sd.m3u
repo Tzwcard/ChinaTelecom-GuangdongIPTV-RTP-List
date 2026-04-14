@@ -49,10 +49,6 @@ rtp://239.77.0.44:5146
 rtp://239.77.0.115:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.0.45:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
-rtp://239.77.1.27:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视4k超高清
-rtp://239.77.0.56:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -107,8 +103,12 @@ rtp://239.77.1.105:5146
 rtp://239.77.0.209:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
+#EXTINF:-1,PPTV-1
+rtp://239.77.1.183:5146
 #EXTINF:-1,PPTV-2
 rtp://239.77.1.184:5146
+#EXTINF:-1,广东IPTV广告
+rtp://239.77.0.193:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
@@ -117,8 +117,6 @@ rtp://239.77.0.241:5146
 rtp://239.77.0.190:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.191:5146
-#EXTINF:-1,广东IPTV广告
-rtp://239.77.0.193:5146
 #EXTINF:-1,百视通体育直播室1
 rtp://239.253.43.115:5146
 #EXTINF:-1,百视通体育直播室4
