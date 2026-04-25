@@ -11,14 +11,16 @@ rtp://239.77.1.12:5146
 rtp://239.77.1.15:5146
 #EXTINF:-1 tvg-name="广东移动" group-title="IPTV-广东电视台",广东移动
 rtp://239.77.0.20:5146
-#EXTINF:-1 tvg-name="深圳移动电视" group-title="IPTV-深圳电视台",深圳移动电视
-rtp://239.77.1.175:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市4K
+rtp://239.253.43.99:5146
 #EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海
 rtp://239.77.0.236:5146
 #EXTINF:-1 tvg-name="CCTV1" group-title="IPTV-央视",CCTV1-1M开机标清
 rtp://239.77.0.14:5146
 #EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1综合
 rtp://239.77.0.30:5146
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
+rtp://239.77.1.17:5146
 #EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2财经
 rtp://239.77.0.31:5146
 #EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3综艺
@@ -53,8 +55,6 @@ rtp://239.77.0.115:5146
 rtp://239.77.0.45:5146
 #EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN
 rtp://239.77.1.27:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
-rtp://239.77.1.151:5146
 #EXTINF:-1 tvg-name="陕西卫视" group-title="IPTV-卫视",陕西卫视
 rtp://239.77.0.68:5146
 #EXTINF:-1 tvg-name="山西卫视" group-title="IPTV-卫视",山西卫视
@@ -93,22 +93,28 @@ rtp://239.77.0.222:5146
 rtp://239.77.0.28:5146
 #EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育
 rtp://239.77.0.83:5146
+#EXTINF:-1 tvg-name="山东教育" group-title="IPTV-数字付费",山东教育卫视
+rtp://239.77.1.35:5146
 #EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
 rtp://239.77.0.15:5146
 #EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
 rtp://239.253.43.126:5146
-#EXTINF:-1 tvg-name="环球奇观" group-title="IPTV-数字付费",环球奇观
-rtp://239.77.1.198:5146
 #EXTINF:-1 tvg-name="书画" group-title="IPTV-数字付费",书画频道
 rtp://239.77.1.115:5146
 #EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学
 rtp://239.77.0.226:5146
+#EXTINF:-1 tvg-name="国学" group-title="IPTV-数字付费",国学频道
+rtp://239.77.1.105:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.0.209:5146
 #EXTINF:-1 tvg-name="汽摩" group-title="IPTV-数字付费",汽摩
 rtp://239.77.1.205:5146
 #EXTINF:-1,EBU
 rtp://239.253.43.165:5146
+#EXTINF:-1,PPTV-1
+rtp://239.77.1.183:5146
+#EXTINF:-1,PPTV-2
+rtp://239.77.1.184:5146
 #EXTINF:-1,广东IPTV广告
 rtp://239.77.0.240:5146
 #EXTINF:-1,广东IPTV广告
