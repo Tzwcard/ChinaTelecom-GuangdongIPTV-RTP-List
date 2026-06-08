@@ -93,11 +93,11 @@ rtp://239.77.0.67:5146
 rtp://239.77.0.130:5146
 #EXTINF:-1 tvg-name="深圳卫视 25p" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
 rtp://239.77.1.14:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
 rtp://239.77.1.24:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
 rtp://239.77.1.191:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K (AVS2)
+#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视 4K
 rtp://239.77.1.194:5146
 #EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
 rtp://239.77.1.176:5146
@@ -409,7 +409,7 @@ rtp://239.77.1.34:5146
 rtp://239.77.0.183:5146
 #EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
 rtp://239.77.1.92:5146
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
+#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清 (CAVS)
 rtp://239.77.1.157:5146
 #EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视时移专用(北京卫视)
 rtp://239.77.0.91:5146
@@ -429,7 +429,7 @@ rtp://239.77.0.233:5146
 rtp://239.77.1.13:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视
 rtp://239.77.0.97:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
+#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清 (CAVS)
 rtp://239.77.1.182:5146
 #EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
 rtp://239.77.1.141:5146
@@ -489,7 +489,7 @@ rtp://239.77.1.215:5146
 rtp://239.77.0.60:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
 rtp://239.77.0.163:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K (AVS2)
+#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K
 rtp://239.77.1.38:5146
 #EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视
 rtp://239.77.0.17:5146
